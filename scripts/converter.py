@@ -10,7 +10,7 @@ import pystache
 from pprint import *
 
 def help():
-	print("Converter list games in json to github markdown.\n")
+	print("Converter osgame yaml data to github markdown.\n")
 	print("Usage:")
 	print("\t -o <file>, --output <file> \t Set the output file")
 	print("\t -t <file>, --template <file> \t Set the template file (in mustache syntax)")
