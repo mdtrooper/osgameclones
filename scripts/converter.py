@@ -5,6 +5,7 @@ import sys
 from getopt import *
 import json
 import pystache
+import yaml
 
 # Debug
 from pprint import *
@@ -14,7 +15,7 @@ def help():
 	print("Usage:")
 	print("\t -o <file>, --output <file> \t Set the output file")
 	print("\t -t <file>, --template <file> \t Set the template file (in mustache syntax)")
-	print("\t -d <file>, --data <file> \t Set the data file (in json syntax)")
+	print("\t -d <file>, --data <file> \t Set the data file (in yaml syntax)")
 	print("\t -h, --help \t\t\t Show this help")
 
 def mardown_anchor_link(text):
@@ -40,62 +41,82 @@ def mardown_anchor_anchor(text):
 	
 	return return_var
 
-def get_categories(data):
-	categories = set()
+def get_original_games(data):
+	original_games = set()
 	
-	for game in data['games']:
-		categories.add(game['category'])
+	for clone in data:
+		#~ if 'name' in clone:
+			#~ print(clone['name'])
+		#~ if 'names' in clone:
+			#~ print(clone['names'])
 	
-	categories = list(categories)
+	# They are with name key:
+	# name
+	# [name, url wiki]
 	
-	return categories
+	# They are with names key:
+	# [name, name]
+	# [[name, url wiki], [name, url wiki]]
+	
+	return original_games
 
-def get_systems(data):
-	systems = set()
-	
-	for game in data['games']:
-		systems.add(game['system'])
-	
-	systems = list(systems)
-	
-	return systems
-
-def is_any_game_with_category_and_system(data, category, system):
-	return_var = False
-	
-	for game in data['games']:
-		if game['category'] == category and game['system'] == system:
-			return_var = True
-			break
-	
-	return return_var
-
-def get_sort_games(data, system, category):
-	return_var = []
-	
-	for game in data['games']:
-		if game['category'] == category and game['system'] == system:
-			item = {}
-			item['title'] = game['title']
-			item['description'] = game['description']
-			item['repository'] = game['repository']
-			if 'play_it_now' in game:
-				item['play_it_now'] = game['play_it_now']
-			
-			if not return_var:
-				return_var.append(item)
-			else:
-				inserted = False
-				for index, value in enumerate(return_var):
-					if value['title'] > item['title']:
-						return_var.insert(index - 1, item)
-						inserted = True
-						break
-				
-				if not inserted:
-					return_var.append(item)
-	
-	return return_var
+#~ 
+#~ def get_categories(data):
+	#~ categories = set()
+	#~ 
+	#~ for game in data['games']:
+		#~ categories.add(game['category'])
+	#~ 
+	#~ categories = list(categories)
+	#~ 
+	#~ return categories
+#~ 
+#~ def get_systems(data):
+	#~ systems = set()
+	#~ 
+	#~ for game in data['games']:
+		#~ systems.add(game['system'])
+	#~ 
+	#~ systems = list(systems)
+	#~ 
+	#~ return systems
+#~ 
+#~ def is_any_game_with_category_and_system(data, category, system):
+	#~ return_var = False
+	#~ 
+	#~ for game in data['games']:
+		#~ if game['category'] == category and game['system'] == system:
+			#~ return_var = True
+			#~ break
+	#~ 
+	#~ return return_var
+#~ 
+#~ def get_sort_games(data, system, category):
+	#~ return_var = []
+	#~ 
+	#~ for game in data['games']:
+		#~ if game['category'] == category and game['system'] == system:
+			#~ item = {}
+			#~ item['title'] = game['title']
+			#~ item['description'] = game['description']
+			#~ item['repository'] = game['repository']
+			#~ if 'play_it_now' in game:
+				#~ item['play_it_now'] = game['play_it_now']
+			#~ 
+			#~ if not return_var:
+				#~ return_var.append(item)
+			#~ else:
+				#~ inserted = False
+				#~ for index, value in enumerate(return_var):
+					#~ if value['title'] > item['title']:
+						#~ return_var.insert(index - 1, item)
+						#~ inserted = True
+						#~ break
+				#~ 
+				#~ if not inserted:
+					#~ return_var.append(item)
+	#~ 
+	#~ return return_var
 
 def main():
 	try:
@@ -109,8 +130,6 @@ def main():
 	output_file = None
 	template_file = None
 	data_file = None
-	if args:
-		data_file = args[0]
 	
 	for opt, val in options:
 		if opt in ("-h", "--help"):
@@ -125,11 +144,37 @@ def main():
 			data_file = val
 	
 	if (not template_file) or (not data_file):
-		print("[FAIL] Template files is not setted and data file is not setted.")
+		print("[FAIL] Template file is not setted or data file is not setted.")
 		help()
 		exit(1)
 	
 	print("[INFO] Starting to parse the data file.")
+	
+	yaml_stream = open(data_file)
+	try:
+		data = yaml.load(yaml_stream)
+	except:
+		print("[FAIL] There is a error in the data file (%s)." % data_file)
+		exit(1)
+	
+	print("[INFO] Render the template.")
+	
+	original_games = get_original_games(data)
+	
+	#pprint(data);
+	
+	sys.exit(0)
+	####################################################################
+	# TODO
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	json_data=open(data_file)
 	try:
@@ -190,7 +235,7 @@ def main():
 		text_file.write(output)
 		text_file.close()
 	else:
-		print output 
+		print output
 
 if __name__ == "__main__":
 	main()
