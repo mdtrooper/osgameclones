@@ -1,0 +1,12 @@
+language: python
+python:
+  - "2.7"
+virtualenv:
+  system_site_packages: true
+before_install:
+  - sudo apt-get install -qq python-yaml python-jinja2 python-smartypants
+install:
+  - pip install cyrax
+script:
+  - cyrax
+  - test 6000 -lt $(cat _build/index.html | wc -l)
