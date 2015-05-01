@@ -2692,32 +2692,6 @@
         - image: http://i.imgur.com/kTkK5Gw.png
         - image: http://dev.intelorca.co.uk/2014/openrct2/cheats.png
 
-<<<<<<< HEAD
-- name: RollerCoaster Tycoon
-  clones:
-    - name: FreeRCT
-      url: http://freerct.blogspot.com.es/
-      repo: http://freerct.googlecode.com/svn/trunk/
-      info: Pre-Alpha, Active development, C++
-      added: 2013-05-27
-      media:
-        - image: http://freerct.googlecode.com/svn/images/path_demo.png
-          url: http://freerct.googlecode.com/svn/images/path_demo.png
-
-
-- name: Scorched Earth
-  clones:
-    - name: Atomic Tanks
-      url: http://atanks.sourceforge.net/
-      info: sporadic development, playable
-      added: 2013-06-06
-      media:
-        - image: http://atanks.sourceforge.net/Screenshots/small-scrnshot28.png
-          url: http://atanks.sourceforge.net/Screenshots/scrnshot28.png
-        - image: http://atanks.sourceforge.net/Screenshots/small-scrnshot23.png
-          url: http://atanks.sourceforge.net/Screenshots/scrnshot23.png
-
-=======
 - name: Ryzom
   clones:
     - name: Ryzom Core
@@ -2730,7 +2704,6 @@
         - url: http://www.ryzomcore.org/content/images/2014/Apr/screenshot013.png
         - url: http://www.ryzomcore.org/content/images/2014/Apr/screenshot010.png
         - url: http://www.ryzomcore.org/content/images/2014/Apr/screenshot004_sound_debug-1.png
->>>>>>> 31e3307e2e8a30e0dfce4124b9487b71bda093ad
 
 - name: [Scorched Earth, Scorched Earth (video game)]
   clones:
@@ -3033,11 +3006,6 @@
       repo: https://code.launchpad.net/stargus
       info: moderately active development, C++/Lua
       added: 2013-06-08
-    - url: https://github.com/toshok/scsharp/wiki
-      name: SCSharp
-      repo: https://github.com/toshok/scsharp
-      info: development halted, C#
-      added: 2013-06-09
 
 - name: "Stunt Car Racer"
   clones:
@@ -3429,8 +3397,6 @@
       name: OpenTTD
       info: active development, C++, extremely playable
       repo: http://vcs.openttd.org/svn/timeline
-      media_free: yes
-      media_free_details: There is a proyects OpenGFX (graphics), OpenMSX (musics) and OpenSFX (sounds).
       media:
         - url: http://media.openttd.org/images/screens/1.0/20101010_panswat_tongvorarat.png
           image: http://media.openttd.org/images/screens/1.0/20101010_panswat_tongvorarat_thumb.png

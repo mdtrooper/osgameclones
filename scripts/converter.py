@@ -45,6 +45,7 @@ def get_original_games(data):
 	original_games = set()
 	
 	for clone in data:
+		pass
 		#~ if 'name' in clone:
 			#~ print(clone['name'])
 		#~ if 'names' in clone:
@@ -153,8 +154,9 @@ def main():
 	yaml_stream = open(data_file)
 	try:
 		data = yaml.load(yaml_stream)
-	except:
+	except yaml.YAMLError, exc:
 		print("[FAIL] There is a error in the data file (%s)." % data_file)
+		print(exc)
 		exit(1)
 	
 	print("[INFO] Render the template.")
