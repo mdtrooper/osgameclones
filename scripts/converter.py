@@ -6,6 +6,7 @@ from getopt import *
 import json
 import pystache
 import yaml
+import io
 
 # Debug
 from pprint import *
@@ -45,11 +46,17 @@ def get_original_games(data):
 	original_games = set()
 	
 	for clone in data:
-		pass
-		#~ if 'name' in clone:
-			#~ print(clone['name'])
-		#~ if 'names' in clone:
-			#~ print(clone['names'])
+		if 'name' in clone:
+			if type(clone['name']) is str:
+				original_games.add(clone['name'])
+			else:
+				original_games.add(clone['name'][0])
+		if 'names' in clone:
+			for names in clone['names']:
+				if type(names) is str:
+					original_games.add(names)
+				else:
+					original_games.add(names[0])
 	
 	# They are with name key:
 	# name
@@ -58,6 +65,11 @@ def get_original_games(data):
 	# They are with names key:
 	# [name, name]
 	# [[name, url wiki], [name, url wiki]]
+	
+	original_games = list(original_games)
+	
+	for caca in original_games:
+		print "#" + caca + "#"
 	
 	return original_games
 
@@ -151,9 +163,15 @@ def main():
 	
 	print("[INFO] Starting to parse the data file.")
 	
-	yaml_stream = open(data_file)
+	#~ yaml_stream = file(data_file, "r")
+	#~ yaml_content = yaml_stream.read()
+	#~ yaml_content = unicode(yaml_content, "utf-8")
+	
+	yaml_content = open(data_file, 'rb').read().decode('utf-8')
+	
 	try:
-		data = yaml.load(yaml_stream)
+		data = yaml.load(io.StringIO(yaml_content))
+		#~ data = yaml.load(yaml_stream)
 	except yaml.YAMLError, exc:
 		print("[FAIL] There is a error in the data file (%s)." % data_file)
 		print(exc)
@@ -163,7 +181,7 @@ def main():
 	
 	original_games = get_original_games(data)
 	
-	#pprint(data);
+	#~ pprint(data);
 	
 	sys.exit(0)
 	####################################################################
@@ -225,7 +243,7 @@ def main():
 		intermediate_json['list_system'].append(item_a)
 	
 	
-	pprint(intermediate_json)
+	#~ pprint(intermediate_json)
 	
 	print("[INFO] Render the template.")
 	
