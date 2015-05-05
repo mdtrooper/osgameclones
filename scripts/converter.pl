@@ -28,7 +28,7 @@ sub get_original_games($)
 		my $name = $item->{'name'};
 		my $names = $item->{'names'};
 		
-		my $temp;
+		my $temp = undef;
 		
 		if (defined($name))
 		{
@@ -47,6 +47,8 @@ sub get_original_games($)
 		{
 			foreach my $name(@{$names})
 			{
+				$temp = undef;
+				
 				if (ref($name) eq "")
 				{
 					$temp->{'name'} = $name;

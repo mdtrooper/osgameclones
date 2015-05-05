@@ -30,19 +30,19 @@ Alien 8
 
 Allegiance
 
-Alone in the Dark 3
+Alone in the Dark
 
-Alone in the Dark 3
+Alone in the Dark 2
 
-Alone in the Dark 3
+Jack in the Dark
 
 Alone in the Dark 3
 
 Anacreon: Reconstruction 4021
 
-Outer World (アウターワールド Autā Wārudo)
+Another World
 
-Outer World (アウターワールド Autā Wārudo)
+Out of This World
 
 Outer World (アウターワールド Autā Wārudo)
 
@@ -68,9 +68,9 @@ Astrosmash
 
 Babaliba
 
-Planescape: Torment
+Baldur&#39;s Gate series
 
-Planescape: Torment
+Icewind Dale series
 
 Planescape: Torment
 
@@ -94,7 +94,7 @@ Blood
 
 Bolo
 
-Dynablaster
+Bomberman
 
 Dynablaster
 
@@ -102,21 +102,21 @@ Boulder Dash
 
 Bubble Bobble
 
-ハンバーガー
+BurgerTime
+
+バーガータイム
+
+Hamburger
 
 ハンバーガー
 
-ハンバーガー
+Buster Bros
 
-ハンバーガー
+Pang
 
-ポンピング・ワールド
+パン
 
-ポンピング・ワールド
-
-ポンピング・ワールド
-
-ポンピング・ワールド
+Pomping World
 
 ポンピング・ワールド
 
@@ -146,9 +146,9 @@ Clonk
 
 Commander Keen Series
 
-Dune 2000
+Command &amp; Conquer
 
-Dune 2000
+Command &amp; Conquer: Red Alert
 
 Dune 2000
 
@@ -168,7 +168,7 @@ Dark Reign 2
 
 Defender
 
-Descent 2
+Descent
 
 Descent 2
 
@@ -176,11 +176,11 @@ DesertStrike: Return to the Gulf
 
 Diablo
 
-Hexen
+Doom
 
-Hexen
+Doom II
 
-Hexen
+Heretic
 
 Hexen
 
@@ -204,9 +204,9 @@ Earth Shaker
 
 Eat The Whistle
 
-無限回廊
+Echochrome
 
-無限回廊
+Mugen Kairō
 
 無限回廊
 
@@ -222,7 +222,7 @@ The Elder Scrolls II: Daggerfall
 
 The Elder Scrolls III: Morrowind
 
-Blades of Exile
+Exile
 
 Blades of Exile
 
@@ -252,7 +252,7 @@ Forsaken
 
 FreeSpace 2
 
-Frog Bog
+Frogs and Flies
 
 Frog Bog
 
@@ -274,9 +274,9 @@ The Goonies
 
 Gorillas
 
-Myst III: Exile
+Grim Fandango
 
-Myst III: Exile
+Escape from Monkey Island
 
 Myst III: Exile
 
@@ -332,9 +332,9 @@ Knights
 
 Knights and Merchants
 
-Kula Quest
+Kula World
 
-Kula Quest
+Roll Away
 
 Kula Quest
 
@@ -354,11 +354,11 @@ Lose Your Marbles
 
 Lumines
 
-マジドロ
+Magical Drop
 
-マジドロ
+マジカルドロップ
 
-マジドロ
+MagiDro
 
 マジドロ
 
@@ -380,9 +380,9 @@ Night Stalker
 
 Outcast
 
-Auto Ran
+Outrun
 
-Auto Ran
+アウト ラン
 
 Auto Ran
 
@@ -404,9 +404,9 @@ Ken&#39;s Labyrinth
 
 Lugaru: The Rabbit&#39;s Foot
 
-Marathon Infinity
+Marathon
 
-Marathon Infinity
+Marathon 2
 
 Marathon Infinity
 
@@ -430,21 +430,21 @@ Nebulus
 
 Nether Earth
 
-Dragon Age II
+Neverwinter Nights
 
-Dragon Age II
+Neverwinter Nights 2
 
-Dragon Age II
+Star Wars: Knights of the Old Republic
 
-Dragon Age II
+Star Wars: Knights of the Old Republic II – The Sith Lords
 
-Dragon Age II
+Jade Empire
 
-Dragon Age II
+Sonic Chronicles: The Dark Brotherhood
 
-Dragon Age II
+The Witcher
 
-Dragon Age II
+Dragon Age: Origins
 
 Dragon Age II
 
@@ -544,7 +544,7 @@ Stars!
 
 Starshatter
 
-4D Sports Driving
+Stunts
 
 4D Sports Driving
 
@@ -588,7 +588,7 @@ Theme Hospital
 
 Thrust
 
-Moktar
+Titus the Fox
 
 Moktar
 
@@ -600,7 +600,7 @@ Touhou
 
 Transplant
 
-Transport Tycoon Deluxe
+Transport Tycoon
 
 Transport Tycoon Deluxe
 
@@ -616,9 +616,9 @@ Ultima Online
 
 Ultima IV
 
-Martian Dreams
+Ultima VI
 
-Martian Dreams
+The Savage Empire
 
 Martian Dreams
 
@@ -642,7 +642,7 @@ Wing Commander: Privateer
 
 Wizardry
 
-Spear of Destiny
+Wolfenstein 3D
 
 Spear of Destiny
 
@@ -650,7 +650,7 @@ Wolfenstein: Enemy Territory
 
 World of Goo
 
-UFO: Enemy Unknown
+X-COM: UFO Defence
 
 UFO: Enemy Unknown
 
@@ -690,9 +690,9 @@ DEFCON
 
 Dungeon Keeper
 
-Dance Dance Revolution
+Guitar Hero
 
-Dance Dance Revolution
+SingStar
 
 Dance Dance Revolution
 
@@ -732,7 +732,7 @@ RPG Maker
 
 Simcity
 
-The Settlers II
+The Settlers
 
 The Settlers II
 
