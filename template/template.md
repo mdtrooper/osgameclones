@@ -12,4 +12,5 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 {{#original_games}}
 {{name}}
+
 {{/original_games}}
