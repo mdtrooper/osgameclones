@@ -9,6 +9,35 @@ use YAML::XS 'LoadFile';
 
 use Template::Mustache;
 
+sub mardown_anchor_link($)
+{
+	my $text = shift;
+	
+	my $return_var = $text;
+	
+	$return_var = lc($return_var);
+	$return_var =~ s/ /-/;
+	$return_var =~ s/\///;
+	$return_var = "#" . $return_var;
+	
+	return $return_var
+}
+
+sub mardown_anchor_anchor($)
+{
+	my $text = shift;
+	
+	my $return_var = $text;
+	
+	$return_var = lc($return_var);
+	$return_var =~ s/ /-/;
+	$return_var =~ s/\///;
+	$return_var =~ s/™//;
+	$return_var = "<a name=\"" . $return_var . "\"></a>";
+	
+	return $return_var;
+}
+
 sub get_original_games($)
 {
 	my $data = shift;
@@ -41,6 +70,9 @@ sub get_original_games($)
 				$temp->{'name'} = $name->[0];
 			}
 			
+			$temp->{'mardown_anchor_link(name)'} = 
+				mardown_anchor_link($temp->{'name'});
+			
 			push @return, $temp;
 		}
 		elsif (defined($names))
@@ -57,6 +89,9 @@ sub get_original_games($)
 				{
 					$temp->{'name'} = $name->[0];
 				}
+				
+				$temp->{'mardown_anchor_link(name)'} = 
+					mardown_anchor_link($temp->{'name'});
 				
 				push @return, $temp;
 			}
@@ -94,6 +129,9 @@ sub get_clones($)
 				$temp->{'name'} = $name->[0];
 			}
 			
+			$temp->{'mardown_anchor_anchor(name)'} = 
+				mardown_anchor_anchor($temp->{'name'});
+			
 			push $clon->{'names'}, $temp;
 		}
 		elsif (defined($names))
@@ -110,6 +148,9 @@ sub get_clones($)
 				{
 					$temp->{'name'} = $name->[0];
 				}
+				
+				$temp->{'mardown_anchor_anchor(name)'} = 
+					mardown_anchor_anchor($temp->{'name'});
 				
 				push $clon->{'names'}, $temp;
 			}
