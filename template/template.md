@@ -11,5 +11,5 @@ All games that were added in last month are highlighted like this.
 Some of these games aren't reimplementations but evolution of original ones, which were eventually open sourced.
 
 {{#original_games}}
--{{name}}
+- {{name}}
 {{/original_games}}

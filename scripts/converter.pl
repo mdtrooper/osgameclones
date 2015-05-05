@@ -88,5 +88,6 @@ my $output = Template::Mustache::render(undef, $template, $json_data);
 #~ print($output);
 
 open(my $fh, '>', '../README.md');
+binmode($fh, ":utf8");
 print $fh $output;
 close $fh;
