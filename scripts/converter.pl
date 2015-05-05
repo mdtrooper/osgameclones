@@ -66,6 +66,60 @@ sub get_original_games($)
 	return \@return;
 }
 
+sub get_clones($)
+{
+	my $data = shift;
+	
+	my @return;
+	
+	foreach my $item (@{$data})
+	{
+		my $clon = undef;
+		
+		$clon->{'names'} = [];
+		
+		my $name = $item->{'name'};
+		my $names = $item->{'names'};
+		
+		my $temp = undef;
+		
+		if (defined($name))
+		{
+			if (ref($name) eq "")
+			{
+				$temp->{'name'} = $name;
+			}
+			else
+			{
+				$temp->{'name'} = $name->[0];
+			}
+			
+			push $clon->{'names'}, $temp;
+		}
+		elsif (defined($names))
+		{
+			foreach my $name(@{$names})
+			{
+				$temp = undef;
+				
+				if (ref($name) eq "")
+				{
+					$temp->{'name'} = $name;
+				}
+				else
+				{
+					$temp->{'name'} = $name->[0];
+				}
+				
+				push $clon->{'names'}, $temp;
+			}
+		}
+		
+		push @return, $clon;
+	}
+	
+	return \@return;
+}
 
 
 my $data = LoadFile('../games.yaml');
@@ -76,6 +130,7 @@ close FILE;
 my $json_data;
 
 $json_data->{'original_games'} = get_original_games($data);
+$json_data->{'clones'} = get_clones($data);
 
 #~ print Dumper($json_data);
 
