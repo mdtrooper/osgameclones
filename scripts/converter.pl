@@ -7,7 +7,6 @@ use Data::Dumper;
 
 use YAML::XS 'LoadFile';
 
-use lib "Template";
 use Template::Mustache;
 
 sub get_original_games($)
@@ -29,16 +28,20 @@ sub get_original_games($)
 		my $name = $item->{'name'};
 		my $names = $item->{'names'};
 		
+		my $temp;
+		
 		if (defined($name))
 		{
 			if (ref($name) eq "")
 			{
-				push @return, $name;
+				$temp->{'name'} = $name;
 			}
 			else
 			{
-				push @return, $name->[0];
+				$temp->{'name'} = $name->[0];
 			}
+			
+			push @return, $temp;
 		}
 		elsif (defined($names))
 		{
@@ -46,12 +49,14 @@ sub get_original_games($)
 			{
 				if (ref($name) eq "")
 				{
-					push @return, $name;
+					$temp->{'name'} = $name;
 				}
 				else
 				{
-					push @return, $name->[0];
+					$temp->{'name'} = $name->[0];
 				}
+				
+				push @return, $temp;
 			}
 		}
 	}
@@ -61,14 +66,25 @@ sub get_original_games($)
 
 
 
-my $test = LoadFile('../games.yaml');
+my $data = LoadFile('../games.yaml');
+open FILE, "../template/template.md" or die "Couldn't open file: $!"; 
+my $template = join("", <FILE>); 
+close FILE;
 
 my $json_data;
 
-$json_data->{'original_games'} = get_original_games($test);
-#~ 
+$json_data->{'original_games'} = get_original_games($data);
+
 #~ print Dumper($json_data);
 
-my %test;
-$test{'caca'} = 666;
-print Template::Mustache.render("pedo");
+#~ print $template;
+
+
+my $output = Template::Mustache::render(undef, $template, $json_data);
+
+#~ print("\n\n");
+#~ print($output);
+
+open(my $fh, '>', '../README.md');
+print $fh $output;
+close $fh;
