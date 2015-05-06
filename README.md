@@ -396,7 +396,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="scumm"></a>[SCUMM](http://en.wikipedia.org/wiki/)
+## <a name="scumm"></a>[SCUMM]
 
 -------
 
@@ -404,7 +404,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="3d-deathchase"></a>[3D Deathchase](http://en.wikipedia.org/wiki/)
+## <a name="3d-deathchase"></a>[3D Deathchase]
 
 -------
 
@@ -416,19 +416,19 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="achtung,-die kurve!"></a>[Achtung, die Kurve!](http://en.wikipedia.org/wiki/)
+## <a name="achtung,-die kurve!"></a>[Achtung, die Kurve!]
 
 -------
 
-## <a name="age-of empires ii"></a>[Age of Empires II](http://en.wikipedia.org/wiki/)
+## <a name="age-of empires ii"></a>[Age of Empires II]
 
 -------
 
-## <a name="akalabeth:-world of doom"></a>[Akalabeth: World of Doom](http://en.wikipedia.org/wiki/)
+## <a name="akalabeth:-world of doom"></a>[Akalabeth: World of Doom]
 
 -------
 
-## <a name="alien-8"></a>[Alien 8](http://en.wikipedia.org/wiki/)
+## <a name="alien-8"></a>[Alien 8]
 
 -------
 
@@ -436,14 +436,14 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="alone-in the dark"></a>[Alone in the Dark](http://en.wikipedia.org/wiki/)
-## <a name="alone-in the dark 2"></a>[Alone in the Dark 2](http://en.wikipedia.org/wiki/)
-## <a name="jack-in the dark"></a>[Jack in the Dark](http://en.wikipedia.org/wiki/)
-## <a name="alone-in the dark 3"></a>[Alone in the Dark 3](http://en.wikipedia.org/wiki/)
+## <a name="alone-in the dark"></a>[Alone in the Dark]
+## <a name="alone-in the dark 2"></a>[Alone in the Dark 2]
+## <a name="jack-in the dark"></a>[Jack in the Dark]
+## <a name="alone-in the dark 3"></a>[Alone in the Dark 3]
 
 -------
 
-## <a name="anacreon:-reconstruction 4021"></a>[Anacreon: Reconstruction 4021](http://en.wikipedia.org/wiki/)
+## <a name="anacreon:-reconstruction 4021"></a>[Anacreon: Reconstruction 4021]
 
 -------
 
@@ -461,15 +461,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="artillery-duel"></a>[Artillery Duel](http://en.wikipedia.org/wiki/)
+## <a name="artillery-duel"></a>[Artillery Duel]
 
 -------
 
-## <a name="arx-fatalis"></a>[Arx Fatalis](http://en.wikipedia.org/wiki/)
+## <a name="arx-fatalis"></a>[Arx Fatalis]
 
 -------
 
-## <a name="ascendancy"></a>[Ascendancy](http://en.wikipedia.org/wiki/)
+## <a name="ascendancy"></a>[Ascendancy]
 
 -------
 
@@ -485,11 +485,11 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="astromenace"></a>[AstroMenace](http://en.wikipedia.org/wiki/)
+## <a name="astromenace"></a>[AstroMenace]
 
 -------
 
-## <a name="astrosmash"></a>[Astrosmash](http://en.wikipedia.org/wiki/)
+## <a name="astrosmash"></a>[Astrosmash]
 
 -------
 
@@ -497,21 +497,21 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="baldur's-gate series"></a>[Baldur&#39;s Gate series](http://en.wikipedia.org/wiki/)
-## <a name="icewind-dale series"></a>[Icewind Dale series](http://en.wikipedia.org/wiki/)
-## <a name="planescape:-torment"></a>[Planescape: Torment](http://en.wikipedia.org/wiki/)
+## <a name="baldur's-gate series"></a>[Baldur&#39;s Gate series]
+## <a name="icewind-dale series"></a>[Icewind Dale series]
+## <a name="planescape:-torment"></a>[Planescape: Torment]
 
 -------
 
-## <a name="ballerburg"></a>[Ballerburg](http://en.wikipedia.org/wiki/)
+## <a name="ballerburg"></a>[Ballerburg]
 
 -------
 
-## <a name="barbarian:-the ultimate warrior"></a>[Barbarian: The Ultimate Warrior](http://en.wikipedia.org/wiki/)
+## <a name="barbarian:-the ultimate warrior"></a>[Barbarian: The Ultimate Warrior]
 
 -------
 
-## <a name="battle-chess"></a>[Battle Chess](http://en.wikipedia.org/wiki/)
+## <a name="battle-chess"></a>[Battle Chess]
 
 -------
 
@@ -519,11 +519,11 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="bermuda-syndrome"></a>[Bermuda Syndrome](http://en.wikipedia.org/wiki/)
+## <a name="bermuda-syndrome"></a>[Bermuda Syndrome]
 
 -------
 
-## <a name="betrayal-at krondor"></a>[Betrayal at Krondor](http://en.wikipedia.org/wiki/)
+## <a name="betrayal-at krondor"></a>[Betrayal at Krondor]
 
 -------
 
@@ -531,7 +531,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="blake-stone: planet strike"></a>[Blake Stone: Planet Strike](http://en.wikipedia.org/wiki/)
+## <a name="blake-stone: planet strike"></a>[Blake Stone: Planet Strike]
 
 -------
 
@@ -543,35 +543,35 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="bomberman"></a>[Bomberman](http://en.wikipedia.org/wiki/)
-## <a name="dynablaster"></a>[Dynablaster](http://en.wikipedia.org/wiki/)
+## <a name="bomberman"></a>[Bomberman]
+## <a name="dynablaster"></a>[Dynablaster]
 
 -------
 
-## <a name="boulder-dash"></a>[Boulder Dash](http://en.wikipedia.org/wiki/)
+## <a name="boulder-dash"></a>[Boulder Dash]
 
 -------
 
-## <a name="bubble-bobble"></a>[Bubble Bobble](http://en.wikipedia.org/wiki/)
+## <a name="bubble-bobble"></a>[Bubble Bobble]
 
 -------
 
-## <a name="burgertime"></a>[BurgerTime](http://en.wikipedia.org/wiki/)
-## <a name="バーガータイム"></a>[バーガータイム](http://en.wikipedia.org/wiki/)
-## <a name="hamburger"></a>[Hamburger](http://en.wikipedia.org/wiki/)
-## <a name="ハンバーガー"></a>[ハンバーガー](http://en.wikipedia.org/wiki/)
+## <a name="burgertime"></a>[BurgerTime]
+## <a name="バーガータイム"></a>[バーガータイム]
+## <a name="hamburger"></a>[Hamburger]
+## <a name="ハンバーガー"></a>[ハンバーガー]
 
 -------
 
-## <a name="buster-bros"></a>[Buster Bros](http://en.wikipedia.org/wiki/)
-## <a name="pang"></a>[Pang](http://en.wikipedia.org/wiki/)
-## <a name="パン"></a>[パン](http://en.wikipedia.org/wiki/)
-## <a name="pomping-world"></a>[Pomping World](http://en.wikipedia.org/wiki/)
-## <a name="ポンピング・ワールド"></a>[ポンピング・ワールド](http://en.wikipedia.org/wiki/)
+## <a name="buster-bros"></a>[Buster Bros]
+## <a name="pang"></a>[Pang]
+## <a name="パン"></a>[パン]
+## <a name="pomping-world"></a>[Pomping World]
+## <a name="ポンピング・ワールド"></a>[ポンピング・ワールド]
 
 -------
 
-## <a name="buzz-aldrin's race into space"></a>[Buzz Aldrin&#39;s Race Into Space](http://en.wikipedia.org/wiki/)
+## <a name="buzz-aldrin's race into space"></a>[Buzz Aldrin&#39;s Race Into Space]
 
 -------
 
@@ -579,11 +579,11 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="caesar-3"></a>[Caesar 3](http://en.wikipedia.org/wiki/)
+## <a name="caesar-3"></a>[Caesar 3]
 
 -------
 
-## <a name="call-to power ii"></a>[Call to Power II](http://en.wikipedia.org/wiki/)
+## <a name="call-to power ii"></a>[Call to Power II]
 
 -------
 
@@ -591,23 +591,23 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="carmageddon"></a>[Carmageddon](http://en.wikipedia.org/wiki/)
+## <a name="carmageddon"></a>[Carmageddon]
 
 -------
 
-## <a name="catacomb-ii"></a>[Catacomb II](http://en.wikipedia.org/wiki/)
+## <a name="catacomb-ii"></a>[Catacomb II]
 
 -------
 
-## <a name="cave-story"></a>[Cave Story](http://en.wikipedia.org/wiki/)
+## <a name="cave-story"></a>[Cave Story]
 
 -------
 
-## <a name="chip's-challenge"></a>[Chip&#39;s Challenge](http://en.wikipedia.org/wiki/)
+## <a name="chip's-challenge"></a>[Chip&#39;s Challenge]
 
 -------
 
-## <a name="chuchu-rocket!"></a>[ChuChu Rocket!](http://en.wikipedia.org/wiki/)
+## <a name="chuchu-rocket!"></a>[ChuChu Rocket!]
 
 -------
 
@@ -615,7 +615,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="clonk"></a>[Clonk](http://en.wikipedia.org/wiki/)
+## <a name="clonk"></a>[Clonk]
 
 -------
 
@@ -623,9 +623,9 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="command-& conquer"></a>[Command &amp; Conquer](http://en.wikipedia.org/wiki/)
-## <a name="command-& conquer: red alert"></a>[Command &amp; Conquer: Red Alert](http://en.wikipedia.org/wiki/)
-## <a name="dune-2000"></a>[Dune 2000](http://en.wikipedia.org/wiki/)
+## <a name="command-& conquer"></a>[Command &amp; Conquer]
+## <a name="command-& conquer: red alert"></a>[Command &amp; Conquer: Red Alert]
+## <a name="dune-2000"></a>[Dune 2000]
 
 -------
 
@@ -637,7 +637,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="curse-of the azure bonds"></a>[Curse of the Azure Bonds](http://en.wikipedia.org/wiki/)
+## <a name="curse-of the azure bonds"></a>[Curse of the Azure Bonds]
 
 -------
 
@@ -645,7 +645,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="c-dogs"></a>[C-Dogs](http://en.wikipedia.org/wiki/)
+## <a name="c-dogs"></a>[C-Dogs]
 
 -------
 
@@ -653,7 +653,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="dark-reign 2"></a>[Dark Reign 2](http://en.wikipedia.org/wiki/)
+## <a name="dark-reign 2"></a>[Dark Reign 2]
 
 -------
 
@@ -662,7 +662,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 -------
 
 ## <a name="descent"></a>[Descent](http://en.wikipedia.org/wiki/Descent (video game))
-## <a name="descent-2"></a>[Descent 2](http://en.wikipedia.org/wiki/)
+## <a name="descent-2"></a>[Descent 2]
 
 -------
 
@@ -674,26 +674,26 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="doom"></a>[Doom](http://en.wikipedia.org/wiki/)
-## <a name="doom-ii"></a>[Doom II](http://en.wikipedia.org/wiki/)
+## <a name="doom"></a>[Doom]
+## <a name="doom-ii"></a>[Doom II]
 ## <a name="heretic"></a>[Heretic](http://en.wikipedia.org/wiki/Heretic (video game))
-## <a name="hexen"></a>[Hexen](http://en.wikipedia.org/wiki/)
+## <a name="hexen"></a>[Hexen]
 
 -------
 
-## <a name="drugwars"></a>[Drugwars](http://en.wikipedia.org/wiki/)
+## <a name="drugwars"></a>[Drugwars]
 
 -------
 
-## <a name="deuteros"></a>[Deuteros](http://en.wikipedia.org/wiki/)
+## <a name="deuteros"></a>[Deuteros]
 
 -------
 
-## <a name="dink-smallwood"></a>[Dink Smallwood](http://en.wikipedia.org/wiki/)
+## <a name="dink-smallwood"></a>[Dink Smallwood]
 
 -------
 
-## <a name="duck-hunt"></a>[Duck Hunt](http://en.wikipedia.org/wiki/)
+## <a name="duck-hunt"></a>[Duck Hunt]
 
 -------
 
@@ -701,15 +701,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="duke-nukem 3d"></a>[Duke Nukem 3D](http://en.wikipedia.org/wiki/)
+## <a name="duke-nukem 3d"></a>[Duke Nukem 3D]
 
 -------
 
-## <a name="dune-2"></a>[Dune 2](http://en.wikipedia.org/wiki/)
+## <a name="dune-2"></a>[Dune 2]
 
 -------
 
-## <a name="dungeon-keeper"></a>[Dungeon Keeper](http://en.wikipedia.org/wiki/)
+## <a name="dungeon-keeper"></a>[Dungeon Keeper]
 
 -------
 
@@ -721,9 +721,9 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="echochrome"></a>[Echochrome](http://en.wikipedia.org/wiki/)
-## <a name="mugen-kairō"></a>[Mugen Kairō](http://en.wikipedia.org/wiki/)
-## <a name="無限回廊"></a>[無限回廊](http://en.wikipedia.org/wiki/)
+## <a name="echochrome"></a>[Echochrome]
+## <a name="mugen-kairō"></a>[Mugen Kairō]
+## <a name="無限回廊"></a>[無限回廊]
 
 -------
 
@@ -731,32 +731,32 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="escape-from colditz"></a>[Escape from Colditz](http://en.wikipedia.org/wiki/)
+## <a name="escape-from colditz"></a>[Escape from Colditz]
 
 -------
 
-## <a name="eye-of the beholder ii"></a>[Eye of the Beholder II](http://en.wikipedia.org/wiki/)
+## <a name="eye-of the beholder ii"></a>[Eye of the Beholder II]
 
 -------
 
-## <a name="elasto-mania"></a>[Elasto Mania](http://en.wikipedia.org/wiki/)
+## <a name="elasto-mania"></a>[Elasto Mania]
 
 -------
 
-## <a name="the-elder scrolls ii: daggerfall"></a>[The Elder Scrolls II: Daggerfall](http://en.wikipedia.org/wiki/)
+## <a name="the-elder scrolls ii: daggerfall"></a>[The Elder Scrolls II: Daggerfall]
 
 -------
 
-## <a name="the-elder scrolls iii: morrowind"></a>[The Elder Scrolls III: Morrowind](http://en.wikipedia.org/wiki/)
+## <a name="the-elder scrolls iii: morrowind"></a>[The Elder Scrolls III: Morrowind]
 
 -------
 
 ## <a name="exile"></a>[Exile](http://en.wikipedia.org/wiki/Exile (video game series))
-## <a name="blades-of exile"></a>[Blades of Exile](http://en.wikipedia.org/wiki/)
+## <a name="blades-of exile"></a>[Blades of Exile]
 
 -------
 
-## <a name="exolon"></a>[Exolon](http://en.wikipedia.org/wiki/)
+## <a name="exolon"></a>[Exolon]
 
 -------
 
@@ -764,7 +764,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="f-zero"></a>[F-Zero](http://en.wikipedia.org/wiki/)
+## <a name="f-zero"></a>[F-Zero]
 
 -------
 
@@ -772,7 +772,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="fallout-2"></a>[Fallout 2](http://en.wikipedia.org/wiki/)
+## <a name="fallout-2"></a>[Fallout 2]
 
 -------
 
@@ -788,11 +788,11 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="flying-shark"></a>[Flying Shark](http://en.wikipedia.org/wiki/)
+## <a name="flying-shark"></a>[Flying Shark]
 
 -------
 
-## <a name="final-fantasy viii"></a>[Final Fantasy VIII](http://en.wikipedia.org/wiki/)
+## <a name="final-fantasy viii"></a>[Final Fantasy VIII]
 
 -------
 
@@ -804,20 +804,20 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="freespace-2"></a>[FreeSpace 2](http://en.wikipedia.org/wiki/)
+## <a name="freespace-2"></a>[FreeSpace 2]
 
 -------
 
-## <a name="frogs-and flies"></a>[Frogs and Flies](http://en.wikipedia.org/wiki/)
-## <a name="frog-bog"></a>[Frog Bog](http://en.wikipedia.org/wiki/)
+## <a name="frogs-and flies"></a>[Frogs and Flies]
+## <a name="frog-bog"></a>[Frog Bog]
 
 -------
 
-## <a name="frogger"></a>[Frogger](http://en.wikipedia.org/wiki/)
+## <a name="frogger"></a>[Frogger]
 
 -------
 
-## <a name="geometry-wars"></a>[Geometry Wars](http://en.wikipedia.org/wiki/)
+## <a name="geometry-wars"></a>[Geometry Wars]
 
 -------
 
@@ -825,11 +825,11 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="gladiator"></a>[Gladiator](http://en.wikipedia.org/wiki/)
+## <a name="gladiator"></a>[Gladiator]
 
 -------
 
-## <a name="glest"></a>[Glest](http://en.wikipedia.org/wiki/)
+## <a name="glest"></a>[Glest]
 
 -------
 
@@ -849,9 +849,9 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="grim-fandango"></a>[Grim Fandango](http://en.wikipedia.org/wiki/)
-## <a name="escape-from monkey island"></a>[Escape from Monkey Island](http://en.wikipedia.org/wiki/)
-## <a name="myst-iii: exile"></a>[Myst III: Exile](http://en.wikipedia.org/wiki/)
+## <a name="grim-fandango"></a>[Grim Fandango]
+## <a name="escape-from monkey island"></a>[Escape from Monkey Island]
+## <a name="myst-iii: exile"></a>[Myst III: Exile]
 
 -------
 
@@ -859,15 +859,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="grand-theft auto 2"></a>[Grand Theft Auto 2](http://en.wikipedia.org/wiki/)
+## <a name="grand-theft auto 2"></a>[Grand Theft Auto 2]
 
 -------
 
-## <a name="gravity-force"></a>[Gravity Force](http://en.wikipedia.org/wiki/)
+## <a name="gravity-force"></a>[Gravity Force]
 
 -------
 
-## <a name="guitar-hero"></a>[Guitar Hero](http://en.wikipedia.org/wiki/)
+## <a name="guitar-hero"></a>[Guitar Hero]
 
 -------
 
@@ -883,27 +883,27 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="hexen-ii"></a>[Hexen II](http://en.wikipedia.org/wiki/)
+## <a name="hexen-ii"></a>[Hexen II]
 
 -------
 
-## <a name="heroes-of might and magic ii"></a>[Heroes of Might and Magic II](http://en.wikipedia.org/wiki/)
+## <a name="heroes-of might and magic ii"></a>[Heroes of Might and Magic II]
 
 -------
 
-## <a name="heroes-of might and magic iii"></a>[Heroes of Might and Magic III](http://en.wikipedia.org/wiki/)
+## <a name="heroes-of might and magic iii"></a>[Heroes of Might and Magic III]
 
 -------
 
-## <a name="homeworld"></a>[Homeworld](http://en.wikipedia.org/wiki/)
+## <a name="homeworld"></a>[Homeworld]
 
 -------
 
-## <a name="hoverrace"></a>[HoverRace](http://en.wikipedia.org/wiki/)
+## <a name="hoverrace"></a>[HoverRace]
 
 -------
 
-## <a name="hovertank-3d"></a>[Hovertank 3D](http://en.wikipedia.org/wiki/)
+## <a name="hovertank-3d"></a>[Hovertank 3D]
 
 -------
 
@@ -911,27 +911,27 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="imperium-galactica"></a>[Imperium Galactica](http://en.wikipedia.org/wiki/)
+## <a name="imperium-galactica"></a>[Imperium Galactica]
 
 -------
 
-## <a name="iron-seed"></a>[Iron Seed](http://en.wikipedia.org/wiki/)
+## <a name="iron-seed"></a>[Iron Seed]
 
 -------
 
-## <a name="jagged-alliance 2"></a>[Jagged Alliance 2](http://en.wikipedia.org/wiki/)
+## <a name="jagged-alliance 2"></a>[Jagged Alliance 2]
 
 -------
 
-## <a name="jazz-jackrabbit"></a>[Jazz Jackrabbit](http://en.wikipedia.org/wiki/)
+## <a name="jazz-jackrabbit"></a>[Jazz Jackrabbit]
 
 -------
 
-## <a name="jedi-knight ii: jedi outcast"></a>[Jedi Knight II: Jedi Outcast](http://en.wikipedia.org/wiki/)
+## <a name="jedi-knight ii: jedi outcast"></a>[Jedi Knight II: Jedi Outcast]
 
 -------
 
-## <a name="jedi-knight: jedi academy"></a>[Jedi Knight: Jedi Academy](http://en.wikipedia.org/wiki/)
+## <a name="jedi-knight: jedi academy"></a>[Jedi Knight: Jedi Academy]
 
 -------
 
@@ -939,11 +939,11 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="jumpgate:-the reconstruction initiative"></a>[Jumpgate: The Reconstruction Initiative](http://en.wikipedia.org/wiki/)
+## <a name="jumpgate:-the reconstruction initiative"></a>[Jumpgate: The Reconstruction Initiative]
 
 -------
 
-## <a name="jump-'n bump"></a>[Jump &#39;n Bump](http://en.wikipedia.org/wiki/)
+## <a name="jump-'n bump"></a>[Jump &#39;n Bump]
 
 -------
 
@@ -955,13 +955,13 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="knights-and merchants"></a>[Knights and Merchants](http://en.wikipedia.org/wiki/)
+## <a name="knights-and merchants"></a>[Knights and Merchants]
 
 -------
 
-## <a name="kula-world"></a>[Kula World](http://en.wikipedia.org/wiki/)
-## <a name="roll-away"></a>[Roll Away](http://en.wikipedia.org/wiki/)
-## <a name="kula-quest"></a>[Kula Quest](http://en.wikipedia.org/wiki/)
+## <a name="kula-world"></a>[Kula World]
+## <a name="roll-away"></a>[Roll Away]
+## <a name="kula-quest"></a>[Kula Quest]
 
 -------
 
@@ -969,7 +969,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="liero"></a>[Liero](http://en.wikipedia.org/wiki/)
+## <a name="liero"></a>[Liero]
 
 -------
 
@@ -977,11 +977,11 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="little-big adventure"></a>[Little Big Adventure](http://en.wikipedia.org/wiki/)
+## <a name="little-big adventure"></a>[Little Big Adventure]
 
 -------
 
-## <a name="lode-runner"></a>[Lode Runner](http://en.wikipedia.org/wiki/)
+## <a name="lode-runner"></a>[Lode Runner]
 
 -------
 
@@ -993,22 +993,22 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="lumines"></a>[Lumines](http://en.wikipedia.org/wiki/)
+## <a name="lumines"></a>[Lumines]
 
 -------
 
-## <a name="magical-drop"></a>[Magical Drop](http://en.wikipedia.org/wiki/)
-## <a name="マジカルドロップ"></a>[マジカルドロップ](http://en.wikipedia.org/wiki/)
-## <a name="magidro"></a>[MagiDro](http://en.wikipedia.org/wiki/)
-## <a name="マジドロ"></a>[マジドロ](http://en.wikipedia.org/wiki/)
+## <a name="magical-drop"></a>[Magical Drop]
+## <a name="マジカルドロップ"></a>[マジカルドロップ]
+## <a name="magidro"></a>[MagiDro]
+## <a name="マジドロ"></a>[マジドロ]
 
 -------
 
-## <a name="marble-madness"></a>[Marble Madness](http://en.wikipedia.org/wiki/)
+## <a name="marble-madness"></a>[Marble Madness]
 
 -------
 
-## <a name="missile-command"></a>[Missile Command](http://en.wikipedia.org/wiki/)
+## <a name="missile-command"></a>[Missile Command]
 
 -------
 
@@ -1016,19 +1016,19 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="the-maze of galious"></a>[The Maze of Galious](http://en.wikipedia.org/wiki/)
+## <a name="the-maze of galious"></a>[The Maze of Galious]
 
 -------
 
-## <a name="medal-of honor: allied assault"></a>[Medal of Honor: Allied Assault](http://en.wikipedia.org/wiki/)
+## <a name="medal-of honor: allied assault"></a>[Medal of Honor: Allied Assault]
 
 -------
 
-## <a name="monty-mole"></a>[Monty Mole](http://en.wikipedia.org/wiki/)
+## <a name="monty-mole"></a>[Monty Mole]
 
 -------
 
-## <a name="the-need for speed"></a>[The Need for Speed](http://en.wikipedia.org/wiki/)
+## <a name="the-need for speed"></a>[The Need for Speed]
 
 -------
 
@@ -1040,17 +1040,17 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="outrun"></a>[Outrun](http://en.wikipedia.org/wiki/)
-## <a name="アウト-ラン"></a>[アウト ラン](http://en.wikipedia.org/wiki/)
-## <a name="auto-ran"></a>[Auto Ran](http://en.wikipedia.org/wiki/)
+## <a name="outrun"></a>[Outrun]
+## <a name="アウト-ラン"></a>[アウト ラン]
+## <a name="auto-ran"></a>[Auto Ran]
 
 -------
 
-## <a name="oxyd"></a>[Oxyd](http://en.wikipedia.org/wiki/)
+## <a name="oxyd"></a>[Oxyd]
 
 -------
 
-## <a name="populous:-the beginning"></a>[Populous: The Beginning](http://en.wikipedia.org/wiki/)
+## <a name="populous:-the beginning"></a>[Populous: The Beginning]
 
 -------
 
@@ -1058,23 +1058,23 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="prince-of persia"></a>[Prince of Persia](http://en.wikipedia.org/wiki/)
+## <a name="prince-of persia"></a>[Prince of Persia]
 
 -------
 
-## <a name="quake"></a>[Quake](http://en.wikipedia.org/wiki/)
+## <a name="quake"></a>[Quake]
 
 -------
 
-## <a name="quake-2"></a>[Quake 2](http://en.wikipedia.org/wiki/)
+## <a name="quake-2"></a>[Quake 2]
 
 -------
 
-## <a name="quake-3"></a>[Quake 3](http://en.wikipedia.org/wiki/)
+## <a name="quake-3"></a>[Quake 3]
 
 -------
 
-## <a name="ken's-labyrinth"></a>[Ken&#39;s Labyrinth](http://en.wikipedia.org/wiki/)
+## <a name="ken's-labyrinth"></a>[Ken&#39;s Labyrinth]
 
 -------
 
@@ -1083,16 +1083,16 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 -------
 
 ## <a name="marathon"></a>[Marathon](http://en.wikipedia.org/wiki/Marathon_(video_game))
-## <a name="marathon-2"></a>[Marathon 2](http://en.wikipedia.org/wiki/)
-## <a name="marathon-infinity"></a>[Marathon Infinity](http://en.wikipedia.org/wiki/)
+## <a name="marathon-2"></a>[Marathon 2]
+## <a name="marathon-infinity"></a>[Marathon Infinity]
 
 -------
 
-## <a name="mario-world"></a>[Mario World](http://en.wikipedia.org/wiki/)
+## <a name="mario-world"></a>[Mario World]
 
 -------
 
-## <a name="master-of orion 2"></a>[Master of Orion 2](http://en.wikipedia.org/wiki/)
+## <a name="master-of orion 2"></a>[Master of Orion 2]
 
 -------
 
@@ -1104,11 +1104,11 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="mechcommander-2"></a>[MechCommander 2](http://en.wikipedia.org/wiki/)
+## <a name="mechcommander-2"></a>[MechCommander 2]
 
 -------
 
-## <a name="mega-lo mania"></a>[Mega Lo Mania](http://en.wikipedia.org/wiki/)
+## <a name="mega-lo mania"></a>[Mega Lo Mania]
 
 -------
 
@@ -1116,7 +1116,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="minecraft"></a>[Minecraft](http://en.wikipedia.org/wiki/)
+## <a name="minecraft"></a>[Minecraft]
 
 -------
 
@@ -1124,31 +1124,31 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="nether-earth"></a>[Nether Earth](http://en.wikipedia.org/wiki/)
+## <a name="nether-earth"></a>[Nether Earth]
 
 -------
 
-## <a name="neverwinter-nights"></a>[Neverwinter Nights](http://en.wikipedia.org/wiki/)
-## <a name="neverwinter-nights 2"></a>[Neverwinter Nights 2](http://en.wikipedia.org/wiki/)
-## <a name="star-wars: knights of the old republic"></a>[Star Wars: Knights of the Old Republic](http://en.wikipedia.org/wiki/)
-## <a name="star-wars: knights of the old republic ii – the sith lords"></a>[Star Wars: Knights of the Old Republic II – The Sith Lords](http://en.wikipedia.org/wiki/)
-## <a name="jade-empire"></a>[Jade Empire](http://en.wikipedia.org/wiki/)
-## <a name="sonic-chronicles: the dark brotherhood"></a>[Sonic Chronicles: The Dark Brotherhood](http://en.wikipedia.org/wiki/)
+## <a name="neverwinter-nights"></a>[Neverwinter Nights]
+## <a name="neverwinter-nights 2"></a>[Neverwinter Nights 2]
+## <a name="star-wars: knights of the old republic"></a>[Star Wars: Knights of the Old Republic]
+## <a name="star-wars: knights of the old republic ii – the sith lords"></a>[Star Wars: Knights of the Old Republic II – The Sith Lords]
+## <a name="jade-empire"></a>[Jade Empire]
+## <a name="sonic-chronicles: the dark brotherhood"></a>[Sonic Chronicles: The Dark Brotherhood]
 ## <a name="the-witcher"></a>[The Witcher](http://en.wikipedia.org/wiki/The Witcher (video game))
-## <a name="dragon-age: origins"></a>[Dragon Age: Origins](http://en.wikipedia.org/wiki/)
-## <a name="dragon-age ii"></a>[Dragon Age II](http://en.wikipedia.org/wiki/)
+## <a name="dragon-age: origins"></a>[Dragon Age: Origins]
+## <a name="dragon-age ii"></a>[Dragon Age II]
 
 -------
 
-## <a name="one-must fall: 2097"></a>[One Must Fall: 2097](http://en.wikipedia.org/wiki/)
+## <a name="one-must fall: 2097"></a>[One Must Fall: 2097]
 
 -------
 
-## <a name="panzer-general"></a>[Panzer General](http://en.wikipedia.org/wiki/)
+## <a name="panzer-general"></a>[Panzer General]
 
 -------
 
-## <a name="paradroid"></a>[Paradroid](http://en.wikipedia.org/wiki/)
+## <a name="paradroid"></a>[Paradroid]
 
 -------
 
@@ -1168,11 +1168,11 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="r-type"></a>[R-Type](http://en.wikipedia.org/wiki/)
+## <a name="r-type"></a>[R-Type]
 
 -------
 
-## <a name="railroad_tycoon"></a>[Railroad_Tycoon](http://en.wikipedia.org/wiki/)
+## <a name="railroad_tycoon"></a>[Railroad_Tycoon]
 
 -------
 
@@ -1180,47 +1180,47 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="redneck-rampage"></a>[Redneck Rampage](http://en.wikipedia.org/wiki/)
+## <a name="redneck-rampage"></a>[Redneck Rampage]
 
 -------
 
-## <a name="rescue!"></a>[Rescue!](http://en.wikipedia.org/wiki/)
+## <a name="rescue!"></a>[Rescue!]
 
 -------
 
-## <a name="rick-dangerous"></a>[Rick Dangerous](http://en.wikipedia.org/wiki/)
+## <a name="rick-dangerous"></a>[Rick Dangerous]
 
 -------
 
-## <a name="rise-of the triad"></a>[Rise of the Triad](http://en.wikipedia.org/wiki/)
+## <a name="rise-of the triad"></a>[Rise of the Triad]
 
 -------
 
-## <a name="the-adventures of robbo"></a>[The Adventures of Robbo](http://en.wikipedia.org/wiki/)
+## <a name="the-adventures of robbo"></a>[The Adventures of Robbo]
 
 -------
 
-## <a name="road-fighter"></a>[Road Fighter](http://en.wikipedia.org/wiki/)
+## <a name="road-fighter"></a>[Road Fighter]
 
 -------
 
-## <a name="robotfindskitten"></a>[Robotfindskitten](http://en.wikipedia.org/wiki/)
+## <a name="robotfindskitten"></a>[Robotfindskitten]
 
 -------
 
-## <a name="robotron:-2084"></a>[Robotron: 2084](http://en.wikipedia.org/wiki/)
+## <a name="robotron:-2084"></a>[Robotron: 2084]
 
 -------
 
-## <a name="rollercoaster-tycoon"></a>[RollerCoaster Tycoon](http://en.wikipedia.org/wiki/)
+## <a name="rollercoaster-tycoon"></a>[RollerCoaster Tycoon]
 
 -------
 
-## <a name="rollercoaster-tycoon 2"></a>[RollerCoaster Tycoon 2](http://en.wikipedia.org/wiki/)
+## <a name="rollercoaster-tycoon 2"></a>[RollerCoaster Tycoon 2]
 
 -------
 
-## <a name="ryzom"></a>[Ryzom](http://en.wikipedia.org/wiki/)
+## <a name="ryzom"></a>[Ryzom]
 
 -------
 
@@ -1228,23 +1228,23 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="shadowgrounds:-survivor"></a>[Shadowgrounds: Survivor](http://en.wikipedia.org/wiki/)
+## <a name="shadowgrounds:-survivor"></a>[Shadowgrounds: Survivor]
 
 -------
 
-## <a name="skool-daze"></a>[Skool Daze](http://en.wikipedia.org/wiki/)
+## <a name="skool-daze"></a>[Skool Daze]
 
 -------
 
-## <a name="space-rangers 2: dominators"></a>[Space Rangers 2: Dominators](http://en.wikipedia.org/wiki/)
+## <a name="space-rangers 2: dominators"></a>[Space Rangers 2: Dominators]
 
 -------
 
-## <a name="strike-commander"></a>[Strike Commander](http://en.wikipedia.org/wiki/)
+## <a name="strike-commander"></a>[Strike Commander]
 
 -------
 
-## <a name="sensible-soccer"></a>[Sensible Soccer](http://en.wikipedia.org/wiki/)
+## <a name="sensible-soccer"></a>[Sensible Soccer]
 
 -------
 
@@ -1252,19 +1252,19 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="sid-meier's alpha centauri"></a>[Sid Meier&#39;s Alpha Centauri](http://en.wikipedia.org/wiki/)
+## <a name="sid-meier's alpha centauri"></a>[Sid Meier&#39;s Alpha Centauri]
 
 -------
 
-## <a name="sid-meier's colonization"></a>[Sid Meier&#39;s Colonization](http://en.wikipedia.org/wiki/)
+## <a name="sid-meier's colonization"></a>[Sid Meier&#39;s Colonization]
 
 -------
 
-## <a name="sid-meier's pirates!"></a>[Sid Meier&#39;s Pirates!](http://en.wikipedia.org/wiki/)
+## <a name="sid-meier's pirates!"></a>[Sid Meier&#39;s Pirates!]
 
 -------
 
-## <a name="shadow-warrior"></a>[Shadow Warrior](http://en.wikipedia.org/wiki/)
+## <a name="shadow-warrior"></a>[Shadow Warrior]
 
 -------
 
@@ -1272,7 +1272,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="siege-of avalon"></a>[Siege of Avalon](http://en.wikipedia.org/wiki/)
+## <a name="siege-of avalon"></a>[Siege of Avalon]
 
 -------
 
@@ -1280,19 +1280,19 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="silent-hunter 4"></a>[Silent Hunter 4](http://en.wikipedia.org/wiki/)
+## <a name="silent-hunter 4"></a>[Silent Hunter 4]
 
 -------
 
-## <a name="simtower"></a>[SimTower](http://en.wikipedia.org/wiki/)
+## <a name="simtower"></a>[SimTower]
 
 -------
 
-## <a name="singstar"></a>[SingStar](http://en.wikipedia.org/wiki/)
+## <a name="singstar"></a>[SingStar]
 
 -------
 
-## <a name="solar-fox"></a>[Solar Fox](http://en.wikipedia.org/wiki/)
+## <a name="solar-fox"></a>[Solar Fox]
 
 -------
 
@@ -1300,40 +1300,40 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="space-invaders"></a>[Space Invaders](http://en.wikipedia.org/wiki/)
+## <a name="space-invaders"></a>[Space Invaders]
 
 -------
 
-## <a name="speedball-2"></a>[Speedball 2](http://en.wikipedia.org/wiki/)
+## <a name="speedball-2"></a>[Speedball 2]
 
 -------
 
-## <a name="star-control 2"></a>[Star Control 2](http://en.wikipedia.org/wiki/)
+## <a name="star-control 2"></a>[Star Control 2]
 
 -------
 
-## <a name="star-trek: voyager – elite force"></a>[Star Trek: Voyager – Elite Force](http://en.wikipedia.org/wiki/)
+## <a name="star-trek: voyager – elite force"></a>[Star Trek: Voyager – Elite Force]
 
 -------
 
-## <a name="starcraft"></a>[Starcraft](http://en.wikipedia.org/wiki/)
+## <a name="starcraft"></a>[Starcraft]
 
 -------
 
-## <a name="stunt-car racer"></a>[Stunt Car Racer](http://en.wikipedia.org/wiki/)
+## <a name="stunt-car racer"></a>[Stunt Car Racer]
 
 -------
 
-## <a name="stars!"></a>[Stars!](http://en.wikipedia.org/wiki/)
+## <a name="stars!"></a>[Stars!]
 
 -------
 
-## <a name="starshatter"></a>[Starshatter](http://en.wikipedia.org/wiki/)
+## <a name="starshatter"></a>[Starshatter]
 
 -------
 
 ## <a name="stunts"></a>[Stunts](http://en.wikipedia.org/wiki/Stunts (video game))
-## <a name="4d-sports driving"></a>[4D Sports Driving](http://en.wikipedia.org/wiki/)
+## <a name="4d-sports driving"></a>[4D Sports Driving]
 
 -------
 
@@ -1341,11 +1341,11 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="super-cars"></a>[Super Cars](http://en.wikipedia.org/wiki/)
+## <a name="super-cars"></a>[Super Cars]
 
 -------
 
-## <a name="super-foul egg"></a>[Super Foul Egg](http://en.wikipedia.org/wiki/)
+## <a name="super-foul egg"></a>[Super Foul Egg]
 
 -------
 
@@ -1365,15 +1365,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="syndicate-wars"></a>[Syndicate Wars](http://en.wikipedia.org/wiki/)
+## <a name="syndicate-wars"></a>[Syndicate Wars]
 
 -------
 
-## <a name="terraria"></a>[Terraria](http://en.wikipedia.org/wiki/)
+## <a name="terraria"></a>[Terraria]
 
 -------
 
-## <a name="the-castles of dr. creep"></a>[The Castles of Dr. Creep](http://en.wikipedia.org/wiki/)
+## <a name="the-castles of dr. creep"></a>[The Castles of Dr. Creep]
 
 -------
 
@@ -1381,23 +1381,23 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="the-last ninja"></a>[The Last Ninja](http://en.wikipedia.org/wiki/)
+## <a name="the-last ninja"></a>[The Last Ninja]
 
 -------
 
-## <a name="the-settlers"></a>[The Settlers](http://en.wikipedia.org/wiki/)
+## <a name="the-settlers"></a>[The Settlers]
 
 -------
 
-## <a name="the-settlers ii"></a>[The Settlers II](http://en.wikipedia.org/wiki/)
+## <a name="the-settlers ii"></a>[The Settlers II]
 
 -------
 
-## <a name="the-settlers iii"></a>[The Settlers III](http://en.wikipedia.org/wiki/)
+## <a name="the-settlers iii"></a>[The Settlers III]
 
 -------
 
-## <a name="shobon-action"></a>[Shobon Action](http://en.wikipedia.org/wiki/)
+## <a name="shobon-action"></a>[Shobon Action]
 
 -------
 
@@ -1405,11 +1405,11 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="tetris-attack"></a>[Tetris Attack](http://en.wikipedia.org/wiki/)
+## <a name="tetris-attack"></a>[Tetris Attack]
 
 -------
 
-## <a name="theme-hospital"></a>[Theme Hospital](http://en.wikipedia.org/wiki/)
+## <a name="theme-hospital"></a>[Theme Hospital]
 
 -------
 
@@ -1417,16 +1417,16 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="titus-the fox"></a>[Titus the Fox](http://en.wikipedia.org/wiki/)
+## <a name="titus-the fox"></a>[Titus the Fox]
 ## <a name="moktar"></a>[Moktar](http://en.wikipedia.org/wiki/Titus the Fox)
 
 -------
 
-## <a name="total-annihilation"></a>[Total Annihilation](http://en.wikipedia.org/wiki/)
+## <a name="total-annihilation"></a>[Total Annihilation]
 
 -------
 
-## <a name="tomb-raider"></a>[Tomb Raider](http://en.wikipedia.org/wiki/)
+## <a name="tomb-raider"></a>[Tomb Raider]
 
 -------
 
@@ -1438,16 +1438,16 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="transport-tycoon"></a>[Transport Tycoon](http://en.wikipedia.org/wiki/)
-## <a name="transport-tycoon deluxe"></a>[Transport Tycoon Deluxe](http://en.wikipedia.org/wiki/)
+## <a name="transport-tycoon"></a>[Transport Tycoon]
+## <a name="transport-tycoon deluxe"></a>[Transport Tycoon Deluxe]
 
 -------
 
-## <a name="tranz-am"></a>[Tranz Am](http://en.wikipedia.org/wiki/)
+## <a name="tranz-am"></a>[Tranz Am]
 
 -------
 
-## <a name="turrican"></a>[Turrican](http://en.wikipedia.org/wiki/)
+## <a name="turrican"></a>[Turrican]
 
 -------
 
@@ -1455,33 +1455,33 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="ugh!"></a>[Ugh!](http://en.wikipedia.org/wiki/)
+## <a name="ugh!"></a>[Ugh!]
 
 -------
 
-## <a name="ultima-online"></a>[Ultima Online](http://en.wikipedia.org/wiki/)
+## <a name="ultima-online"></a>[Ultima Online]
 
 -------
 
-## <a name="ultima-iv"></a>[Ultima IV](http://en.wikipedia.org/wiki/)
+## <a name="ultima-iv"></a>[Ultima IV]
 
 -------
 
-## <a name="ultima-vi"></a>[Ultima VI](http://en.wikipedia.org/wiki/)
-## <a name="the-savage empire"></a>[The Savage Empire](http://en.wikipedia.org/wiki/)
-## <a name="martian-dreams"></a>[Martian Dreams](http://en.wikipedia.org/wiki/)
+## <a name="ultima-vi"></a>[Ultima VI]
+## <a name="the-savage empire"></a>[The Savage Empire]
+## <a name="martian-dreams"></a>[Martian Dreams]
 
 -------
 
-## <a name="ultima-vii"></a>[Ultima VII](http://en.wikipedia.org/wiki/)
+## <a name="ultima-vii"></a>[Ultima VII]
 
 -------
 
-## <a name="ultima-viii"></a>[Ultima VIII](http://en.wikipedia.org/wiki/)
+## <a name="ultima-viii"></a>[Ultima VIII]
 
 -------
 
-## <a name="uncharted-waters"></a>[Uncharted Waters](http://en.wikipedia.org/wiki/)
+## <a name="uncharted-waters"></a>[Uncharted Waters]
 
 -------
 
@@ -1497,49 +1497,49 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="warcraft-ii"></a>[Warcraft II](http://en.wikipedia.org/wiki/)
+## <a name="warcraft-ii"></a>[Warcraft II]
 
 -------
 
-## <a name="warzone-2100"></a>[Warzone 2100](http://en.wikipedia.org/wiki/)
+## <a name="warzone-2100"></a>[Warzone 2100]
 
 -------
 
-## <a name="wing-commander: privateer"></a>[Wing Commander: Privateer](http://en.wikipedia.org/wiki/)
+## <a name="wing-commander: privateer"></a>[Wing Commander: Privateer]
 
 -------
 
-## <a name="wizardry"></a>[Wizardry](http://en.wikipedia.org/wiki/)
+## <a name="wizardry"></a>[Wizardry]
 
 -------
 
-## <a name="wolfenstein-3d"></a>[Wolfenstein 3D](http://en.wikipedia.org/wiki/)
+## <a name="wolfenstein-3d"></a>[Wolfenstein 3D]
 ## <a name="spear-of destiny"></a>[Spear of Destiny](http://en.wikipedia.org/wiki/Spear of Destiny (video game))
 
 -------
 
-## <a name="wolfenstein:-enemy territory"></a>[Wolfenstein: Enemy Territory](http://en.wikipedia.org/wiki/)
+## <a name="wolfenstein:-enemy territory"></a>[Wolfenstein: Enemy Territory]
 
 -------
 
-## <a name="world-of goo"></a>[World of Goo](http://en.wikipedia.org/wiki/)
+## <a name="world-of goo"></a>[World of Goo]
 
 -------
 
-## <a name="x-com:-ufo defence"></a>[X-COM: UFO Defence](http://en.wikipedia.org/wiki/)
-## <a name="ufo:-enemy unknown"></a>[UFO: Enemy Unknown](http://en.wikipedia.org/wiki/)
+## <a name="x-com:-ufo defence"></a>[X-COM: UFO Defence]
+## <a name="ufo:-enemy unknown"></a>[UFO: Enemy Unknown]
 
 -------
 
-## <a name="xenon-2 megablast"></a>[Xenon 2 Megablast](http://en.wikipedia.org/wiki/)
+## <a name="xenon-2 megablast"></a>[Xenon 2 Megablast]
 
 -------
 
-## <a name="xpilot"></a>[XPilot](http://en.wikipedia.org/wiki/)
+## <a name="xpilot"></a>[XPilot]
 
 -------
 
-## <a name="legend-of zelda"></a>[Legend of Zelda](http://en.wikipedia.org/wiki/)
+## <a name="legend-of zelda"></a>[Legend of Zelda]
 
 -------
 
@@ -1555,11 +1555,11 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="a-train"></a>[A-Train](http://en.wikipedia.org/wiki/)
+## <a name="a-train"></a>[A-Train]
 
 -------
 
-## <a name="age-of empires"></a>[Age of Empires](http://en.wikipedia.org/wiki/)
+## <a name="age-of empires"></a>[Age of Empires]
 
 -------
 
@@ -1567,7 +1567,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="arkanoid"></a>[Arkanoid](http://en.wikipedia.org/wiki/)
+## <a name="arkanoid"></a>[Arkanoid]
 
 -------
 
@@ -1587,7 +1587,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="civilization-ii"></a>[Civilization II](http://en.wikipedia.org/wiki/)
+## <a name="civilization-ii"></a>[Civilization II]
 
 -------
 
@@ -1599,13 +1599,13 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="dungeon-keeper"></a>[Dungeon Keeper](http://en.wikipedia.org/wiki/)
+## <a name="dungeon-keeper"></a>[Dungeon Keeper]
 
 -------
 
-## <a name="guitar-hero"></a>[Guitar Hero](http://en.wikipedia.org/wiki/)
-## <a name="singstar"></a>[SingStar](http://en.wikipedia.org/wiki/)
-## <a name="dance-dance revolution"></a>[Dance Dance Revolution](http://en.wikipedia.org/wiki/)
+## <a name="guitar-hero"></a>[Guitar Hero]
+## <a name="singstar"></a>[SingStar]
+## <a name="dance-dance revolution"></a>[Dance Dance Revolution]
 
 -------
 
@@ -1629,7 +1629,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="mario-kart"></a>[Mario Kart](http://en.wikipedia.org/wiki/)
+## <a name="mario-kart"></a>[Mario Kart]
 
 -------
 
@@ -1641,23 +1641,23 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="microsoft-flight simulator"></a>[Microsoft Flight Simulator](http://en.wikipedia.org/wiki/)
+## <a name="microsoft-flight simulator"></a>[Microsoft Flight Simulator]
 
 -------
 
-## <a name="microsoft-train simulator"></a>[Microsoft Train Simulator](http://en.wikipedia.org/wiki/)
+## <a name="microsoft-train simulator"></a>[Microsoft Train Simulator]
 
 -------
 
-## <a name="missle-command"></a>[Missle Command](http://en.wikipedia.org/wiki/)
+## <a name="missle-command"></a>[Missle Command]
 
 -------
 
-## <a name="mortal-kombat"></a>[Mortal Kombat](http://en.wikipedia.org/wiki/)
+## <a name="mortal-kombat"></a>[Mortal Kombat]
 
 -------
 
-## <a name="paradroid"></a>[Paradroid](http://en.wikipedia.org/wiki/)
+## <a name="paradroid"></a>[Paradroid]
 
 -------
 
@@ -1665,24 +1665,24 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="nethack"></a>[NetHack](http://en.wikipedia.org/wiki/)
+## <a name="nethack"></a>[NetHack]
 
 -------
 
-## <a name="nexuiz"></a>[Nexuiz](http://en.wikipedia.org/wiki/)
+## <a name="nexuiz"></a>[Nexuiz]
 
 -------
 
-## <a name="rpg-maker"></a>[RPG Maker](http://en.wikipedia.org/wiki/)
+## <a name="rpg-maker"></a>[RPG Maker]
 
 -------
 
-## <a name="simcity"></a>[Simcity](http://en.wikipedia.org/wiki/)
+## <a name="simcity"></a>[Simcity]
 
 -------
 
 ## <a name="the-settlers"></a>[The Settlers](http://en.wikipedia.org/wiki/The Settlers (video game))
-## <a name="the-settlers ii"></a>[The Settlers II](http://en.wikipedia.org/wiki/)
+## <a name="the-settlers ii"></a>[The Settlers II]
 
 -------
 
@@ -1694,35 +1694,35 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="sokoban"></a>[Sokoban](http://en.wikipedia.org/wiki/)
+## <a name="sokoban"></a>[Sokoban]
 
 -------
 
-## <a name="sonic-the hedgehog"></a>[Sonic the Hedgehog](http://en.wikipedia.org/wiki/)
+## <a name="sonic-the hedgehog"></a>[Sonic the Hedgehog]
 
 -------
 
-## <a name="super-hexagon"></a>[Super Hexagon](http://en.wikipedia.org/wiki/)
+## <a name="super-hexagon"></a>[Super Hexagon]
 
 -------
 
-## <a name="super-mario"></a>[Super Mario](http://en.wikipedia.org/wiki/)
+## <a name="super-mario"></a>[Super Mario]
 
 -------
 
-## <a name="transport-tycoon deluxe"></a>[Transport Tycoon Deluxe](http://en.wikipedia.org/wiki/)
+## <a name="transport-tycoon deluxe"></a>[Transport Tycoon Deluxe]
 
 -------
 
-## <a name="tribal-hero"></a>[Tribal Hero](http://en.wikipedia.org/wiki/)
+## <a name="tribal-hero"></a>[Tribal Hero]
 
 -------
 
-## <a name="pizza-tycoon"></a>[Pizza Tycoon](http://en.wikipedia.org/wiki/)
+## <a name="pizza-tycoon"></a>[Pizza Tycoon]
 
 -------
 
-## <a name="puzzle-bobble"></a>[Puzzle Bobble](http://en.wikipedia.org/wiki/)
+## <a name="puzzle-bobble"></a>[Puzzle Bobble]
 
 -------
 
@@ -1734,7 +1734,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="crimsonland"></a>[Crimsonland](http://en.wikipedia.org/wiki/)
+## <a name="crimsonland"></a>[Crimsonland]
 
 -------
 
@@ -1742,11 +1742,11 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="ugh!"></a>[UGH!](http://en.wikipedia.org/wiki/)
+## <a name="ugh!"></a>[UGH!]
 
 -------
 
-## <a name="warcraft-ii"></a>[Warcraft II](http://en.wikipedia.org/wiki/)
+## <a name="warcraft-ii"></a>[Warcraft II]
 
 -------
 
@@ -1762,7 +1762,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="legend-of zelda"></a>[Legend of Zelda](http://en.wikipedia.org/wiki/)
+## <a name="legend-of zelda"></a>[Legend of Zelda]
 
 -------
 
