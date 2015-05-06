@@ -396,1373 +396,1373 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="scumm"></a>[SCUMM](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;scumm&quot;&gt;&lt;/a&gt;[SCUMM](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="1945"></a>[1945](http://en.wikipedia.org/wiki/Strikers 1945)
+## &lt;a name=&quot;1945&quot;&gt;&lt;/a&gt;[1945](http://en.wikipedia.org/wiki/Strikers 1945)
 
 -------
 
-## <a name="3d-deathchase"></a>[3D Deathchase](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;3d-deathchase&quot;&gt;&lt;/a&gt;[3D Deathchase](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="abuse"></a>[Abuse](http://en.wikipedia.org/wiki/Abuse (video game))
+## &lt;a name=&quot;abuse&quot;&gt;&lt;/a&gt;[Abuse](http://en.wikipedia.org/wiki/Abuse (video game))
 
 -------
 
-## <a name="ace-of spades"></a>[Ace of Spades](http://en.wikipedia.org/wiki/Ace of Spades (video game))
+## &lt;a name=&quot;ace-of spades&quot;&gt;&lt;/a&gt;[Ace of Spades](http://en.wikipedia.org/wiki/Ace of Spades (video game))
 
 -------
 
-## <a name="achtung,-die kurve!"></a>[Achtung, die Kurve!](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;achtung,-die kurve!&quot;&gt;&lt;/a&gt;[Achtung, die Kurve!](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="age-of empires ii"></a>[Age of Empires II](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;age-of empires ii&quot;&gt;&lt;/a&gt;[Age of Empires II](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="akalabeth:-world of doom"></a>[Akalabeth: World of Doom](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;akalabeth:-world of doom&quot;&gt;&lt;/a&gt;[Akalabeth: World of Doom](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="alien-8"></a>[Alien 8](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;alien-8&quot;&gt;&lt;/a&gt;[Alien 8](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="allegiance"></a>[Allegiance](http://en.wikipedia.org/wiki/Allegiance (video game))
+## &lt;a name=&quot;allegiance&quot;&gt;&lt;/a&gt;[Allegiance](http://en.wikipedia.org/wiki/Allegiance (video game))
 
 -------
 
-## <a name="alone-in the dark"></a>[Alone in the Dark](http://en.wikipedia.org/wiki/)
-## <a name="alone-in the dark 2"></a>[Alone in the Dark 2](http://en.wikipedia.org/wiki/)
-## <a name="jack-in the dark"></a>[Jack in the Dark](http://en.wikipedia.org/wiki/)
-## <a name="alone-in the dark 3"></a>[Alone in the Dark 3](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;alone-in the dark&quot;&gt;&lt;/a&gt;[Alone in the Dark](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;alone-in the dark 2&quot;&gt;&lt;/a&gt;[Alone in the Dark 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;jack-in the dark&quot;&gt;&lt;/a&gt;[Jack in the Dark](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;alone-in the dark 3&quot;&gt;&lt;/a&gt;[Alone in the Dark 3](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="anacreon:-reconstruction 4021"></a>[Anacreon: Reconstruction 4021](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;anacreon:-reconstruction 4021&quot;&gt;&lt;/a&gt;[Anacreon: Reconstruction 4021](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="another-world"></a>[Another World](http://en.wikipedia.org/wiki/Another World (video game))
-## <a name="out-of this world"></a>[Out of This World](http://en.wikipedia.org/wiki/Another World (video game))
-## <a name="outer-world (アウターワールド autā wārudo)"></a>[Outer World (アウターワールド Autā Wārudo)](http://en.wikipedia.org/wiki/Another World (video game))
+## &lt;a name=&quot;another-world&quot;&gt;&lt;/a&gt;[Another World](http://en.wikipedia.org/wiki/Another World (video game))
+## &lt;a name=&quot;out-of this world&quot;&gt;&lt;/a&gt;[Out of This World](http://en.wikipedia.org/wiki/Another World (video game))
+## &lt;a name=&quot;outer-world (アウターワールド autā wārudo)&quot;&gt;&lt;/a&gt;[Outer World (アウターワールド Autā Wārudo)](http://en.wikipedia.org/wiki/Another World (video game))
 
 -------
 
-## <a name="another-world 2: heart of the alien"></a>[Another World 2: Heart of the Alien](http://en.wikipedia.org/wiki/Heart of the Alien)
+## &lt;a name=&quot;another-world 2: heart of the alien&quot;&gt;&lt;/a&gt;[Another World 2: Heart of the Alien](http://en.wikipedia.org/wiki/Heart of the Alien)
 
 -------
 
-## <a name="ares"></a>[Ares](http://en.wikipedia.org/wiki/Ares (video game))
+## &lt;a name=&quot;ares&quot;&gt;&lt;/a&gt;[Ares](http://en.wikipedia.org/wiki/Ares (video game))
 
 -------
 
-## <a name="artillery-duel"></a>[Artillery Duel](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;artillery-duel&quot;&gt;&lt;/a&gt;[Artillery Duel](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="arx-fatalis"></a>[Arx Fatalis](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;arx-fatalis&quot;&gt;&lt;/a&gt;[Arx Fatalis](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="ascendancy"></a>[Ascendancy](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;ascendancy&quot;&gt;&lt;/a&gt;[Ascendancy](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="asteroids"></a>[Asteroids](http://en.wikipedia.org/wiki/Asteroids (video game))
+## &lt;a name=&quot;asteroids&quot;&gt;&lt;/a&gt;[Asteroids](http://en.wikipedia.org/wiki/Asteroids (video game))
 
 -------
 
-## <a name="asylum"></a>[Asylum](http://en.wikipedia.org/wiki/https://www.mobygames.com/game/acorn-32-bit/asylum)
+## &lt;a name=&quot;asylum&quot;&gt;&lt;/a&gt;[Asylum](http://en.wikipedia.org/wiki/https://www.mobygames.com/game/acorn-32-bit/asylum)
 
 -------
 
-## <a name="atomix"></a>[Atomix](http://en.wikipedia.org/wiki/Atomix (video game))
+## &lt;a name=&quot;atomix&quot;&gt;&lt;/a&gt;[Atomix](http://en.wikipedia.org/wiki/Atomix (video game))
 
 -------
 
-## <a name="astromenace"></a>[AstroMenace](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;astromenace&quot;&gt;&lt;/a&gt;[AstroMenace](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="astrosmash"></a>[Astrosmash](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;astrosmash&quot;&gt;&lt;/a&gt;[Astrosmash](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="babaliba"></a>[Babaliba](http://en.wikipedia.org/wiki/Dinamic Software)
+## &lt;a name=&quot;babaliba&quot;&gt;&lt;/a&gt;[Babaliba](http://en.wikipedia.org/wiki/Dinamic Software)
 
 -------
 
-## <a name="baldur's-gate series"></a>[Baldur&#39;s Gate series](http://en.wikipedia.org/wiki/)
-## <a name="icewind-dale series"></a>[Icewind Dale series](http://en.wikipedia.org/wiki/)
-## <a name="planescape:-torment"></a>[Planescape: Torment](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;baldur&#39;s-gate series&quot;&gt;&lt;/a&gt;[Baldur&#39;s Gate series](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;icewind-dale series&quot;&gt;&lt;/a&gt;[Icewind Dale series](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;planescape:-torment&quot;&gt;&lt;/a&gt;[Planescape: Torment](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="ballerburg"></a>[Ballerburg](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;ballerburg&quot;&gt;&lt;/a&gt;[Ballerburg](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="barbarian:-the ultimate warrior"></a>[Barbarian: The Ultimate Warrior](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;barbarian:-the ultimate warrior&quot;&gt;&lt;/a&gt;[Barbarian: The Ultimate Warrior](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="battle-chess"></a>[Battle Chess](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;battle-chess&quot;&gt;&lt;/a&gt;[Battle Chess](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="battle-city"></a>[Battle City](http://en.wikipedia.org/wiki/Battle City (video game))
+## &lt;a name=&quot;battle-city&quot;&gt;&lt;/a&gt;[Battle City](http://en.wikipedia.org/wiki/Battle City (video game))
 
 -------
 
-## <a name="bermuda-syndrome"></a>[Bermuda Syndrome](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;bermuda-syndrome&quot;&gt;&lt;/a&gt;[Bermuda Syndrome](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="betrayal-at krondor"></a>[Betrayal at Krondor](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;betrayal-at krondor&quot;&gt;&lt;/a&gt;[Betrayal at Krondor](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="blade-runner"></a>[Blade Runner](http://en.wikipedia.org/wiki/Blade Runner (1997 video game))
+## &lt;a name=&quot;blade-runner&quot;&gt;&lt;/a&gt;[Blade Runner](http://en.wikipedia.org/wiki/Blade Runner (1997 video game))
 
 -------
 
-## <a name="blake-stone: planet strike"></a>[Blake Stone: Planet Strike](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;blake-stone: planet strike&quot;&gt;&lt;/a&gt;[Blake Stone: Planet Strike](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="blood"></a>[Blood](http://en.wikipedia.org/wiki/Blood (video game))
+## &lt;a name=&quot;blood&quot;&gt;&lt;/a&gt;[Blood](http://en.wikipedia.org/wiki/Blood (video game))
 
 -------
 
-## <a name="bolo"></a>[Bolo](http://en.wikipedia.org/wiki/Bolo (1987 video game))
+## &lt;a name=&quot;bolo&quot;&gt;&lt;/a&gt;[Bolo](http://en.wikipedia.org/wiki/Bolo (1987 video game))
 
 -------
 
-## <a name="bomberman"></a>[Bomberman](http://en.wikipedia.org/wiki/)
-## <a name="dynablaster"></a>[Dynablaster](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;bomberman&quot;&gt;&lt;/a&gt;[Bomberman](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;dynablaster&quot;&gt;&lt;/a&gt;[Dynablaster](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="boulder-dash"></a>[Boulder Dash](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;boulder-dash&quot;&gt;&lt;/a&gt;[Boulder Dash](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="bubble-bobble"></a>[Bubble Bobble](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;bubble-bobble&quot;&gt;&lt;/a&gt;[Bubble Bobble](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="burgertime"></a>[BurgerTime](http://en.wikipedia.org/wiki/)
-## <a name="バーガータイム"></a>[バーガータイム](http://en.wikipedia.org/wiki/)
-## <a name="hamburger"></a>[Hamburger](http://en.wikipedia.org/wiki/)
-## <a name="ハンバーガー"></a>[ハンバーガー](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;burgertime&quot;&gt;&lt;/a&gt;[BurgerTime](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;バーガータイム&quot;&gt;&lt;/a&gt;[バーガータイム](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;hamburger&quot;&gt;&lt;/a&gt;[Hamburger](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;ハンバーガー&quot;&gt;&lt;/a&gt;[ハンバーガー](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="buster-bros"></a>[Buster Bros](http://en.wikipedia.org/wiki/)
-## <a name="pang"></a>[Pang](http://en.wikipedia.org/wiki/)
-## <a name="パン"></a>[パン](http://en.wikipedia.org/wiki/)
-## <a name="pomping-world"></a>[Pomping World](http://en.wikipedia.org/wiki/)
-## <a name="ポンピング・ワールド"></a>[ポンピング・ワールド](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;buster-bros&quot;&gt;&lt;/a&gt;[Buster Bros](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;pang&quot;&gt;&lt;/a&gt;[Pang](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;パン&quot;&gt;&lt;/a&gt;[パン](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;pomping-world&quot;&gt;&lt;/a&gt;[Pomping World](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;ポンピング・ワールド&quot;&gt;&lt;/a&gt;[ポンピング・ワールド](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="buzz-aldrin's race into space"></a>[Buzz Aldrin&#39;s Race Into Space](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;buzz-aldrin&#39;s race into space&quot;&gt;&lt;/a&gt;[Buzz Aldrin&#39;s Race Into Space](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="cadaver"></a>[Cadaver](http://en.wikipedia.org/wiki/Cadaver (video game))
+## &lt;a name=&quot;cadaver&quot;&gt;&lt;/a&gt;[Cadaver](http://en.wikipedia.org/wiki/Cadaver (video game))
 
 -------
 
-## <a name="caesar-3"></a>[Caesar 3](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;caesar-3&quot;&gt;&lt;/a&gt;[Caesar 3](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="call-to power ii"></a>[Call to Power II](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;call-to power ii&quot;&gt;&lt;/a&gt;[Call to Power II](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="cannon-fodder"></a>[Cannon Fodder](http://en.wikipedia.org/wiki/Cannon Fodder (series))
+## &lt;a name=&quot;cannon-fodder&quot;&gt;&lt;/a&gt;[Cannon Fodder](http://en.wikipedia.org/wiki/Cannon Fodder (series))
 
 -------
 
-## <a name="carmageddon"></a>[Carmageddon](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;carmageddon&quot;&gt;&lt;/a&gt;[Carmageddon](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="catacomb-ii"></a>[Catacomb II](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;catacomb-ii&quot;&gt;&lt;/a&gt;[Catacomb II](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="cave-story"></a>[Cave Story](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;cave-story&quot;&gt;&lt;/a&gt;[Cave Story](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="chip's-challenge"></a>[Chip&#39;s Challenge](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;chip&#39;s-challenge&quot;&gt;&lt;/a&gt;[Chip&#39;s Challenge](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="chuchu-rocket!"></a>[ChuChu Rocket!](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;chuchu-rocket!&quot;&gt;&lt;/a&gt;[ChuChu Rocket!](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="circus-atari"></a>[Circus Atari](http://en.wikipedia.org/wiki/Circus (video game))
+## &lt;a name=&quot;circus-atari&quot;&gt;&lt;/a&gt;[Circus Atari](http://en.wikipedia.org/wiki/Circus (video game))
 
 -------
 
-## <a name="clonk"></a>[Clonk](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;clonk&quot;&gt;&lt;/a&gt;[Clonk](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="commander-keen series"></a>[Commander Keen Series](http://en.wikipedia.org/wiki/Commander Keen)
+## &lt;a name=&quot;commander-keen series&quot;&gt;&lt;/a&gt;[Commander Keen Series](http://en.wikipedia.org/wiki/Commander Keen)
 
 -------
 
-## <a name="command-& conquer"></a>[Command &amp; Conquer](http://en.wikipedia.org/wiki/)
-## <a name="command-& conquer: red alert"></a>[Command &amp; Conquer: Red Alert](http://en.wikipedia.org/wiki/)
-## <a name="dune-2000"></a>[Dune 2000](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;command-&amp; conquer&quot;&gt;&lt;/a&gt;[Command &amp; Conquer](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;command-&amp; conquer: red alert&quot;&gt;&lt;/a&gt;[Command &amp; Conquer: Red Alert](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;dune-2000&quot;&gt;&lt;/a&gt;[Dune 2000](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="crazy-cars"></a>[Crazy Cars](http://en.wikipedia.org/wiki/Titus Software)
+## &lt;a name=&quot;crazy-cars&quot;&gt;&lt;/a&gt;[Crazy Cars](http://en.wikipedia.org/wiki/Titus Software)
 
 -------
 
-## <a name="creatures"></a>[Creatures](http://en.wikipedia.org/wiki/Creatures (video game))
+## &lt;a name=&quot;creatures&quot;&gt;&lt;/a&gt;[Creatures](http://en.wikipedia.org/wiki/Creatures (video game))
 
 -------
 
-## <a name="curse-of the azure bonds"></a>[Curse of the Azure Bonds](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;curse-of the azure bonds&quot;&gt;&lt;/a&gt;[Curse of the Azure Bonds](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="cytadela"></a>[Cytadela](http://en.wikipedia.org/wiki/http://www.ppa.pl/gry/cytadela.html)
+## &lt;a name=&quot;cytadela&quot;&gt;&lt;/a&gt;[Cytadela](http://en.wikipedia.org/wiki/http://www.ppa.pl/gry/cytadela.html)
 
 -------
 
-## <a name="c-dogs"></a>[C-Dogs](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;c-dogs&quot;&gt;&lt;/a&gt;[C-Dogs](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="dandy"></a>[Dandy](http://en.wikipedia.org/wiki/Dandy (video game))
+## &lt;a name=&quot;dandy&quot;&gt;&lt;/a&gt;[Dandy](http://en.wikipedia.org/wiki/Dandy (video game))
 
 -------
 
-## <a name="dark-reign 2"></a>[Dark Reign 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;dark-reign 2&quot;&gt;&lt;/a&gt;[Dark Reign 2](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="defender"></a>[Defender](http://en.wikipedia.org/wiki/Defender (video game))
+## &lt;a name=&quot;defender&quot;&gt;&lt;/a&gt;[Defender](http://en.wikipedia.org/wiki/Defender (video game))
 
 -------
 
-## <a name="descent"></a>[Descent](http://en.wikipedia.org/wiki/Descent (video game))
-## <a name="descent-2"></a>[Descent 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;descent&quot;&gt;&lt;/a&gt;[Descent](http://en.wikipedia.org/wiki/Descent (video game))
+## &lt;a name=&quot;descent-2&quot;&gt;&lt;/a&gt;[Descent 2](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="desertstrike:-return to the gulf"></a>[DesertStrike: Return to the Gulf](http://en.wikipedia.org/wiki/Jungle Strike)
+## &lt;a name=&quot;desertstrike:-return to the gulf&quot;&gt;&lt;/a&gt;[DesertStrike: Return to the Gulf](http://en.wikipedia.org/wiki/Jungle Strike)
 
 -------
 
-## <a name="diablo"></a>[Diablo](http://en.wikipedia.org/wiki/Diablo (video game))
+## &lt;a name=&quot;diablo&quot;&gt;&lt;/a&gt;[Diablo](http://en.wikipedia.org/wiki/Diablo (video game))
 
 -------
 
-## <a name="doom"></a>[Doom](http://en.wikipedia.org/wiki/)
-## <a name="doom-ii"></a>[Doom II](http://en.wikipedia.org/wiki/)
-## <a name="heretic"></a>[Heretic](http://en.wikipedia.org/wiki/Heretic (video game))
-## <a name="hexen"></a>[Hexen](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;doom&quot;&gt;&lt;/a&gt;[Doom](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;doom-ii&quot;&gt;&lt;/a&gt;[Doom II](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;heretic&quot;&gt;&lt;/a&gt;[Heretic](http://en.wikipedia.org/wiki/Heretic (video game))
+## &lt;a name=&quot;hexen&quot;&gt;&lt;/a&gt;[Hexen](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="drugwars"></a>[Drugwars](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;drugwars&quot;&gt;&lt;/a&gt;[Drugwars](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="deuteros"></a>[Deuteros](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;deuteros&quot;&gt;&lt;/a&gt;[Deuteros](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="dink-smallwood"></a>[Dink Smallwood](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;dink-smallwood&quot;&gt;&lt;/a&gt;[Dink Smallwood](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="duck-hunt"></a>[Duck Hunt](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;duck-hunt&quot;&gt;&lt;/a&gt;[Duck Hunt](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="duke-nukem"></a>[Duke Nukem](http://en.wikipedia.org/wiki/Duke Nukem (video game))
+## &lt;a name=&quot;duke-nukem&quot;&gt;&lt;/a&gt;[Duke Nukem](http://en.wikipedia.org/wiki/Duke Nukem (video game))
 
 -------
 
-## <a name="duke-nukem 3d"></a>[Duke Nukem 3D](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;duke-nukem 3d&quot;&gt;&lt;/a&gt;[Duke Nukem 3D](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="dune-2"></a>[Dune 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;dune-2&quot;&gt;&lt;/a&gt;[Dune 2](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="dungeon-keeper"></a>[Dungeon Keeper](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;dungeon-keeper&quot;&gt;&lt;/a&gt;[Dungeon Keeper](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="earth-shaker"></a>[Earth Shaker](http://en.wikipedia.org/wiki/Earth Shaker (video game))
+## &lt;a name=&quot;earth-shaker&quot;&gt;&lt;/a&gt;[Earth Shaker](http://en.wikipedia.org/wiki/Earth Shaker (video game))
 
 -------
 
-## <a name="eat-the whistle"></a>[Eat The Whistle](http://en.wikipedia.org/wiki/Eat the whistle (video game))
+## &lt;a name=&quot;eat-the whistle&quot;&gt;&lt;/a&gt;[Eat The Whistle](http://en.wikipedia.org/wiki/Eat the whistle (video game))
 
 -------
 
-## <a name="echochrome"></a>[Echochrome](http://en.wikipedia.org/wiki/)
-## <a name="mugen-kairō"></a>[Mugen Kairō](http://en.wikipedia.org/wiki/)
-## <a name="無限回廊"></a>[無限回廊](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;echochrome&quot;&gt;&lt;/a&gt;[Echochrome](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;mugen-kairō&quot;&gt;&lt;/a&gt;[Mugen Kairō](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;無限回廊&quot;&gt;&lt;/a&gt;[無限回廊](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="entombed!"></a>[Entombed!](http://en.wikipedia.org/wiki/Entombed (1982 video game))
+## &lt;a name=&quot;entombed!&quot;&gt;&lt;/a&gt;[Entombed!](http://en.wikipedia.org/wiki/Entombed (1982 video game))
 
 -------
 
-## <a name="escape-from colditz"></a>[Escape from Colditz](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;escape-from colditz&quot;&gt;&lt;/a&gt;[Escape from Colditz](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="eye-of the beholder ii"></a>[Eye of the Beholder II](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;eye-of the beholder ii&quot;&gt;&lt;/a&gt;[Eye of the Beholder II](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="elasto-mania"></a>[Elasto Mania](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;elasto-mania&quot;&gt;&lt;/a&gt;[Elasto Mania](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="the-elder scrolls ii: daggerfall"></a>[The Elder Scrolls II: Daggerfall](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;the-elder scrolls ii: daggerfall&quot;&gt;&lt;/a&gt;[The Elder Scrolls II: Daggerfall](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="the-elder scrolls iii: morrowind"></a>[The Elder Scrolls III: Morrowind](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;the-elder scrolls iii: morrowind&quot;&gt;&lt;/a&gt;[The Elder Scrolls III: Morrowind](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="exile"></a>[Exile](http://en.wikipedia.org/wiki/Exile (video game series))
-## <a name="blades-of exile"></a>[Blades of Exile](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;exile&quot;&gt;&lt;/a&gt;[Exile](http://en.wikipedia.org/wiki/Exile (video game series))
+## &lt;a name=&quot;blades-of exile&quot;&gt;&lt;/a&gt;[Blades of Exile](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="exolon"></a>[Exolon](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;exolon&quot;&gt;&lt;/a&gt;[Exolon](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="f-1-spirit"></a>[F-1 Spirit](http://en.wikipedia.org/wiki/F-1 Spirit (series))
+## &lt;a name=&quot;f-1-spirit&quot;&gt;&lt;/a&gt;[F-1 Spirit](http://en.wikipedia.org/wiki/F-1 Spirit (series))
 
 -------
 
-## <a name="f-zero"></a>[F-Zero](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;f-zero&quot;&gt;&lt;/a&gt;[F-Zero](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="fade-to black"></a>[Fade to Black](http://en.wikipedia.org/wiki/Fade to Black (video game))
+## &lt;a name=&quot;fade-to black&quot;&gt;&lt;/a&gt;[Fade to Black](http://en.wikipedia.org/wiki/Fade to Black (video game))
 
 -------
 
-## <a name="fallout-2"></a>[Fallout 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;fallout-2&quot;&gt;&lt;/a&gt;[Fallout 2](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="fallout-3: van buren"></a>[Fallout 3: Van Buren](http://en.wikipedia.org/wiki/Van Buren (video game))
+## &lt;a name=&quot;fallout-3: van buren&quot;&gt;&lt;/a&gt;[Fallout 3: Van Buren](http://en.wikipedia.org/wiki/Van Buren (video game))
 
 -------
 
-## <a name="flashback"></a>[Flashback](http://en.wikipedia.org/wiki/Flashback (1992 video game))
+## &lt;a name=&quot;flashback&quot;&gt;&lt;/a&gt;[Flashback](http://en.wikipedia.org/wiki/Flashback (1992 video game))
 
 -------
 
-## <a name="floor-13"></a>[Floor 13](http://en.wikipedia.org/wiki/Floor 13 (video game))
+## &lt;a name=&quot;floor-13&quot;&gt;&lt;/a&gt;[Floor 13](http://en.wikipedia.org/wiki/Floor 13 (video game))
 
 -------
 
-## <a name="flying-shark"></a>[Flying Shark](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;flying-shark&quot;&gt;&lt;/a&gt;[Flying Shark](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="final-fantasy viii"></a>[Final Fantasy VIII](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;final-fantasy viii&quot;&gt;&lt;/a&gt;[Final Fantasy VIII](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="football-manager"></a>[Football Manager](http://en.wikipedia.org/wiki/Football Manager (1982 series))
+## &lt;a name=&quot;football-manager&quot;&gt;&lt;/a&gt;[Football Manager](http://en.wikipedia.org/wiki/Football Manager (1982 series))
 
 -------
 
-## <a name="forsaken"></a>[Forsaken](http://en.wikipedia.org/wiki/Forsaken (video game))
+## &lt;a name=&quot;forsaken&quot;&gt;&lt;/a&gt;[Forsaken](http://en.wikipedia.org/wiki/Forsaken (video game))
 
 -------
 
-## <a name="freespace-2"></a>[FreeSpace 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;freespace-2&quot;&gt;&lt;/a&gt;[FreeSpace 2](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="frogs-and flies"></a>[Frogs and Flies](http://en.wikipedia.org/wiki/)
-## <a name="frog-bog"></a>[Frog Bog](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;frogs-and flies&quot;&gt;&lt;/a&gt;[Frogs and Flies](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;frog-bog&quot;&gt;&lt;/a&gt;[Frog Bog](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="frogger"></a>[Frogger](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;frogger&quot;&gt;&lt;/a&gt;[Frogger](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="geometry-wars"></a>[Geometry Wars](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;geometry-wars&quot;&gt;&lt;/a&gt;[Geometry Wars](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="gish"></a>[Gish](http://en.wikipedia.org/wiki/Gish (video game))
+## &lt;a name=&quot;gish&quot;&gt;&lt;/a&gt;[Gish](http://en.wikipedia.org/wiki/Gish (video game))
 
 -------
 
-## <a name="gladiator"></a>[Gladiator](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;gladiator&quot;&gt;&lt;/a&gt;[Gladiator](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="glest"></a>[Glest](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;glest&quot;&gt;&lt;/a&gt;[Glest](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="gods"></a>[Gods](http://en.wikipedia.org/wiki/Gods (video game))
+## &lt;a name=&quot;gods&quot;&gt;&lt;/a&gt;[Gods](http://en.wikipedia.org/wiki/Gods (video game))
 
 -------
 
-## <a name="goldeneye-007"></a>[GoldenEye 007](http://en.wikipedia.org/wiki/GoldenEye 007 (1997 video game))
+## &lt;a name=&quot;goldeneye-007&quot;&gt;&lt;/a&gt;[GoldenEye 007](http://en.wikipedia.org/wiki/GoldenEye 007 (1997 video game))
 
 -------
 
-## <a name="the-goonies"></a>[The Goonies](http://en.wikipedia.org/wiki/The Goonies (video game))
+## &lt;a name=&quot;the-goonies&quot;&gt;&lt;/a&gt;[The Goonies](http://en.wikipedia.org/wiki/The Goonies (video game))
 
 -------
 
-## <a name="gorillas"></a>[Gorillas](http://en.wikipedia.org/wiki/Gorillas (video game))
+## &lt;a name=&quot;gorillas&quot;&gt;&lt;/a&gt;[Gorillas](http://en.wikipedia.org/wiki/Gorillas (video game))
 
 -------
 
-## <a name="grim-fandango"></a>[Grim Fandango](http://en.wikipedia.org/wiki/)
-## <a name="escape-from monkey island"></a>[Escape from Monkey Island](http://en.wikipedia.org/wiki/)
-## <a name="myst-iii: exile"></a>[Myst III: Exile](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;grim-fandango&quot;&gt;&lt;/a&gt;[Grim Fandango](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;escape-from monkey island&quot;&gt;&lt;/a&gt;[Escape from Monkey Island](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;myst-iii: exile&quot;&gt;&lt;/a&gt;[Myst III: Exile](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="grand-theft auto"></a>[Grand Theft Auto](http://en.wikipedia.org/wiki/Grand Theft Auto 2)
+## &lt;a name=&quot;grand-theft auto&quot;&gt;&lt;/a&gt;[Grand Theft Auto](http://en.wikipedia.org/wiki/Grand Theft Auto 2)
 
 -------
 
-## <a name="grand-theft auto 2"></a>[Grand Theft Auto 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;grand-theft auto 2&quot;&gt;&lt;/a&gt;[Grand Theft Auto 2](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="gravity-force"></a>[Gravity Force](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;gravity-force&quot;&gt;&lt;/a&gt;[Gravity Force](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="guitar-hero"></a>[Guitar Hero](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;guitar-hero&quot;&gt;&lt;/a&gt;[Guitar Hero](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="half-life"></a>[Half-Life](http://en.wikipedia.org/wiki/Half-Life (video game))
+## &lt;a name=&quot;half-life&quot;&gt;&lt;/a&gt;[Half-Life](http://en.wikipedia.org/wiki/Half-Life (video game))
 
 -------
 
-## <a name="hardwar"></a>[Hardwar](http://en.wikipedia.org/wiki/Hardwar (video game))
+## &lt;a name=&quot;hardwar&quot;&gt;&lt;/a&gt;[Hardwar](http://en.wikipedia.org/wiki/Hardwar (video game))
 
 -------
 
-## <a name="heart-of darkness"></a>[Heart of Darkness](http://en.wikipedia.org/wiki/Heart of Darkness (video game))
+## &lt;a name=&quot;heart-of darkness&quot;&gt;&lt;/a&gt;[Heart of Darkness](http://en.wikipedia.org/wiki/Heart of Darkness (video game))
 
 -------
 
-## <a name="hexen-ii"></a>[Hexen II](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;hexen-ii&quot;&gt;&lt;/a&gt;[Hexen II](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="heroes-of might and magic ii"></a>[Heroes of Might and Magic II](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;heroes-of might and magic ii&quot;&gt;&lt;/a&gt;[Heroes of Might and Magic II](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="heroes-of might and magic iii"></a>[Heroes of Might and Magic III](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;heroes-of might and magic iii&quot;&gt;&lt;/a&gt;[Heroes of Might and Magic III](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="homeworld"></a>[Homeworld](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;homeworld&quot;&gt;&lt;/a&gt;[Homeworld](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="hoverrace"></a>[HoverRace](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;hoverrace&quot;&gt;&lt;/a&gt;[HoverRace](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="hovertank-3d"></a>[Hovertank 3D](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;hovertank-3d&quot;&gt;&lt;/a&gt;[Hovertank 3D](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="imperialism"></a>[Imperialism](http://en.wikipedia.org/wiki/Imperialism (video game))
+## &lt;a name=&quot;imperialism&quot;&gt;&lt;/a&gt;[Imperialism](http://en.wikipedia.org/wiki/Imperialism (video game))
 
 -------
 
-## <a name="imperium-galactica"></a>[Imperium Galactica](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;imperium-galactica&quot;&gt;&lt;/a&gt;[Imperium Galactica](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="iron-seed"></a>[Iron Seed](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;iron-seed&quot;&gt;&lt;/a&gt;[Iron Seed](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="jagged-alliance 2"></a>[Jagged Alliance 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;jagged-alliance 2&quot;&gt;&lt;/a&gt;[Jagged Alliance 2](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="jazz-jackrabbit"></a>[Jazz Jackrabbit](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;jazz-jackrabbit&quot;&gt;&lt;/a&gt;[Jazz Jackrabbit](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="jedi-knight ii: jedi outcast"></a>[Jedi Knight II: Jedi Outcast](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;jedi-knight ii: jedi outcast&quot;&gt;&lt;/a&gt;[Jedi Knight II: Jedi Outcast](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="jedi-knight: jedi academy"></a>[Jedi Knight: Jedi Academy](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;jedi-knight: jedi academy&quot;&gt;&lt;/a&gt;[Jedi Knight: Jedi Academy](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="joust"></a>[Joust](http://en.wikipedia.org/wiki/Joust (video game))
+## &lt;a name=&quot;joust&quot;&gt;&lt;/a&gt;[Joust](http://en.wikipedia.org/wiki/Joust (video game))
 
 -------
 
-## <a name="jumpgate:-the reconstruction initiative"></a>[Jumpgate: The Reconstruction Initiative](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;jumpgate:-the reconstruction initiative&quot;&gt;&lt;/a&gt;[Jumpgate: The Reconstruction Initiative](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="jump-'n bump"></a>[Jump &#39;n Bump](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;jump-&#39;n bump&quot;&gt;&lt;/a&gt;[Jump &#39;n Bump](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="jumping-jack"></a>[Jumping Jack](http://en.wikipedia.org/wiki/Jumping Jack (arcade game))
+## &lt;a name=&quot;jumping-jack&quot;&gt;&lt;/a&gt;[Jumping Jack](http://en.wikipedia.org/wiki/Jumping Jack (arcade game))
 
 -------
 
-## <a name="knights"></a>[Knights](http://en.wikipedia.org/wiki/Knights (video game))
+## &lt;a name=&quot;knights&quot;&gt;&lt;/a&gt;[Knights](http://en.wikipedia.org/wiki/Knights (video game))
 
 -------
 
-## <a name="knights-and merchants"></a>[Knights and Merchants](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;knights-and merchants&quot;&gt;&lt;/a&gt;[Knights and Merchants](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="kula-world"></a>[Kula World](http://en.wikipedia.org/wiki/)
-## <a name="roll-away"></a>[Roll Away](http://en.wikipedia.org/wiki/)
-## <a name="kula-quest"></a>[Kula Quest](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;kula-world&quot;&gt;&lt;/a&gt;[Kula World](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;roll-away&quot;&gt;&lt;/a&gt;[Roll Away](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;kula-quest&quot;&gt;&lt;/a&gt;[Kula Quest](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="the-lord of the rings volume 1"></a>[The Lord of the Rings Volume 1](http://en.wikipedia.org/wiki/J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I (1990 video game))
+## &lt;a name=&quot;the-lord of the rings volume 1&quot;&gt;&lt;/a&gt;[The Lord of the Rings Volume 1](http://en.wikipedia.org/wiki/J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. I (1990 video game))
 
 -------
 
-## <a name="liero"></a>[Liero](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;liero&quot;&gt;&lt;/a&gt;[Liero](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="lionheart"></a>[Lionheart](http://en.wikipedia.org/wiki/Lionheart (video game))
+## &lt;a name=&quot;lionheart&quot;&gt;&lt;/a&gt;[Lionheart](http://en.wikipedia.org/wiki/Lionheart (video game))
 
 -------
 
-## <a name="little-big adventure"></a>[Little Big Adventure](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;little-big adventure&quot;&gt;&lt;/a&gt;[Little Big Adventure](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="lode-runner"></a>[Lode Runner](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;lode-runner&quot;&gt;&lt;/a&gt;[Lode Runner](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="log!cal"></a>[Log!cal](http://en.wikipedia.org/wiki/http://hol.abime.net/906)
+## &lt;a name=&quot;log!cal&quot;&gt;&lt;/a&gt;[Log!cal](http://en.wikipedia.org/wiki/http://hol.abime.net/906)
 
 -------
 
-## <a name="lose-your marbles"></a>[Lose Your Marbles](http://en.wikipedia.org/wiki/Sega Puzzle Pack)
+## &lt;a name=&quot;lose-your marbles&quot;&gt;&lt;/a&gt;[Lose Your Marbles](http://en.wikipedia.org/wiki/Sega Puzzle Pack)
 
 -------
 
-## <a name="lumines"></a>[Lumines](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;lumines&quot;&gt;&lt;/a&gt;[Lumines](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="magical-drop"></a>[Magical Drop](http://en.wikipedia.org/wiki/)
-## <a name="マジカルドロップ"></a>[マジカルドロップ](http://en.wikipedia.org/wiki/)
-## <a name="magidro"></a>[MagiDro](http://en.wikipedia.org/wiki/)
-## <a name="マジドロ"></a>[マジドロ](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;magical-drop&quot;&gt;&lt;/a&gt;[Magical Drop](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;マジカルドロップ&quot;&gt;&lt;/a&gt;[マジカルドロップ](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;magidro&quot;&gt;&lt;/a&gt;[MagiDro](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;マジドロ&quot;&gt;&lt;/a&gt;[マジドロ](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="marble-madness"></a>[Marble Madness](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;marble-madness&quot;&gt;&lt;/a&gt;[Marble Madness](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="missile-command"></a>[Missile Command](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;missile-command&quot;&gt;&lt;/a&gt;[Missile Command](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="mad-tv"></a>[Mad TV](http://en.wikipedia.org/wiki/Mad TV (video game))
+## &lt;a name=&quot;mad-tv&quot;&gt;&lt;/a&gt;[Mad TV](http://en.wikipedia.org/wiki/Mad TV (video game))
 
 -------
 
-## <a name="the-maze of galious"></a>[The Maze of Galious](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;the-maze of galious&quot;&gt;&lt;/a&gt;[The Maze of Galious](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="medal-of honor: allied assault"></a>[Medal of Honor: Allied Assault](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;medal-of honor: allied assault&quot;&gt;&lt;/a&gt;[Medal of Honor: Allied Assault](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="monty-mole"></a>[Monty Mole](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;monty-mole&quot;&gt;&lt;/a&gt;[Monty Mole](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="the-need for speed"></a>[The Need for Speed](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;the-need for speed&quot;&gt;&lt;/a&gt;[The Need for Speed](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="night-stalker"></a>[Night Stalker](http://en.wikipedia.org/wiki/Night Stalker (video game))
+## &lt;a name=&quot;night-stalker&quot;&gt;&lt;/a&gt;[Night Stalker](http://en.wikipedia.org/wiki/Night Stalker (video game))
 
 -------
 
-## <a name="outcast"></a>[Outcast](http://en.wikipedia.org/wiki/Outcast (video game))
+## &lt;a name=&quot;outcast&quot;&gt;&lt;/a&gt;[Outcast](http://en.wikipedia.org/wiki/Outcast (video game))
 
 -------
 
-## <a name="outrun"></a>[Outrun](http://en.wikipedia.org/wiki/)
-## <a name="アウト-ラン"></a>[アウト ラン](http://en.wikipedia.org/wiki/)
-## <a name="auto-ran"></a>[Auto Ran](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;outrun&quot;&gt;&lt;/a&gt;[Outrun](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;アウト-ラン&quot;&gt;&lt;/a&gt;[アウト ラン](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;auto-ran&quot;&gt;&lt;/a&gt;[Auto Ran](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="oxyd"></a>[Oxyd](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;oxyd&quot;&gt;&lt;/a&gt;[Oxyd](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="populous:-the beginning"></a>[Populous: The Beginning](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;populous:-the beginning&quot;&gt;&lt;/a&gt;[Populous: The Beginning](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="portal"></a>[Portal](http://en.wikipedia.org/wiki/Portal (video game))
+## &lt;a name=&quot;portal&quot;&gt;&lt;/a&gt;[Portal](http://en.wikipedia.org/wiki/Portal (video game))
 
 -------
 
-## <a name="prince-of persia"></a>[Prince of Persia](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;prince-of persia&quot;&gt;&lt;/a&gt;[Prince of Persia](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="quake"></a>[Quake](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;quake&quot;&gt;&lt;/a&gt;[Quake](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="quake-2"></a>[Quake 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;quake-2&quot;&gt;&lt;/a&gt;[Quake 2](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="quake-3"></a>[Quake 3](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;quake-3&quot;&gt;&lt;/a&gt;[Quake 3](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="ken's-labyrinth"></a>[Ken&#39;s Labyrinth](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;ken&#39;s-labyrinth&quot;&gt;&lt;/a&gt;[Ken&#39;s Labyrinth](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="lugaru:-the rabbit's foot"></a>[Lugaru: The Rabbit&#39;s Foot](http://en.wikipedia.org/wiki/Lugaru)
+## &lt;a name=&quot;lugaru:-the rabbit&#39;s foot&quot;&gt;&lt;/a&gt;[Lugaru: The Rabbit&#39;s Foot](http://en.wikipedia.org/wiki/Lugaru)
 
 -------
 
-## <a name="marathon"></a>[Marathon](http://en.wikipedia.org/wiki/Marathon_(video_game))
-## <a name="marathon-2"></a>[Marathon 2](http://en.wikipedia.org/wiki/)
-## <a name="marathon-infinity"></a>[Marathon Infinity](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;marathon&quot;&gt;&lt;/a&gt;[Marathon](http://en.wikipedia.org/wiki/Marathon_(video_game))
+## &lt;a name=&quot;marathon-2&quot;&gt;&lt;/a&gt;[Marathon 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;marathon-infinity&quot;&gt;&lt;/a&gt;[Marathon Infinity](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="mario-world"></a>[Mario World](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;mario-world&quot;&gt;&lt;/a&gt;[Mario World](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="master-of orion 2"></a>[Master of Orion 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;master-of orion 2&quot;&gt;&lt;/a&gt;[Master of Orion 2](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="m.a.x."></a>[M.A.X.](http://en.wikipedia.org/wiki/Mechanized Assault &amp; Exploration)
+## &lt;a name=&quot;m.a.x.&quot;&gt;&lt;/a&gt;[M.A.X.](http://en.wikipedia.org/wiki/Mechanized Assault &amp; Exploration)
 
 -------
 
-## <a name="mech-warrior"></a>[Mech Warrior](http://en.wikipedia.org/wiki/MechWarrior (video game series))
+## &lt;a name=&quot;mech-warrior&quot;&gt;&lt;/a&gt;[Mech Warrior](http://en.wikipedia.org/wiki/MechWarrior (video game series))
 
 -------
 
-## <a name="mechcommander-2"></a>[MechCommander 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;mechcommander-2&quot;&gt;&lt;/a&gt;[MechCommander 2](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="mega-lo mania"></a>[Mega Lo Mania](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;mega-lo mania&quot;&gt;&lt;/a&gt;[Mega Lo Mania](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="millipede"></a>[Millipede](http://en.wikipedia.org/wiki/Millipede (video game))
+## &lt;a name=&quot;millipede&quot;&gt;&lt;/a&gt;[Millipede](http://en.wikipedia.org/wiki/Millipede (video game))
 
 -------
 
-## <a name="minecraft"></a>[Minecraft](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;minecraft&quot;&gt;&lt;/a&gt;[Minecraft](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="nebulus"></a>[Nebulus](http://en.wikipedia.org/wiki/Nebulus (video game))
+## &lt;a name=&quot;nebulus&quot;&gt;&lt;/a&gt;[Nebulus](http://en.wikipedia.org/wiki/Nebulus (video game))
 
 -------
 
-## <a name="nether-earth"></a>[Nether Earth](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;nether-earth&quot;&gt;&lt;/a&gt;[Nether Earth](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="neverwinter-nights"></a>[Neverwinter Nights](http://en.wikipedia.org/wiki/)
-## <a name="neverwinter-nights 2"></a>[Neverwinter Nights 2](http://en.wikipedia.org/wiki/)
-## <a name="star-wars: knights of the old republic"></a>[Star Wars: Knights of the Old Republic](http://en.wikipedia.org/wiki/)
-## <a name="star-wars: knights of the old republic ii – the sith lords"></a>[Star Wars: Knights of the Old Republic II – The Sith Lords](http://en.wikipedia.org/wiki/)
-## <a name="jade-empire"></a>[Jade Empire](http://en.wikipedia.org/wiki/)
-## <a name="sonic-chronicles: the dark brotherhood"></a>[Sonic Chronicles: The Dark Brotherhood](http://en.wikipedia.org/wiki/)
-## <a name="the-witcher"></a>[The Witcher](http://en.wikipedia.org/wiki/The Witcher (video game))
-## <a name="dragon-age: origins"></a>[Dragon Age: Origins](http://en.wikipedia.org/wiki/)
-## <a name="dragon-age ii"></a>[Dragon Age II](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;neverwinter-nights&quot;&gt;&lt;/a&gt;[Neverwinter Nights](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;neverwinter-nights 2&quot;&gt;&lt;/a&gt;[Neverwinter Nights 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;star-wars: knights of the old republic&quot;&gt;&lt;/a&gt;[Star Wars: Knights of the Old Republic](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;star-wars: knights of the old republic ii – the sith lords&quot;&gt;&lt;/a&gt;[Star Wars: Knights of the Old Republic II – The Sith Lords](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;jade-empire&quot;&gt;&lt;/a&gt;[Jade Empire](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;sonic-chronicles: the dark brotherhood&quot;&gt;&lt;/a&gt;[Sonic Chronicles: The Dark Brotherhood](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;the-witcher&quot;&gt;&lt;/a&gt;[The Witcher](http://en.wikipedia.org/wiki/The Witcher (video game))
+## &lt;a name=&quot;dragon-age: origins&quot;&gt;&lt;/a&gt;[Dragon Age: Origins](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;dragon-age ii&quot;&gt;&lt;/a&gt;[Dragon Age II](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="one-must fall: 2097"></a>[One Must Fall: 2097](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;one-must fall: 2097&quot;&gt;&lt;/a&gt;[One Must Fall: 2097](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="panzer-general"></a>[Panzer General](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;panzer-general&quot;&gt;&lt;/a&gt;[Panzer General](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="paradroid"></a>[Paradroid](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;paradroid&quot;&gt;&lt;/a&gt;[Paradroid](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="paratrooper"></a>[Paratrooper](http://en.wikipedia.org/wiki/Paratrooper (video game))
+## &lt;a name=&quot;paratrooper&quot;&gt;&lt;/a&gt;[Paratrooper](http://en.wikipedia.org/wiki/Paratrooper (video game))
 
 -------
 
-## <a name="pokémon"></a>[Pokémon](http://en.wikipedia.org/wiki/Pokémon (video game series))
+## &lt;a name=&quot;pokémon&quot;&gt;&lt;/a&gt;[Pokémon](http://en.wikipedia.org/wiki/Pokémon (video game series))
 
 -------
 
-## <a name="pushover"></a>[Pushover](http://en.wikipedia.org/wiki/Pushover (video game))
+## &lt;a name=&quot;pushover&quot;&gt;&lt;/a&gt;[Pushover](http://en.wikipedia.org/wiki/Pushover (video game))
 
 -------
 
-## <a name="puzznic- brix"></a>[Puzznic / Brix](http://en.wikipedia.org/wiki/Brix (video game))
+## &lt;a name=&quot;puzznic- brix&quot;&gt;&lt;/a&gt;[Puzznic / Brix](http://en.wikipedia.org/wiki/Brix (video game))
 
 -------
 
-## <a name="r-type"></a>[R-Type](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;r-type&quot;&gt;&lt;/a&gt;[R-Type](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="railroad_tycoon"></a>[Railroad_Tycoon](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;railroad_tycoon&quot;&gt;&lt;/a&gt;[Railroad_Tycoon](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="rampart"></a>[Rampart](http://en.wikipedia.org/wiki/Rampart (video game))
+## &lt;a name=&quot;rampart&quot;&gt;&lt;/a&gt;[Rampart](http://en.wikipedia.org/wiki/Rampart (video game))
 
 -------
 
-## <a name="redneck-rampage"></a>[Redneck Rampage](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;redneck-rampage&quot;&gt;&lt;/a&gt;[Redneck Rampage](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="rescue!"></a>[Rescue!](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;rescue!&quot;&gt;&lt;/a&gt;[Rescue!](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="rick-dangerous"></a>[Rick Dangerous](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;rick-dangerous&quot;&gt;&lt;/a&gt;[Rick Dangerous](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="rise-of the triad"></a>[Rise of the Triad](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;rise-of the triad&quot;&gt;&lt;/a&gt;[Rise of the Triad](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="the-adventures of robbo"></a>[The Adventures of Robbo](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;the-adventures of robbo&quot;&gt;&lt;/a&gt;[The Adventures of Robbo](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="road-fighter"></a>[Road Fighter](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;road-fighter&quot;&gt;&lt;/a&gt;[Road Fighter](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="robotfindskitten"></a>[Robotfindskitten](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;robotfindskitten&quot;&gt;&lt;/a&gt;[Robotfindskitten](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="robotron:-2084"></a>[Robotron: 2084](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;robotron:-2084&quot;&gt;&lt;/a&gt;[Robotron: 2084](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="rollercoaster-tycoon"></a>[RollerCoaster Tycoon](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;rollercoaster-tycoon&quot;&gt;&lt;/a&gt;[RollerCoaster Tycoon](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="rollercoaster-tycoon 2"></a>[RollerCoaster Tycoon 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;rollercoaster-tycoon 2&quot;&gt;&lt;/a&gt;[RollerCoaster Tycoon 2](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="ryzom"></a>[Ryzom](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;ryzom&quot;&gt;&lt;/a&gt;[Ryzom](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="scorched-earth"></a>[Scorched Earth](http://en.wikipedia.org/wiki/Scorched Earth (video game))
+## &lt;a name=&quot;scorched-earth&quot;&gt;&lt;/a&gt;[Scorched Earth](http://en.wikipedia.org/wiki/Scorched Earth (video game))
 
 -------
 
-## <a name="shadowgrounds:-survivor"></a>[Shadowgrounds: Survivor](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;shadowgrounds:-survivor&quot;&gt;&lt;/a&gt;[Shadowgrounds: Survivor](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="skool-daze"></a>[Skool Daze](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;skool-daze&quot;&gt;&lt;/a&gt;[Skool Daze](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="space-rangers 2: dominators"></a>[Space Rangers 2: Dominators](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;space-rangers 2: dominators&quot;&gt;&lt;/a&gt;[Space Rangers 2: Dominators](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="strike-commander"></a>[Strike Commander](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;strike-commander&quot;&gt;&lt;/a&gt;[Strike Commander](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="sensible-soccer"></a>[Sensible Soccer](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;sensible-soccer&quot;&gt;&lt;/a&gt;[Sensible Soccer](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="seven-kingdoms"></a>[Seven Kingdoms](http://en.wikipedia.org/wiki/Seven Kingdoms (computer game))
+## &lt;a name=&quot;seven-kingdoms&quot;&gt;&lt;/a&gt;[Seven Kingdoms](http://en.wikipedia.org/wiki/Seven Kingdoms (computer game))
 
 -------
 
-## <a name="sid-meier's alpha centauri"></a>[Sid Meier&#39;s Alpha Centauri](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;sid-meier&#39;s alpha centauri&quot;&gt;&lt;/a&gt;[Sid Meier&#39;s Alpha Centauri](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="sid-meier's colonization"></a>[Sid Meier&#39;s Colonization](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;sid-meier&#39;s colonization&quot;&gt;&lt;/a&gt;[Sid Meier&#39;s Colonization](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="sid-meier's pirates!"></a>[Sid Meier&#39;s Pirates!](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;sid-meier&#39;s pirates!&quot;&gt;&lt;/a&gt;[Sid Meier&#39;s Pirates!](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="shadow-warrior"></a>[Shadow Warrior](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;shadow-warrior&quot;&gt;&lt;/a&gt;[Shadow Warrior](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="siege"></a>[Siege](http://en.wikipedia.org/wiki/Siege (video game))
+## &lt;a name=&quot;siege&quot;&gt;&lt;/a&gt;[Siege](http://en.wikipedia.org/wiki/Siege (video game))
 
 -------
 
-## <a name="siege-of avalon"></a>[Siege of Avalon](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;siege-of avalon&quot;&gt;&lt;/a&gt;[Siege of Avalon](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="silencer"></a>[Silencer](http://en.wikipedia.org/wiki/Silencer (video game))
+## &lt;a name=&quot;silencer&quot;&gt;&lt;/a&gt;[Silencer](http://en.wikipedia.org/wiki/Silencer (video game))
 
 -------
 
-## <a name="silent-hunter 4"></a>[Silent Hunter 4](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;silent-hunter 4&quot;&gt;&lt;/a&gt;[Silent Hunter 4](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="simtower"></a>[SimTower](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;simtower&quot;&gt;&lt;/a&gt;[SimTower](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="singstar"></a>[SingStar](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;singstar&quot;&gt;&lt;/a&gt;[SingStar](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="solar-fox"></a>[Solar Fox](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;solar-fox&quot;&gt;&lt;/a&gt;[Solar Fox](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="sopwith"></a>[Sopwith](http://en.wikipedia.org/wiki/Sopwith (video game))
+## &lt;a name=&quot;sopwith&quot;&gt;&lt;/a&gt;[Sopwith](http://en.wikipedia.org/wiki/Sopwith (video game))
 
 -------
 
-## <a name="space-invaders"></a>[Space Invaders](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;space-invaders&quot;&gt;&lt;/a&gt;[Space Invaders](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="speedball-2"></a>[Speedball 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;speedball-2&quot;&gt;&lt;/a&gt;[Speedball 2](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="star-control 2"></a>[Star Control 2](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;star-control 2&quot;&gt;&lt;/a&gt;[Star Control 2](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="star-trek: voyager – elite force"></a>[Star Trek: Voyager – Elite Force](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;star-trek: voyager – elite force&quot;&gt;&lt;/a&gt;[Star Trek: Voyager – Elite Force](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="starcraft"></a>[Starcraft](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;starcraft&quot;&gt;&lt;/a&gt;[Starcraft](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="stunt-car racer"></a>[Stunt Car Racer](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;stunt-car racer&quot;&gt;&lt;/a&gt;[Stunt Car Racer](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="stars!"></a>[Stars!](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;stars!&quot;&gt;&lt;/a&gt;[Stars!](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="starshatter"></a>[Starshatter](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;starshatter&quot;&gt;&lt;/a&gt;[Starshatter](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="stunts"></a>[Stunts](http://en.wikipedia.org/wiki/Stunts (video game))
-## <a name="4d-sports driving"></a>[4D Sports Driving](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;stunts&quot;&gt;&lt;/a&gt;[Stunts](http://en.wikipedia.org/wiki/Stunts (video game))
+## &lt;a name=&quot;4d-sports driving&quot;&gt;&lt;/a&gt;[4D Sports Driving](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="styx"></a>[Styx](http://en.wikipedia.org/wiki/Styx (Spectrum video game))
+## &lt;a name=&quot;styx&quot;&gt;&lt;/a&gt;[Styx](http://en.wikipedia.org/wiki/Styx (Spectrum video game))
 
 -------
 
-## <a name="super-cars"></a>[Super Cars](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;super-cars&quot;&gt;&lt;/a&gt;[Super Cars](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="super-foul egg"></a>[Super Foul Egg](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;super-foul egg&quot;&gt;&lt;/a&gt;[Super Foul Egg](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="super-mario"></a>[Super Mario](http://en.wikipedia.org/wiki/Super Mario (series))
+## &lt;a name=&quot;super-mario&quot;&gt;&lt;/a&gt;[Super Mario](http://en.wikipedia.org/wiki/Super Mario (series))
 
 -------
 
-## <a name="super-methane brothers"></a>[Super Methane Brothers](http://en.wikipedia.org/wiki/Super Methane Bros.)
+## &lt;a name=&quot;super-methane brothers&quot;&gt;&lt;/a&gt;[Super Methane Brothers](http://en.wikipedia.org/wiki/Super Methane Bros.)
 
 -------
 
-## <a name="survivor-(1986)"></a>[Survivor (1986)](http://en.wikipedia.org/wiki/Survivor (video game))
+## &lt;a name=&quot;survivor-(1986)&quot;&gt;&lt;/a&gt;[Survivor (1986)](http://en.wikipedia.org/wiki/Survivor (video game))
 
 -------
 
-## <a name="syndicate"></a>[Syndicate](http://en.wikipedia.org/wiki/Syndicate (video game))
+## &lt;a name=&quot;syndicate&quot;&gt;&lt;/a&gt;[Syndicate](http://en.wikipedia.org/wiki/Syndicate (video game))
 
 -------
 
-## <a name="syndicate-wars"></a>[Syndicate Wars](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;syndicate-wars&quot;&gt;&lt;/a&gt;[Syndicate Wars](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="terraria"></a>[Terraria](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;terraria&quot;&gt;&lt;/a&gt;[Terraria](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="the-castles of dr. creep"></a>[The Castles of Dr. Creep](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;the-castles of dr. creep&quot;&gt;&lt;/a&gt;[The Castles of Dr. Creep](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="the-hobbit"></a>[The Hobbit](http://en.wikipedia.org/wiki/The Hobbit (1982 video game))
+## &lt;a name=&quot;the-hobbit&quot;&gt;&lt;/a&gt;[The Hobbit](http://en.wikipedia.org/wiki/The Hobbit (1982 video game))
 
 -------
 
-## <a name="the-last ninja"></a>[The Last Ninja](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;the-last ninja&quot;&gt;&lt;/a&gt;[The Last Ninja](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="the-settlers"></a>[The Settlers](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;the-settlers&quot;&gt;&lt;/a&gt;[The Settlers](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="the-settlers ii"></a>[The Settlers II](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;the-settlers ii&quot;&gt;&lt;/a&gt;[The Settlers II](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="the-settlers iii"></a>[The Settlers III](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;the-settlers iii&quot;&gt;&lt;/a&gt;[The Settlers III](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="shobon-action"></a>[Shobon Action](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;shobon-action&quot;&gt;&lt;/a&gt;[Shobon Action](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="tempest"></a>[Tempest](http://en.wikipedia.org/wiki/Tempest (video game))
+## &lt;a name=&quot;tempest&quot;&gt;&lt;/a&gt;[Tempest](http://en.wikipedia.org/wiki/Tempest (video game))
 
 -------
 
-## <a name="tetris-attack"></a>[Tetris Attack](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;tetris-attack&quot;&gt;&lt;/a&gt;[Tetris Attack](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="theme-hospital"></a>[Theme Hospital](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;theme-hospital&quot;&gt;&lt;/a&gt;[Theme Hospital](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="thrust"></a>[Thrust](http://en.wikipedia.org/wiki/Thrust (video game))
+## &lt;a name=&quot;thrust&quot;&gt;&lt;/a&gt;[Thrust](http://en.wikipedia.org/wiki/Thrust (video game))
 
 -------
 
-## <a name="titus-the fox"></a>[Titus the Fox](http://en.wikipedia.org/wiki/)
-## <a name="moktar"></a>[Moktar](http://en.wikipedia.org/wiki/Titus the Fox)
+## &lt;a name=&quot;titus-the fox&quot;&gt;&lt;/a&gt;[Titus the Fox](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;moktar&quot;&gt;&lt;/a&gt;[Moktar](http://en.wikipedia.org/wiki/Titus the Fox)
 
 -------
 
-## <a name="total-annihilation"></a>[Total Annihilation](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;total-annihilation&quot;&gt;&lt;/a&gt;[Total Annihilation](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="tomb-raider"></a>[Tomb Raider](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;tomb-raider&quot;&gt;&lt;/a&gt;[Tomb Raider](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="touhou"></a>[Touhou](http://en.wikipedia.org/wiki/Touhou Project)
+## &lt;a name=&quot;touhou&quot;&gt;&lt;/a&gt;[Touhou](http://en.wikipedia.org/wiki/Touhou Project)
 
 -------
 
-## <a name="transplant"></a>[Transplant](http://en.wikipedia.org/wiki/Transplant (video game))
+## &lt;a name=&quot;transplant&quot;&gt;&lt;/a&gt;[Transplant](http://en.wikipedia.org/wiki/Transplant (video game))
 
 -------
 
-## <a name="transport-tycoon"></a>[Transport Tycoon](http://en.wikipedia.org/wiki/)
-## <a name="transport-tycoon deluxe"></a>[Transport Tycoon Deluxe](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;transport-tycoon&quot;&gt;&lt;/a&gt;[Transport Tycoon](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;transport-tycoon deluxe&quot;&gt;&lt;/a&gt;[Transport Tycoon Deluxe](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="tranz-am"></a>[Tranz Am](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;tranz-am&quot;&gt;&lt;/a&gt;[Tranz Am](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="turrican"></a>[Turrican](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;turrican&quot;&gt;&lt;/a&gt;[Turrican](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="tyrian"></a>[Tyrian](http://en.wikipedia.org/wiki/Tyrian (video game))
+## &lt;a name=&quot;tyrian&quot;&gt;&lt;/a&gt;[Tyrian](http://en.wikipedia.org/wiki/Tyrian (video game))
 
 -------
 
-## <a name="ugh!"></a>[Ugh!](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;ugh!&quot;&gt;&lt;/a&gt;[Ugh!](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="ultima-online"></a>[Ultima Online](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;ultima-online&quot;&gt;&lt;/a&gt;[Ultima Online](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="ultima-iv"></a>[Ultima IV](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;ultima-iv&quot;&gt;&lt;/a&gt;[Ultima IV](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="ultima-vi"></a>[Ultima VI](http://en.wikipedia.org/wiki/)
-## <a name="the-savage empire"></a>[The Savage Empire](http://en.wikipedia.org/wiki/)
-## <a name="martian-dreams"></a>[Martian Dreams](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;ultima-vi&quot;&gt;&lt;/a&gt;[Ultima VI](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;the-savage empire&quot;&gt;&lt;/a&gt;[The Savage Empire](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;martian-dreams&quot;&gt;&lt;/a&gt;[Martian Dreams](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="ultima-vii"></a>[Ultima VII](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;ultima-vii&quot;&gt;&lt;/a&gt;[Ultima VII](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="ultima-viii"></a>[Ultima VIII](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;ultima-viii&quot;&gt;&lt;/a&gt;[Ultima VIII](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="uncharted-waters"></a>[Uncharted Waters](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;uncharted-waters&quot;&gt;&lt;/a&gt;[Uncharted Waters](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="uninvited"></a>[Uninvited](http://en.wikipedia.org/wiki/Uninvited (video game))
+## &lt;a name=&quot;uninvited&quot;&gt;&lt;/a&gt;[Uninvited](http://en.wikipedia.org/wiki/Uninvited (video game))
 
 -------
 
-## <a name="utopia"></a>[Utopia](http://en.wikipedia.org/wiki/Utopia (video game))
+## &lt;a name=&quot;utopia&quot;&gt;&lt;/a&gt;[Utopia](http://en.wikipedia.org/wiki/Utopia (video game))
 
 -------
 
-## <a name="warlords-ii"></a>[Warlords II](http://en.wikipedia.org/wiki/Warlords (game series)#Warlords II)
+## &lt;a name=&quot;warlords-ii&quot;&gt;&lt;/a&gt;[Warlords II](http://en.wikipedia.org/wiki/Warlords (game series)#Warlords II)
 
 -------
 
-## <a name="warcraft-ii"></a>[Warcraft II](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;warcraft-ii&quot;&gt;&lt;/a&gt;[Warcraft II](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="warzone-2100"></a>[Warzone 2100](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;warzone-2100&quot;&gt;&lt;/a&gt;[Warzone 2100](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="wing-commander: privateer"></a>[Wing Commander: Privateer](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;wing-commander: privateer&quot;&gt;&lt;/a&gt;[Wing Commander: Privateer](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="wizardry"></a>[Wizardry](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;wizardry&quot;&gt;&lt;/a&gt;[Wizardry](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="wolfenstein-3d"></a>[Wolfenstein 3D](http://en.wikipedia.org/wiki/)
-## <a name="spear-of destiny"></a>[Spear of Destiny](http://en.wikipedia.org/wiki/Spear of Destiny (video game))
+## &lt;a name=&quot;wolfenstein-3d&quot;&gt;&lt;/a&gt;[Wolfenstein 3D](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;spear-of destiny&quot;&gt;&lt;/a&gt;[Spear of Destiny](http://en.wikipedia.org/wiki/Spear of Destiny (video game))
 
 -------
 
-## <a name="wolfenstein:-enemy territory"></a>[Wolfenstein: Enemy Territory](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;wolfenstein:-enemy territory&quot;&gt;&lt;/a&gt;[Wolfenstein: Enemy Territory](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="world-of goo"></a>[World of Goo](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;world-of goo&quot;&gt;&lt;/a&gt;[World of Goo](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="x-com:-ufo defence"></a>[X-COM: UFO Defence](http://en.wikipedia.org/wiki/)
-## <a name="ufo:-enemy unknown"></a>[UFO: Enemy Unknown](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;x-com:-ufo defence&quot;&gt;&lt;/a&gt;[X-COM: UFO Defence](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;ufo:-enemy unknown&quot;&gt;&lt;/a&gt;[UFO: Enemy Unknown](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="xenon-2 megablast"></a>[Xenon 2 Megablast](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;xenon-2 megablast&quot;&gt;&lt;/a&gt;[Xenon 2 Megablast](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="xpilot"></a>[XPilot](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;xpilot&quot;&gt;&lt;/a&gt;[XPilot](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="legend-of zelda"></a>[Legend of Zelda](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;legend-of zelda&quot;&gt;&lt;/a&gt;[Legend of Zelda](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="legend-of zelda - a link to the past"></a>[Legend of Zelda - A Link to the Past](http://en.wikipedia.org/wiki/The Legend of Zelda: A Link to the Past)
+## &lt;a name=&quot;legend-of zelda - a link to the past&quot;&gt;&lt;/a&gt;[Legend of Zelda - A Link to the Past](http://en.wikipedia.org/wiki/The Legend of Zelda: A Link to the Past)
 
 -------
 
-## <a name="z"></a>[Z](http://en.wikipedia.org/wiki/Z (video game))
+## &lt;a name=&quot;z&quot;&gt;&lt;/a&gt;[Z](http://en.wikipedia.org/wiki/Z (video game))
 
 -------
 
-## <a name="zuma"></a>[Zuma](http://en.wikipedia.org/wiki/Zuma (video game))
+## &lt;a name=&quot;zuma&quot;&gt;&lt;/a&gt;[Zuma](http://en.wikipedia.org/wiki/Zuma (video game))
 
 -------
 
-## <a name="a-train"></a>[A-Train](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;a-train&quot;&gt;&lt;/a&gt;[A-Train](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="age-of empires"></a>[Age of Empires](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;age-of empires&quot;&gt;&lt;/a&gt;[Age of Empires](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="anno-series"></a>[Anno series](http://en.wikipedia.org/wiki/Anno_1602)
+## &lt;a name=&quot;anno-series&quot;&gt;&lt;/a&gt;[Anno series](http://en.wikipedia.org/wiki/Anno_1602)
 
 -------
 
-## <a name="arkanoid"></a>[Arkanoid](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;arkanoid&quot;&gt;&lt;/a&gt;[Arkanoid](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="battle-isle series"></a>[Battle Isle series](http://en.wikipedia.org/wiki/Battle Isle (series))
+## &lt;a name=&quot;battle-isle series&quot;&gt;&lt;/a&gt;[Battle Isle series](http://en.wikipedia.org/wiki/Battle Isle (series))
 
 -------
 
-## <a name="battle-zone"></a>[Battle Zone](http://en.wikipedia.org/wiki/Battlezone_(1980_video_game))
+## &lt;a name=&quot;battle-zone&quot;&gt;&lt;/a&gt;[Battle Zone](http://en.wikipedia.org/wiki/Battlezone_(1980_video_game))
 
 -------
 
-## <a name="breakout"></a>[Breakout](http://en.wikipedia.org/wiki/Breakout (video game))
+## &lt;a name=&quot;breakout&quot;&gt;&lt;/a&gt;[Breakout](http://en.wikipedia.org/wiki/Breakout (video game))
 
 -------
 
-## <a name="civilization"></a>[Civilization](http://en.wikipedia.org/wiki/Civilization (video game))
+## &lt;a name=&quot;civilization&quot;&gt;&lt;/a&gt;[Civilization](http://en.wikipedia.org/wiki/Civilization (video game))
 
 -------
 
-## <a name="civilization-ii"></a>[Civilization II](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;civilization-ii&quot;&gt;&lt;/a&gt;[Civilization II](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="diablo"></a>[Diablo](http://en.wikipedia.org/wiki/Diablo (series))
+## &lt;a name=&quot;diablo&quot;&gt;&lt;/a&gt;[Diablo](http://en.wikipedia.org/wiki/Diablo (series))
 
 -------
 
-## <a name="defcon"></a>[DEFCON](http://en.wikipedia.org/wiki/DEFCON_(video_game))
+## &lt;a name=&quot;defcon&quot;&gt;&lt;/a&gt;[DEFCON](http://en.wikipedia.org/wiki/DEFCON_(video_game))
 
 -------
 
-## <a name="dungeon-keeper"></a>[Dungeon Keeper](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;dungeon-keeper&quot;&gt;&lt;/a&gt;[Dungeon Keeper](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="guitar-hero"></a>[Guitar Hero](http://en.wikipedia.org/wiki/)
-## <a name="singstar"></a>[SingStar](http://en.wikipedia.org/wiki/)
-## <a name="dance-dance revolution"></a>[Dance Dance Revolution](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;guitar-hero&quot;&gt;&lt;/a&gt;[Guitar Hero](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;singstar&quot;&gt;&lt;/a&gt;[SingStar](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;dance-dance revolution&quot;&gt;&lt;/a&gt;[Dance Dance Revolution](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="elite"></a>[Elite](http://en.wikipedia.org/wiki/Elite_(video_game))
+## &lt;a name=&quot;elite&quot;&gt;&lt;/a&gt;[Elite](http://en.wikipedia.org/wiki/Elite_(video_game))
 
 -------
 
-## <a name="elite-ii"></a>[Elite II](http://en.wikipedia.org/wiki/Frontier: Elite II)
+## &lt;a name=&quot;elite-ii&quot;&gt;&lt;/a&gt;[Elite II](http://en.wikipedia.org/wiki/Frontier: Elite II)
 
 -------
 
-## <a name="escape-velocity"></a>[Escape Velocity](http://en.wikipedia.org/wiki/Escape Velocity (video game))
+## &lt;a name=&quot;escape-velocity&quot;&gt;&lt;/a&gt;[Escape Velocity](http://en.wikipedia.org/wiki/Escape Velocity (video game))
 
 -------
 
-## <a name="falcon"></a>[Falcon](http://en.wikipedia.org/wiki/Falcon (video game series))
+## &lt;a name=&quot;falcon&quot;&gt;&lt;/a&gt;[Falcon](http://en.wikipedia.org/wiki/Falcon (video game series))
 
 -------
 
-## <a name="lemmings"></a>[Lemmings](http://en.wikipedia.org/wiki/Lemmings (video game))
+## &lt;a name=&quot;lemmings&quot;&gt;&lt;/a&gt;[Lemmings](http://en.wikipedia.org/wiki/Lemmings (video game))
 
 -------
 
-## <a name="mario-kart"></a>[Mario Kart](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;mario-kart&quot;&gt;&lt;/a&gt;[Mario Kart](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="master-of orion series"></a>[Master of Orion Series](http://en.wikipedia.org/wiki/Master of Orion)
+## &lt;a name=&quot;master-of orion series&quot;&gt;&lt;/a&gt;[Master of Orion Series](http://en.wikipedia.org/wiki/Master of Orion)
 
 -------
 
-## <a name="micro-machines"></a>[Micro Machines](http://en.wikipedia.org/wiki/Micro Machines (video game series))
+## &lt;a name=&quot;micro-machines&quot;&gt;&lt;/a&gt;[Micro Machines](http://en.wikipedia.org/wiki/Micro Machines (video game series))
 
 -------
 
-## <a name="microsoft-flight simulator"></a>[Microsoft Flight Simulator](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;microsoft-flight simulator&quot;&gt;&lt;/a&gt;[Microsoft Flight Simulator](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="microsoft-train simulator"></a>[Microsoft Train Simulator](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;microsoft-train simulator&quot;&gt;&lt;/a&gt;[Microsoft Train Simulator](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="missle-command"></a>[Missle Command](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;missle-command&quot;&gt;&lt;/a&gt;[Missle Command](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="mortal-kombat"></a>[Mortal Kombat](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;mortal-kombat&quot;&gt;&lt;/a&gt;[Mortal Kombat](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="paradroid"></a>[Paradroid](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;paradroid&quot;&gt;&lt;/a&gt;[Paradroid](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="similar-to natural selection"></a>[Similar to Natural Selection](http://en.wikipedia.org/wiki/Natural Selection (video game))
+## &lt;a name=&quot;similar-to natural selection&quot;&gt;&lt;/a&gt;[Similar to Natural Selection](http://en.wikipedia.org/wiki/Natural Selection (video game))
 
 -------
 
-## <a name="nethack"></a>[NetHack](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;nethack&quot;&gt;&lt;/a&gt;[NetHack](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="nexuiz"></a>[Nexuiz](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;nexuiz&quot;&gt;&lt;/a&gt;[Nexuiz](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="rpg-maker"></a>[RPG Maker](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;rpg-maker&quot;&gt;&lt;/a&gt;[RPG Maker](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="simcity"></a>[Simcity](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;simcity&quot;&gt;&lt;/a&gt;[Simcity](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="the-settlers"></a>[The Settlers](http://en.wikipedia.org/wiki/The Settlers (video game))
-## <a name="the-settlers ii"></a>[The Settlers II](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;the-settlers&quot;&gt;&lt;/a&gt;[The Settlers](http://en.wikipedia.org/wiki/The Settlers (video game))
+## &lt;a name=&quot;the-settlers ii&quot;&gt;&lt;/a&gt;[The Settlers II](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="snake"></a>[Snake](http://en.wikipedia.org/wiki/Snake (video game))
+## &lt;a name=&quot;snake&quot;&gt;&lt;/a&gt;[Snake](http://en.wikipedia.org/wiki/Snake (video game))
 
 -------
 
-## <a name="thief"></a>[Thief](http://en.wikipedia.org/wiki/Thief (series))
+## &lt;a name=&quot;thief&quot;&gt;&lt;/a&gt;[Thief](http://en.wikipedia.org/wiki/Thief (series))
 
 -------
 
-## <a name="sokoban"></a>[Sokoban](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;sokoban&quot;&gt;&lt;/a&gt;[Sokoban](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="sonic-the hedgehog"></a>[Sonic the Hedgehog](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;sonic-the hedgehog&quot;&gt;&lt;/a&gt;[Sonic the Hedgehog](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="super-hexagon"></a>[Super Hexagon](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;super-hexagon&quot;&gt;&lt;/a&gt;[Super Hexagon](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="super-mario"></a>[Super Mario](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;super-mario&quot;&gt;&lt;/a&gt;[Super Mario](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="transport-tycoon deluxe"></a>[Transport Tycoon Deluxe](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;transport-tycoon deluxe&quot;&gt;&lt;/a&gt;[Transport Tycoon Deluxe](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="tribal-hero"></a>[Tribal Hero](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;tribal-hero&quot;&gt;&lt;/a&gt;[Tribal Hero](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="pizza-tycoon"></a>[Pizza Tycoon](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;pizza-tycoon&quot;&gt;&lt;/a&gt;[Pizza Tycoon](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="puzzle-bobble"></a>[Puzzle Bobble](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;puzzle-bobble&quot;&gt;&lt;/a&gt;[Puzzle Bobble](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="scorched-earth"></a>[Scorched Earth](http://en.wikipedia.org/wiki/Scorched Earth (video game))
+## &lt;a name=&quot;scorched-earth&quot;&gt;&lt;/a&gt;[Scorched Earth](http://en.wikipedia.org/wiki/Scorched Earth (video game))
 
 -------
 
-## <a name="skyroads"></a>[SkyRoads](http://en.wikipedia.org/wiki/SkyRoads (video game))
+## &lt;a name=&quot;skyroads&quot;&gt;&lt;/a&gt;[SkyRoads](http://en.wikipedia.org/wiki/SkyRoads (video game))
 
 -------
 
-## <a name="crimsonland"></a>[Crimsonland](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;crimsonland&quot;&gt;&lt;/a&gt;[Crimsonland](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="worms-series"></a>[Worms Series](http://en.wikipedia.org/wiki/Worms (series))
+## &lt;a name=&quot;worms-series&quot;&gt;&lt;/a&gt;[Worms Series](http://en.wikipedia.org/wiki/Worms (series))
 
 -------
 
-## <a name="ugh!"></a>[UGH!](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;ugh!&quot;&gt;&lt;/a&gt;[UGH!](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="warcraft-ii"></a>[Warcraft II](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;warcraft-ii&quot;&gt;&lt;/a&gt;[Warcraft II](http://en.wikipedia.org/wiki/)
 
 -------
 
-## <a name="wipeout"></a>[Wipeout](http://en.wikipedia.org/wiki/Wipeout (video game))
+## &lt;a name=&quot;wipeout&quot;&gt;&lt;/a&gt;[Wipeout](http://en.wikipedia.org/wiki/Wipeout (video game))
 
 -------
 
-## <a name="x-com-series"></a>[X-COM Series](http://en.wikipedia.org/wiki/X-COM)
+## &lt;a name=&quot;x-com-series&quot;&gt;&lt;/a&gt;[X-COM Series](http://en.wikipedia.org/wiki/X-COM)
 
 -------
 
-## <a name="xor"></a>[XOR](http://en.wikipedia.org/wiki/XOR (video game))
+## &lt;a name=&quot;xor&quot;&gt;&lt;/a&gt;[XOR](http://en.wikipedia.org/wiki/XOR (video game))
 
 -------
 
-## <a name="legend-of zelda"></a>[Legend of Zelda](http://en.wikipedia.org/wiki/)
+## &lt;a name=&quot;legend-of zelda&quot;&gt;&lt;/a&gt;[Legend of Zelda](http://en.wikipedia.org/wiki/)
 
 -------
 
