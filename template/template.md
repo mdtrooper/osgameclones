@@ -27,8 +27,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 {{#repo}}  - Repository: [{{repo}}]({{repo}}){{/repo}}
   - Images
 {{#images}}
-[{{image}}]({{image}})
-
+    - [{{image}}]({{image}})
 {{/images}}
 {{/games}}
 
