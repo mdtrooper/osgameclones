@@ -18,6 +18,7 @@ sub mardown_anchor_link($)
 	$return_var = lc($return_var);
 	$return_var =~ s/ /-/;
 	$return_var =~ s/\///;
+	$return_var =~ s/://;
 	$return_var = "#" . $return_var;
 	
 	return $return_var
