@@ -9,7 +9,7 @@ use YAML::XS 'LoadFile';
 
 use Template::Mustache;
 
-sub mardown_anchor_link($)
+sub mardown_link($)
 {
 	my $text = shift;
 	
@@ -25,7 +25,7 @@ sub mardown_anchor_link($)
 	return $return_var
 }
 
-sub mardown_anchor_anchor($)
+sub mardown_anchor($)
 {
 	my $text = shift;
 	
@@ -72,8 +72,8 @@ sub get_original_games($)
 				$temp->{'name'} = $name->[0];
 			}
 			
-			$temp->{'mardown_anchor_link(name)'} = 
-				mardown_anchor_link($temp->{'name'});
+			$temp->{'mardown_link(name)'} = 
+				mardown_link($temp->{'name'});
 			
 			push @return, $temp;
 		}
@@ -90,10 +90,11 @@ sub get_original_games($)
 				else
 				{
 					$temp->{'name'} = $name->[0];
+					
 				}
 				
-				$temp->{'mardown_anchor_link(name)'} = 
-					mardown_anchor_link($temp->{'name'});
+				$temp->{'mardown_link(name)'} = 
+					mardown_link($temp->{'name'});
 				
 				push @return, $temp;
 			}
@@ -129,10 +130,11 @@ sub get_clones($)
 			else
 			{
 				$temp->{'name'} = $name->[0];
+				$temp->{'wikipedia'} = $name->[1];
 			}
 			
-			$temp->{'mardown_anchor_anchor(name)'} = 
-				mardown_anchor_anchor($temp->{'name'});
+			$temp->{'mardown_anchor(name)'} = 
+				mardown_anchor($temp->{'name'});
 			
 			push $clon->{'names'}, $temp;
 		}
@@ -149,10 +151,11 @@ sub get_clones($)
 				else
 				{
 					$temp->{'name'} = $name->[0];
+					$temp->{'wikipedia'} = $name->[1];
 				}
 				
-				$temp->{'mardown_anchor_anchor(name)'} = 
-					mardown_anchor_anchor($temp->{'name'});
+				$temp->{'mardown_anchor(name)'} = 
+					mardown_anchor($temp->{'name'});
 				
 				push $clon->{'names'}, $temp;
 			}

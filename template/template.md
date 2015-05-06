@@ -11,14 +11,14 @@ All games that were added in last month are highlighted like this.
 Some of these games aren't reimplementations but evolution of original ones, which were eventually open sourced.
 
 {{#original_games}}
-- [{{name}}]({{mardown_anchor_link(name)}})
+- [{{name}}]({{mardown_link(name)}})
 {{/original_games}}
 
 -------
 
 {{#clones}}
 {{#names}}
-## {{{mardown_anchor_anchor(name)}}}{{name}}
+## {{{mardown_anchor(name)}}}[{{name}}](http://en.wikipedia.org/wiki/{{wikipedia}})
 {{/names}}
 
 -------
