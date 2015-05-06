@@ -120,6 +120,7 @@ sub get_clones($)
 		my $names = $item->{'names'};
 		
 		my $temp = undef;
+		my $temp2 = undef;
 		
 		if (defined($name))
 		{
@@ -182,6 +183,20 @@ sub get_clones($)
 			{
 				$temp->{'repo'} = $reimplementation->{'repo'};
 			}
+			if (defined($reimplementation->{'media'}) && ref($reimplementation->{'media'}) ne "HASH")
+			{
+				$temp->{'images'} = [];
+				
+				foreach my $media(@{$reimplementation->{'media'}})
+				{
+					if (defined($media->{'image'}))
+					{
+						$temp2 = {};
+						$temp2->{'image'} = $media->{'image'};
+						push $temp->{'images'}, $temp2;
+					}
+				}
+			}
 			
 			push $clon->{'games'}, $temp;
 		}
@@ -204,6 +219,21 @@ sub get_clones($)
 			if (defined($clone->{'repo'}))
 			{
 				$temp->{'repo'} = $clone->{'repo'};
+			}
+			
+			if (defined($clone->{'media'}) && ref($clone->{'media'}) ne "HASH")
+			{
+				$temp->{'images'} = [];
+				
+				foreach my $media(@{$clone->{'media'}})
+				{
+					if (defined($media->{'image'}))
+					{
+						$temp2 = {};
+						$temp2->{'image'} = $media->{'image'};
+						push $temp->{'images'}, $temp2;
+					}
+				}
 			}
 			
 			push $clon->{'games'}, $temp;
