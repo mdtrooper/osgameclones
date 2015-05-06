@@ -18,7 +18,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 {{#clones}}
 {{#names}}
-## {{{mardown_anchor(name)}}}[{{name}}]{{#wikipedia}}(http://en.wikipedia.org/wiki/{{wikipedia}}){{/wikipedia}}
+## {{{mardown_anchor(name)}}}{{#wikipedia}}[{{/wikipedia}}{{name}}{{#wikipedia}}]{{/wikipedia}}{{#wikipedia}}(http://en.wikipedia.org/wiki/{{wikipedia}}){{/wikipedia}}
 {{/names}}
 
 -------
