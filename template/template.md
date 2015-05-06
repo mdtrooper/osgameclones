@@ -21,6 +21,12 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 ## {{{mardown_anchor(name)}}}{{#wikipedia}}[{{/wikipedia}}{{name}}{{#wikipedia}}]{{/wikipedia}}{{#wikipedia}}(http://en.wikipedia.org/wiki/{{wikipedia}}){{/wikipedia}}
 {{/names}}
 
+{{#games}}
+- {{#url}}[{{/url}}{{name}}{{#url}}]{{/url}}{{#url}}({{url}}){{/url}}
+{{#info}}  - {{info}}{{/info}}
+{{#repo}}  - Repository: [{{repo}}]({{repo}}){{/repo}}
+{{/games}}
+
 -------
 
 {{/clones}}

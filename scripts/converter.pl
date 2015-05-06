@@ -161,6 +161,54 @@ sub get_clones($)
 			}
 		}
 		
+		my $reimplementations = $item->{'reimplementations'};
+		
+		$clon->{'games'} = [];
+		
+		foreach my $reimplementation(@{$reimplementations})
+		{
+			$temp = undef;
+			
+			$temp->{'name'} = $reimplementation->{'name'};
+			if (defined($reimplementation->{'url'}))
+			{
+				$temp->{'url'} = $reimplementation->{'url'};
+			}
+			if (defined($reimplementation->{'info'}))
+			{
+				$temp->{'info'} = $reimplementation->{'info'};
+			}
+			if (defined($reimplementation->{'repo'}))
+			{
+				$temp->{'repo'} = $reimplementation->{'repo'};
+			}
+			
+			push $clon->{'games'}, $temp;
+		}
+		
+		my $clones = $item->{'clones'};
+		
+		foreach my $clone(@{$clones})
+		{
+			$temp = undef;
+			
+			$temp->{'name'} = $clone->{'name'};
+			if (defined($clone->{'url'}))
+			{
+				$temp->{'url'} = $clone->{'url'};
+			}
+			if (defined($clone->{'info'}))
+			{
+				$temp->{'info'} = $clone->{'info'};
+			}
+			if (defined($clone->{'repo'}))
+			{
+				$temp->{'repo'} = $clone->{'repo'};
+			}
+			
+			push $clon->{'games'}, $temp;
+		}
+		
 		push @return, $clon;
 	}
 	
@@ -178,6 +226,7 @@ my $json_data;
 $json_data->{'original_games'} = get_original_games($data);
 $json_data->{'clones'} = get_clones($data);
 
+#~ print Dumper($data);
 #~ print Dumper($json_data);
 
 #~ print $template;
