@@ -96,6 +96,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Descent 2](#descent-2)
 - [DesertStrike: Return to the Gulf](#desertstrike-return to the gulf)
 - [Diablo](#diablo)
+- [Dodger](#dodger)
 - [Doom](#doom)
 - [Doom II](#doom-ii)
 - [Heretic](#heretic)
@@ -386,6 +387,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Escape Velocity](#escape-velocity)
 - [Falcon](#falcon)
 - [Lemmings](#lemmings)
+- [The Lost Vikings](#the-lost vikings)
 - [Mario Kart](#mario-kart)
 - [Master of Orion Series](#master-of orion series)
 - [Micro Machines](#micro-machines)
@@ -1273,6 +1275,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [freeablo](http://freeablo.org/)
   - active development, needs game data, C++
   - Repository: [https://github.com/wheybags/freeablo](https://github.com/wheybags/freeablo)
+  - Images
+
+-------
+
+## <a name="dodger"></a>[Dodger](http://en.wikipedia.org/wiki/http://www.mobygames.com/game/win3x/dodger)
+
+- dodger-remake
+  - halted development, C++, no specified licence
+  - Repository: [https://github.com/funchal/dodger-remake](https://github.com/funchal/dodger-remake)
   - Images
 
 -------
@@ -4468,6 +4479,19 @@ Some of these games aren't reimplementations but evolution of original ones, whi
   - active development, playable, C++
   - Repository: [https://github.com/SimonN/Lix](https://github.com/SimonN/Lix)
   - Images
+
+-------
+
+## <a name="the-lost vikings"></a>The Lost Vikings
+
+- [freeVikings](http://freevikings.wz.cz/)
+  - sporadic development, Ruby, GPL2
+  - Repository: [git://git.code.sf.net/p/freevikings/git](git://git.code.sf.net/p/freevikings/git)
+  - Images
+    - [http://a.fsdn.com/con/app/proj/freevikings/screenshots/186371.jpg](http://a.fsdn.com/con/app/proj/freevikings/screenshots/186371.jpg)
+    - [http://a.fsdn.com/con/app/proj/freevikings/screenshots/186373.jpg](http://a.fsdn.com/con/app/proj/freevikings/screenshots/186373.jpg)
+    - [http://a.fsdn.com/con/app/proj/freevikings/screenshots/199282.jpg](http://a.fsdn.com/con/app/proj/freevikings/screenshots/199282.jpg)
+    - [http://a.fsdn.com/con/app/proj/freevikings/screenshots/186375.jpg](http://a.fsdn.com/con/app/proj/freevikings/screenshots/186375.jpg)
 
 -------
 
