@@ -40,6 +40,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Atomix](#atomix)
 - [AstroMenace](#astromenace)
 - [Astrosmash](#astrosmash)
+- [Awesomenauts](#awesomenauts)
 - [Babaliba](#babaliba)
 - [Baldur&#39;s Gate series](#baldurs-gate series)
 - [Icewind Dale series](#icewind-dale series)
@@ -48,6 +49,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Barbarian: The Ultimate Warrior](#barbarian-the ultimate warrior)
 - [Battle Chess](#battle-chess)
 - [Battle City](#battle-city)
+- [Bejeweled](#bejeweled)
 - [Bermuda Syndrome](#bermuda-syndrome)
 - [Betrayal at Krondor](#betrayal-at krondor)
 - [Blade Runner](#blade-runner)
@@ -57,6 +59,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Bomberman](#bomberman)
 - [Dynablaster](#dynablaster)
 - [Boulder Dash](#boulder-dash)
+- [Bratwurst](#bratwurst)
 - [Bubble Bobble](#bubble-bobble)
 - [BurgerTime](#burgertime)
 - [バーガータイム](#バーガータイム)
@@ -71,6 +74,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Cadaver](#cadaver)
 - [Caesar 3](#caesar-3)
 - [Call to Power II](#call-to power ii)
+- [Candy Crush Saga](#candy-crush saga)
 - [Cannon Fodder](#cannon-fodder)
 - [Carmageddon](#carmageddon)
 - [Catacomb II](#catacomb-ii)
@@ -79,13 +83,16 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [ChuChu Rocket!](#chuchu-rocket!)
 - [Circus Atari](#circus-atari)
 - [Clonk](#clonk)
+- [Commando](#commando)
 - [Commander Keen Series](#commander-keen series)
 - [Command &amp; Conquer](#command-&amp; conquer)
 - [Command &amp; Conquer: Red Alert](#command-&amp; conquer red alert)
 - [Dune 2000](#dune-2000)
+- [Contra](#contra)
 - [Cookie Clicker](#cookie-clicker)
 - [Crazy Cars](#crazy-cars)
 - [Creatures](#creatures)
+- [Crystal Quest](#crystal-quest)
 - [Curse of the Azure Bonds](#curse-of the azure bonds)
 - [Cytadela](#cytadela)
 - [C-Dogs](#c-dogs)
@@ -96,7 +103,9 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Descent 2](#descent-2)
 - [DesertStrike: Return to the Gulf](#desertstrike-return to the gulf)
 - [Diablo](#diablo)
+- [Digimon World](#digimon-world)
 - [Dodger](#dodger)
+- [Dogs of War](#dogs-of war)
 - [Doom](#doom)
 - [Doom II](#doom-ii)
 - [Heretic](#heretic)
@@ -114,19 +123,20 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Echochrome](#echochrome)
 - [Mugen Kairō](#mugen-kairō)
 - [無限回廊](#無限回廊)
+- [Encounter](#encounter)
 - [Entombed!](#entombed!)
 - [Escape from Colditz](#escape-from colditz)
 - [Eye of the Beholder II](#eye-of the beholder ii)
 - [Elasto Mania](#elasto-mania)
 - [The Elder Scrolls II: Daggerfall](#the-elder scrolls ii daggerfall)
 - [The Elder Scrolls III: Morrowind](#the-elder scrolls iii morrowind)
+- [Emperor of the Fading Suns](#emperor-of the fading suns)
 - [Exile](#exile)
 - [Blades of Exile](#blades-of exile)
 - [Exolon](#exolon)
 - [F-1 Spirit](#f-1-spirit)
 - [F-Zero](#f-zero)
 - [Fade to Black](#fade-to black)
-- [Fall Down](#fall-down)
 - [Fallout 2](#fallout-2)
 - [Fallout 3: Van Buren](#fallout-3 van buren)
 - [Flappy Bird](#flappy-bird)
@@ -137,9 +147,12 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Football Manager](#football-manager)
 - [Forsaken](#forsaken)
 - [FreeSpace 2](#freespace-2)
+- [Frog!](#frog!)
+- [Back To Nature](#back-to nature)
 - [Frogs and Flies](#frogs-and flies)
 - [Frog Bog](#frog-bog)
 - [Frogger](#frogger)
+- [Galaxian](#galaxian)
 - [Geometry Wars](#geometry-wars)
 - [Gish](#gish)
 - [Gladiator](#gladiator)
@@ -159,6 +172,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Halls of the Things](#halls-of the things)
 - [Hardwar](#hardwar)
 - [Heart of Darkness](#heart-of darkness)
+- [Heavy Smash](#heavy-smash)
 - [Hexen II](#hexen-ii)
 - [Heroes of Might and Magic II](#heroes-of might and magic ii)
 - [Heroes of Might and Magic III](#heroes-of might and magic iii)
@@ -181,6 +195,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Jump &#39;n Bump](#jump-n bump)
 - [Jumping Jack](#jumping-jack)
 - [Jumpman](#jumpman)
+- [Kid Chameleon](#kid-chameleon)
 - [Knights](#knights)
 - [Knights and Merchants](#knights-and merchants)
 - [Kula World](#kula-world)
@@ -206,6 +221,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [The Maze of Galious](#the-maze of galious)
 - [Medal of Honor: Allied Assault](#medal-of honor allied assault)
 - [Monty Mole](#monty-mole)
+- [Mortal Kombat](#mortal-kombat)
 - [The Need for Speed](#the-need for speed)
 - [Night Stalker](#night-stalker)
 - [Outcast](#outcast)
@@ -213,6 +229,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [アウト ラン](#アウト-ラン)
 - [Auto Ran](#auto-ran)
 - [Oxyd](#oxyd)
+- [Pac-Man](#pac-man)
 - [Populous: The Beginning](#populous-the beginning)
 - [Portal](#portal)
 - [Prince of Persia](#prince-of persia)
@@ -235,6 +252,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [MegaMan](#megaman)
 - [Millipede](#millipede)
 - [Minecraft](#minecraft)
+- [Movie Business](#movie-business)
 - [Nebulus](#nebulus)
 - [Nether Earth](#nether-earth)
 - [Neverwinter Nights](#neverwinter-nights)
@@ -251,9 +269,12 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Panzer General](#panzer-general)
 - [Paradroid](#paradroid)
 - [Paratrooper](#paratrooper)
+- [Phantasy](#phantasy)
+- [Pipe Mania](#pipe-mania)
 - [Pokémon](#pokémon)
 - [Pushover](#pushover)
 - [Puzznic / Brix](#puzznic- brix)
+- [Q*bert](#q*bert)
 - [R-Type](#r-type)
 - [Railroad_Tycoon](#railroad_tycoon)
 - [Rampart](#rampart)
@@ -262,6 +283,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Rescue!](#rescue!)
 - [Rick Dangerous](#rick-dangerous)
 - [Rise of the Triad](#rise-of the triad)
+- [River Raid](#river-raid)
 - [The Adventures of Robbo](#the-adventures of robbo)
 - [Road Fighter](#road-fighter)
 - [Robotfindskitten](#robotfindskitten)
@@ -273,11 +295,13 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Scorched Earth](#scorched-earth)
 - [Scramble](#scramble)
 - [Shadowgrounds: Survivor](#shadowgrounds-survivor)
+- [Simon](#simon)
 - [Skool Daze](#skool-daze)
 - [Space Rangers 2: Dominators](#space-rangers 2 dominators)
 - [Strike Commander](#strike-commander)
 - [Sensible Soccer](#sensible-soccer)
 - [Sensitive](#sensitive)
+- [The Sentinel](#the-sentinel)
 - [Seven Kingdoms](#seven-kingdoms)
 - [Shining Force II](#shining-force ii)
 - [Sid Meier&#39;s Alpha Centauri](#sid-meiers alpha centauri)
@@ -293,6 +317,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Solar Fox](#solar-fox)
 - [Sopwith](#sopwith)
 - [Space Invaders](#space-invaders)
+- [Space Rangers](#space-rangers)
 - [Speedball 2](#speedball-2)
 - [Star Control 2](#star-control 2)
 - [Star Trek: Voyager – Elite Force](#star-trek voyager – elite force)
@@ -300,10 +325,12 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Stunt Car Racer](#stunt-car racer)
 - [Stars!](#stars!)
 - [Star Castle](#star-castle)
+- [Star Wars (1983 arcade game)](#star-wars (1983 arcade game))
 - [Starshatter](#starshatter)
 - [Stunts](#stunts)
 - [4D Sports Driving](#4d-sports driving)
 - [Styx](#styx)
+- [Supaplex](#supaplex)
 - [Super Cars](#super-cars)
 - [Super Foul Egg](#super-foul egg)
 - [Super Mario](#super-mario)
@@ -335,10 +362,12 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Transport Tycoon](#transport-tycoon)
 - [Transport Tycoon Deluxe](#transport-tycoon deluxe)
 - [Tranz Am](#tranz-am)
+- [Tron](#tron)
 - [Turrican](#turrican)
 - [Tyrian](#tyrian)
 - [Ugh!](#ugh!)
 - [Ultima Online](#ultima-online)
+- [Ultima II: The Revenge of the Enchantress](#ultima-ii the revenge of the enchantress)
 - [Ultima IV](#ultima-iv)
 - [Ultima VI](#ultima-vi)
 - [The Savage Empire](#the-savage empire)
@@ -348,10 +377,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Uncharted Waters](#uncharted-waters)
 - [Uninvited](#uninvited)
 - [Utopia](#utopia)
+- [Vlak](#vlak)
+- [Viper](#viper)
 - [Warlords II](#warlords-ii)
+- [Warcraft: Orcs &amp; Humans](#warcraft-orcs &amp; humans)
 - [Warcraft II](#warcraft-ii)
 - [Warzone 2100](#warzone-2100)
+- [Willow](#willow)
 - [Wing Commander: Privateer](#wing-commander privateer)
+- [Wizard of Wor](#wizard-of wor)
 - [Wizardry](#wizardry)
 - [Wolfenstein 3D](#wolfenstein-3d)
 - [Spear of Destiny](#spear-of destiny)
@@ -359,12 +393,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [World of Goo](#world-of goo)
 - [X-COM: UFO Defence](#x-com-ufo defence)
 - [UFO: Enemy Unknown](#ufo-enemy unknown)
+- [X-It](#x-it)
 - [Xenon 2 Megablast](#xenon-2 megablast)
 - [XPilot](#xpilot)
 - [Legend of Zelda](#legend-of zelda)
 - [Legend of Zelda - A Link to the Past](#legend-of zelda - a link to the past)
 - [Z](#z)
 - [Zoop](#zoop)
+- [Zombie Apocalypse](#zombie-apocalypse)
+- [Zork](#zork)
 - [Zuma](#zuma)
 - [A-Train](#a-train)
 - [Age of Empires](#age-of empires)
@@ -373,6 +410,7 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Artemis: Spaceship Bridge Simulator](#artemis-spaceship bridge simulator)
 - [Battle Isle series](#battle-isle series)
 - [Battle Zone](#battle-zone)
+- [Brain Blasters](#brain-blasters)
 - [Breakout](#breakout)
 - [Civilization](#civilization)
 - [Civilization II](#civilization-ii)
@@ -385,16 +423,17 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Elite](#elite)
 - [Elite II](#elite-ii)
 - [Escape Velocity](#escape-velocity)
+- [Fall Down](#fall-down)
 - [Falcon](#falcon)
 - [Lemmings](#lemmings)
 - [The Lost Vikings](#the-lost vikings)
+- [Lotus Esprit Turbo Challenge](#lotus-esprit turbo challenge)
 - [Mario Kart](#mario-kart)
 - [Master of Orion Series](#master-of orion series)
 - [Micro Machines](#micro-machines)
 - [Microsoft Flight Simulator](#microsoft-flight simulator)
 - [Microsoft Train Simulator](#microsoft-train simulator)
 - [Missle Command](#missle-command)
-- [Mortal Kombat](#mortal-kombat)
 - [Similar to Natural Selection](#similar-to natural selection)
 - [NetHack](#nethack)
 - [Nexuiz](#nexuiz)
@@ -481,8 +520,8 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 ## <a name="achtung,-die kurve!"></a>Achtung, die Kurve!
 
 - [Zatacka](http://zatacka.sourceforge.net/)
-  - halted development, C++, GPL
-  - Repository: [http://garr.dl.sourceforge.net/project/zatacka/zatacka/0.1.8/zatacka-0.1.8_src.tar.gz](http://garr.dl.sourceforge.net/project/zatacka/zatacka/0.1.8/zatacka-0.1.8_src.tar.gz)
+  - halted development, C, SDL, GPL
+  - Repository: [https://github.com/simenheg/zatackax/](https://github.com/simenheg/zatackax/)
   - Images
     - [http://zatacka.sourceforge.net/img/sc1.jpg](http://zatacka.sourceforge.net/img/sc1.jpg)
     - [http://zatacka.sourceforge.net/img/sc2.jpg](http://zatacka.sourceforge.net/img/sc2.jpg)
@@ -718,6 +757,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="awesomenauts"></a>Awesomenauts
+
+- BlakedAwesomenaughts
+  - active development, (JavaScript &amp; PHP), MIT
+  - Repository: [https://github.com/zombieman1041/BlakedAwesomenaughts](https://github.com/zombieman1041/BlakedAwesomenaughts)
+  - Images
+
+-------
+
 ## <a name="babaliba"></a>[Babaliba](http://en.wikipedia.org/wiki/Dinamic Software)
 
 - [Babaliba](http://compiler.speccy.org/index.php?lang=eng&amp;game=babaliba)
@@ -786,6 +834,10 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 ## <a name="battle-city"></a>[Battle City](http://en.wikipedia.org/wiki/Battle City (video game))
 
+- BattleCity2014
+  - sporadic development, (C++, Ogre3D and EntityX), no specified licence
+  - Repository: [https://github.com/ggc87/BattleCity2014](https://github.com/ggc87/BattleCity2014)
+  - Images
 - [Battle City](http://battlecity.org/)
   - sporadic development, playable, C++
   - Repository: [https://github.com/Deceth/Battle-City](https://github.com/Deceth/Battle-City)
@@ -795,6 +847,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [TZOD (Tank Zone Of Death)](https://code.google.com/p/tzod/)
   - sporadic development, C++ &amp; Lua, GPL3
   - Repository: [https://code.google.com/p/tzod/](https://code.google.com/p/tzod/)
+  - Images
+
+-------
+
+## <a name="bejeweled"></a>Bejeweled
+
+- biju-game
+  - halted development &amp; WIP, (JavaScript &amp; CraftJS), no specified licence
+  - Repository: [https://github.com/CrociDB/biju-game](https://github.com/CrociDB/biju-game)
   - Images
 
 -------
@@ -937,6 +998,19 @@ Some of these games aren't reimplementations but evolution of original ones, whi
   - active development, TypeScript, no specified licence
   - Repository: [https://github.com/lutzroeder/digger](https://github.com/lutzroeder/digger)
   - Images
+- boulder-dash
+  - active development, Java, no specified licence
+  - Repository: [https://github.com/valeriansaliou/boulder-dash](https://github.com/valeriansaliou/boulder-dash)
+  - Images
+
+-------
+
+## <a name="bratwurst"></a>[Bratwurst](http://en.wikipedia.org/wiki/http://www.mobygames.com/game/bratwurst)
+
+- bratwurst
+  - halted development, Lisp, GPL2
+  - Repository: [https://github.com/sabetts/bratwurst](https://github.com/sabetts/bratwurst)
+  - Images
 
 -------
 
@@ -1014,6 +1088,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Civilization: Call To Power 2 Source Project](http://ctp2.darkdust.net/)
   - C, custom licence
   - Repository: [https://ctp2.darkdust.net/svn/](https://ctp2.darkdust.net/svn/)
+  - Images
+
+-------
+
+## <a name="candy-crush saga"></a>Candy Crush Saga
+
+- CookieCrunch
+  - sporadic development, Swift, basic copyright licence
+  - Repository: [https://github.com/renatomcamilio/CookieCrunch](https://github.com/renatomcamilio/CookieCrunch)
   - Images
 
 -------
@@ -1103,6 +1186,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="commando"></a>Commando
+
+- CommandoJS
+  - halted development, (HTML &amp; JavaScript), MIT
+  - Repository: [https://github.com/commandojs/CommandoJS](https://github.com/commandojs/CommandoJS)
+  - Images
+
+-------
+
 ## <a name="commander-keen series"></a>[Commander Keen Series](http://en.wikipedia.org/wiki/Commander Keen)
 
 - [Commander Genius](http://clonekeenplus.sourceforge.net/)
@@ -1140,6 +1232,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="contra"></a>[Contra](http://en.wikipedia.org/wiki/Contra (video game))
+
+- Contra_remake
+  - halted development, C++, GPL2
+  - Repository: [https://github.com/EmileSonneveld/Contra_remake](https://github.com/EmileSonneveld/Contra_remake)
+  - Images
+
+-------
+
 ## <a name="cookie-clicker"></a>Cookie Clicker
 
 - CookieClickerRemake
@@ -1164,6 +1265,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Open Creatures](http://creatures.wikia.com/wiki/Openc2e)
   - development halted, forks present, C++, LGPL
   - Repository: [https://github.com/ccdevnet/openc2e](https://github.com/ccdevnet/openc2e)
+  - Images
+
+-------
+
+## <a name="crystal-quest"></a>Crystal Quest
+
+- CrystalQuest
+  - active development, (HTML5, JavaScript &amp; JQuery), MIT
+  - Repository: [https://github.com/haleymt/CrystalQuest](https://github.com/haleymt/CrystalQuest)
   - Images
 
 -------
@@ -1258,6 +1368,10 @@ Some of these games aren't reimplementations but evolution of original ones, whi
     - [http://www.dxx-rebirth.com/wp-content/gallery/d1x-rebirth_screenshots/thumbs/thumbs_d1xr-scrn17.jpg](http://www.dxx-rebirth.com/wp-content/gallery/d1x-rebirth_screenshots/thumbs/thumbs_d1xr-scrn17.jpg)
     - [http://www.dxx-rebirth.com/wp-content/gallery/d2x-rebirth_screenshots/thumbs/thumbs_d2xr-scrn1.jpg](http://www.dxx-rebirth.com/wp-content/gallery/d2x-rebirth_screenshots/thumbs/thumbs_d2xr-scrn1.jpg)
     - [http://www.dxx-rebirth.com/wp-content/gallery/d2x-rebirth_screenshots/thumbs/thumbs_d2xr-scrn18.jpg](http://www.dxx-rebirth.com/wp-content/gallery/d2x-rebirth_screenshots/thumbs/thumbs_d2xr-scrn18.jpg)
+- Kathodos
+  - halted development, (Python &amp; Panda3D), no specified licence
+  - Repository: [https://github.com/jvranish/Kathodos](https://github.com/jvranish/Kathodos)
+  - Images
 
 -------
 
@@ -1279,11 +1393,29 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="digimon-world"></a>Digimon World
+
+- Digimon World Project Ark
+  - active development, (Unity &amp; C#), no specified licence
+  - Repository: [https://github.com/dwProjectark/Digimon-World-Project-Ark](https://github.com/dwProjectark/Digimon-World-Project-Ark)
+  - Images
+
+-------
+
 ## <a name="dodger"></a>[Dodger](http://en.wikipedia.org/wiki/http://www.mobygames.com/game/win3x/dodger)
 
 - dodger-remake
   - halted development, C++, no specified licence
   - Repository: [https://github.com/funchal/dodger-remake](https://github.com/funchal/dodger-remake)
+  - Images
+
+-------
+
+## <a name="dogs-of war"></a>[Dogs of War](http://en.wikipedia.org/wiki/Dogs of War (1989 video game))
+
+- openDOW
+  - sporadic development, C, GPL3
+  - Repository: [https://github.com/rofl0r/openDOW](https://github.com/rofl0r/openDOW)
   - Images
 
 -------
@@ -1407,6 +1539,10 @@ Some of these games aren't reimplementations but evolution of original ones, whi
   - Repository: [https://app.box.com/shared/zkh7rt575i](https://app.box.com/shared/zkh7rt575i)
   - Images
     - [http://pygame.org/shots/1615.png](http://pygame.org/shots/1615.png)
+- [duckhunt](http://grosbouddha.github.io/duckhunt/)
+  - halted development, JavaScript, no specified licence
+  - Repository: [https://github.com/grosbouddha/duckhunt](https://github.com/grosbouddha/duckhunt)
+  - Images
 
 -------
 
@@ -1505,6 +1641,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="encounter"></a>[Encounter](http://en.wikipedia.org/wiki/Encounter (video game))
+
+- [encounter](http://air.github.io/encounter/)
+  - active development, (JavaScript &amp; WebGL), no specified licence
+  - Repository: [https://github.com/air/encounter](https://github.com/air/encounter)
+  - Images
+
+-------
+
 ## <a name="entombed!"></a>[Entombed!](http://en.wikipedia.org/wiki/Entombed (1982 video game))
 
 - [Entombed!](http://www.newbreedsoftware.com/entombed/)
@@ -1565,6 +1710,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
     - [http://wiki.openmw.org/images/thumb/6/6b/017-5.png/180px-017-5.png](http://wiki.openmw.org/images/thumb/6/6b/017-5.png/180px-017-5.png)
     - [http://wiki.openmw.org/images/thumb/8/84/24-1.png/180px-24-1.png](http://wiki.openmw.org/images/thumb/8/84/24-1.png/180px-24-1.png)
     - [http://wiki.openmw.org/images/thumb/c/cc/Screenshot003_zps07cee328.jpg/180px-Screenshot003_zps07cee328.jpg](http://wiki.openmw.org/images/thumb/c/cc/Screenshot003_zps07cee328.jpg/180px-Screenshot003_zps07cee328.jpg)
+
+-------
+
+## <a name="emperor-of the fading suns"></a>Emperor of the Fading Suns
+
+- Phoenix
+  - active development, Java, no specified licence
+  - Repository: [https://github.com/joulupunikki/Phoenix](https://github.com/joulupunikki/Phoenix)
+  - Images
 
 -------
 
@@ -1633,15 +1787,6 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="fall-down"></a>[Fall Down](http://en.wikipedia.org/wiki/https://www.mobygames.com/game/fall-down)
-
-- ativayeban
-  - active development, C, GPL2
-  - Repository: [https://github.com/Nebuleon/ativayeban](https://github.com/Nebuleon/ativayeban)
-  - Images
-
--------
-
 ## <a name="fallout-2"></a>Fallout 2
 
 - [Falltergeist](https://falltergeist.org/)
@@ -1671,6 +1816,11 @@ Some of these games aren't reimplementations but evolution of original ones, whi
   - active development, MelonJS, MIT
   - Repository: [https://github.com/ellisonleao/clumsy-bird](https://github.com/ellisonleao/clumsy-bird)
   - Images
+- Hocoslamfy
+  - halted development, C, SDL, GPL
+  - Repository: [https://github.com/Nebuleon/hocoslamfy](https://github.com/Nebuleon/hocoslamfy)
+  - Images
+    - [http://www.gcw-zero.com/images/articles/hocoslamfy-score-shown-2.png](http://www.gcw-zero.com/images/articles/hocoslamfy-score-shown-2.png)
 
 -------
 
@@ -1748,6 +1898,16 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="frog!"></a>[Frog!](http://en.wikipedia.org/wiki/http://www.mobygames.com/game/frog)
+## <a name="back-to nature"></a>[Back To Nature](http://en.wikipedia.org/wiki/http://www.mobygames.com/game/frog)
+
+- back-to-nature-c64-remake
+  - multi-platform, active development, Java, no specified licence
+  - Repository: [https://github.com/gborp/back-to-nature-c64-remake](https://github.com/gborp/back-to-nature-c64-remake)
+  - Images
+
+-------
+
 ## <a name="frogs-and flies"></a>Frogs and Flies
 ## <a name="frog-bog"></a>Frog Bog
 
@@ -1766,6 +1926,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
   - Repository: [svn://svn.code.sf.net/p/froggix/code/trunk](svn://svn.code.sf.net/p/froggix/code/trunk)
   - Images
     - [https://a.fsdn.com/con/app/proj/froggix/screenshots/208238.jpg](https://a.fsdn.com/con/app/proj/froggix/screenshots/208238.jpg)
+
+-------
+
+## <a name="galaxian"></a>Galaxian
+
+- galaxian
+  - halted development, ActionScript, no specified licence
+  - Repository: [https://github.com/codedrive/galaxian](https://github.com/codedrive/galaxian)
+  - Images
 
 -------
 
@@ -1951,6 +2120,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - HODe
   - unknown development status, C++
   - Repository: [https://code.google.com/p/tombexcavator/source/browse/branches/v0/unsorted/hode-20090726](https://code.google.com/p/tombexcavator/source/browse/branches/v0/unsorted/hode-20090726)
+  - Images
+
+-------
+
+## <a name="heavy-smash"></a>[Heavy Smash](http://en.wikipedia.org/wiki/http://www.mobygames.com/game/arcade/heavy-smash)
+
+- open-heavy-smash
+  - halted development, C++, no specified licence
+  - Repository: [https://github.com/namelivia/open-heavy-smash](https://github.com/namelivia/open-heavy-smash)
   - Images
 
 -------
@@ -2193,6 +2371,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
   - Repository: [http://www.oldskool.org/pc/jumpman/jump_src.zip](http://www.oldskool.org/pc/jumpman/jump_src.zip)
   - Images
     - [http://www.oldskool.org/pc/jumpman/level01.gif](http://www.oldskool.org/pc/jumpman/level01.gif)
+
+-------
+
+## <a name="kid-chameleon"></a>[Kid Chameleon](http://en.wikipedia.org/wiki/Kid Chameleon (video game))
+
+- KidChameleonRemake
+  - active development, C#, no specified licence#
+  - Repository: [https://github.com/mp1011/KidChameleonRemake](https://github.com/mp1011/KidChameleonRemake)
+  - Images
 
 -------
 
@@ -2455,6 +2642,20 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="mortal-kombat"></a>Mortal Kombat
+
+- [OpenMortal](http://apocalypse.rulez.org/~upi/Mortal/)
+  - sporadic development, C++
+  - Repository: [http://openmortal.cvs.sourceforge.net/openmortal/openmortal/](http://openmortal.cvs.sourceforge.net/openmortal/openmortal/)
+  - Images
+    - [http://openmortal.sourceforge.net/images/screenshot3.jpg](http://openmortal.sourceforge.net/images/screenshot3.jpg)
+- [mk.js](http://mk.mgechev.com/)
+  - halted development and basic game, JavaScript, MIT
+  - Repository: [https://github.com/mgechev/mk.js](https://github.com/mgechev/mk.js)
+  - Images
+
+-------
+
 ## <a name="the-need for speed"></a>The Need for Speed
 
 - [OpenNFS1](http://1amstudios.com/projects/opennfs1/)
@@ -2515,6 +2716,35 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="pac-man"></a>Pac-Man
+
+- pacman
+  - halted development, JavaScript, custom licence
+  - Repository: [https://github.com/daleharvey/pacman](https://github.com/daleharvey/pacman)
+  - Images
+- [pacman-canvas](http://pacman.platzh1rsch.ch/)
+  - active development, HTML5, minimal licence
+  - Repository: [https://github.com/platzhersh/pacman-canvas](https://github.com/platzhersh/pacman-canvas)
+  - Images
+- [pacman](http://harto.github.io/pacman/)
+  - sporadic development, HTML5, no specified licence
+  - Repository: [https://github.com/harto/pacman](https://github.com/harto/pacman)
+  - Images
+- [Google Pacman](http://livingston.github.io/google-pacman/)
+  - finished development, (JavaScript &amp; Flash), no specified licence
+  - Repository: [https://github.com/livingston/google-pacman](https://github.com/livingston/google-pacman)
+  - Images
+- [pacman](http://hacman.herokuapp.com/)
+  - active development, (HTM5 &amp; JavaScript), no specified licence
+  - Repository: [https://github.com/snozza/pacman](https://github.com/snozza/pacman)
+  - Images
+- [jspacman-canvas](http://www.hg10101.com/games/jspacman/index.html)
+  - halted development, (JavaScript &amp; HTML canvas), no specified licence
+  - Repository: [https://github.com/hguillermo/jspacman-canvas](https://github.com/hguillermo/jspacman-canvas)
+  - Images
+
+-------
+
 ## <a name="populous:-the beginning"></a>Populous: The Beginning
 
 - [OpenPop](http://openpopulous.sourceforge.net/)
@@ -2542,6 +2772,10 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 ## <a name="prince-of persia"></a>Prince of Persia
 
+- [SDLPoP](http://www.popot.org/get_the_games.php?game=SDLPoP)
+  - C, active development, playable
+  - Repository: [https://github.com/NagyD/SDLPoP](https://github.com/NagyD/SDLPoP)
+  - Images
 - [FreePrince](http://www.princed.org/downloads/FreePrince/FP_2011-12-04_source.tar.gz)
   - C, halted development, mostly playable
 
@@ -2796,6 +3030,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="movie-business"></a>[Movie Business](http://en.wikipedia.org/wiki/http://www.gamebase64.com/game.php?id=14674&amp;d=18)
+
+- [movbizz](http://movbizz.sebbmeyer.de/)
+  - active development, (PHP &amp; JavaScript), MIT
+  - Repository: [https://github.com/teruk/movbizz](https://github.com/teruk/movbizz)
+  - Images
+
+-------
+
 ## <a name="nebulus"></a>[Nebulus](http://en.wikipedia.org/wiki/Nebulus (video game))
 
 - [Toppler](http://toppler.sourceforge.net/)
@@ -2914,6 +3157,24 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="phantasy"></a>[Phantasy](http://en.wikipedia.org/wiki/Phantasy Star (video game))
+
+- Phantasy
+  - halted development, Java, no specified licence
+  - Repository: [https://github.com/rafael-esper/Phantasy](https://github.com/rafael-esper/Phantasy)
+  - Images
+
+-------
+
+## <a name="pipe-mania"></a>Pipe Mania
+
+- Pipemania
+  - halted development, (Lua &amp; Love3D), no specified licence
+  - Repository: [https://github.com/zbiq13/Pipemania](https://github.com/zbiq13/Pipemania)
+  - Images
+
+-------
+
 ## <a name="pokémon"></a>[Pokémon](http://en.wikipedia.org/wiki/Pokémon (video game series))
 
 - [Tuxemon](http://www.tuxemon.org/)
@@ -2950,6 +3211,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="q*bert"></a>Q*bert
+
+- ReQbert
+  - halted development, HTML 5, GPL3
+  - Repository: [https://github.com/leonicolas/ReQbert](https://github.com/leonicolas/ReQbert)
+  - Images
+
+-------
+
 ## <a name="r-type"></a>R-Type
 
 - [R-Type Clone from Octobinz](http://www.mobuware.net/nintendo-ds-os/r-type-clone-from-octobinz-nds-and-source-code-get-free-170451.html)
@@ -2983,6 +3253,10 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - Escalade
   - halted development, Scala, no specified licence
   - Repository: [https://github.com/mdr/escalade](https://github.com/mdr/escalade)
+  - Images
+- Rampart-Android
+  - active development, Android, Java, no specified licence
+  - Repository: [https://github.com/dwmai/Rampart-Android](https://github.com/dwmai/Rampart-Android)
   - Images
 
 -------
@@ -3034,6 +3308,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Rise of the Triad for Linux](http://icculus.org/rott/)
   - sporadic development, C
   - Repository: [http://svn.icculus.org/rott/trunk/](http://svn.icculus.org/rott/trunk/)
+  - Images
+
+-------
+
+## <a name="river-raid"></a>River Raid
+
+- Ruby Raid
+  - halted development, Ruby, no specified licence
+  - Repository: [https://github.com/zukunftsalick/ruby-raid](https://github.com/zukunftsalick/ruby-raid)
   - Images
 
 -------
@@ -3159,6 +3442,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="simon"></a>[Simon](http://en.wikipedia.org/wiki/Simon (game))
+
+- asdf
+  - finished development, JavaScript, MIT
+  - Repository: [https://github.com/TimPietrusky/asdf](https://github.com/TimPietrusky/asdf)
+  - Images
+
+-------
+
 ## <a name="skool-daze"></a>Skool Daze
 
 - [pyskool](http://pyskool.ca/)
@@ -3216,6 +3508,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="the-sentinel"></a>[The Sentinel](http://en.wikipedia.org/wiki/The Sentinel (video game))
+
+- sentinel
+  - sporadic development, JavaFX, no specified licence
+  - Repository: [https://github.com/virgo47/sentinel](https://github.com/virgo47/sentinel)
+  - Images
+
+-------
+
 ## <a name="seven-kingdoms"></a>[Seven Kingdoms](http://en.wikipedia.org/wiki/Seven Kingdoms (computer game))
 
 - [Seven Kingdoms: Ancient Adversaries](http://7kfans.com/)
@@ -3253,6 +3554,10 @@ Some of these games aren't reimplementations but evolution of original ones, whi
     - [http://www.freecol.org/images/screen-0.8.0-small.jpg](http://www.freecol.org/images/screen-0.8.0-small.jpg)
     - [http://www.freecol.org/images/java-shot15_s.jpg](http://www.freecol.org/images/java-shot15_s.jpg)
     - [http://www.freecol.org/images/java-shot16_s.jpg](http://www.freecol.org/images/java-shot16_s.jpg)
+- cc94
+  - required original files, active development, (C++ &amp; Python), AGPL3
+  - Repository: [https://github.com/institution/cc94](https://github.com/institution/cc94)
+  - Images
 
 -------
 
@@ -3396,6 +3701,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="space-rangers"></a>[Space Rangers](http://en.wikipedia.org/wiki/Space Rangers (video game))
+
+- Space-rangers
+  - halted development, C#, no specified licence
+  - Repository: [https://github.com/markevich/Space-rangers](https://github.com/markevich/Space-rangers)
+  - Images
+
+-------
+
 ## <a name="speedball-2"></a>Speedball 2
 
 - [Speedball 2](http://bringerp.free.fr/RE/Speedball2/remake.php5)
@@ -3473,6 +3787,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="star-wars (1983 arcade game)"></a>[Star Wars (1983 arcade game)](http://en.wikipedia.org/wiki/Star Wars (1983 video game))
+
+- Star-Wars-III
+  - finished development (only level 3 implemented), Python, GPL2
+  - Repository: [https://github.com/abhinandanramesh/Star-Wars-III](https://github.com/abhinandanramesh/Star-Wars-III)
+  - Images
+
+-------
+
 ## <a name="starshatter"></a>Starshatter
 
 - [starshatter-open](https://code.google.com/p/starshatter-open/)
@@ -3501,6 +3824,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [Styx](http://retrospec.sgn.net/game/styx)
   - halted development, C++, no specified licence
   - Repository: [http://retrospec.sgn.net/users/nwalker/styx/styx.zip](http://retrospec.sgn.net/users/nwalker/styx/styx.zip)
+  - Images
+
+-------
+
+## <a name="supaplex"></a>Supaplex
+
+- splexhd
+  - halted development, C++, GPL2
+  - Repository: [https://github.com/radu124/splexhd](https://github.com/radu124/splexhd)
   - Images
 
 -------
@@ -3543,6 +3875,10 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
   - Images
     - [http://a.fsdn.com/con/app/proj/methane/screenshots/14915.jpg](http://a.fsdn.com/con/app/proj/methane/screenshots/14915.jpg)
+- super-methane-brothers-gx
+  - sporadic development, C++, GPL2, (Wii and GameCube port)
+  - Repository: [https://github.com/carstene1ns/super-methane-brothers-gx](https://github.com/carstene1ns/super-methane-brothers-gx)
+  - Images
 
 -------
 
@@ -3874,6 +4210,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="tron"></a>[Tron](http://en.wikipedia.org/wiki/Tron (video game))
+
+- newtron
+  - halted development, (HTML &amp; JavaScript), no specified licence
+  - Repository: [https://github.com/sursonico/newtron](https://github.com/sursonico/newtron)
+  - Images
+
+-------
+
 ## <a name="turrican"></a>Turrican
 
 - [Hurrican](http://sourceforge.net/p/hurrican/code/HEAD/tree/trunk/)
@@ -3890,6 +4235,13 @@ Some of these games aren't reimplementations but evolution of original ones, whi
   - Repository: [https://bitbucket.org/opentyrian/opentyrian/src](https://bitbucket.org/opentyrian/opentyrian/src)
   - Images
     - [https://bytebucket.org/opentyrian/opentyrian/wiki/opentyrian_torm.png](https://bytebucket.org/opentyrian/opentyrian/wiki/opentyrian_torm.png)
+- [Tyrian Remake](http://www.b3dgs.com/v6/page.php?lang=en&amp;section=tyrian_remake)
+  - sporadic development, Java, GPL2
+  - Repository: [https://github.com/b3dgs/tyrian-remake](https://github.com/b3dgs/tyrian-remake)
+  - Images
+    - [http://www.b3dgs.com/v6/projects/tyrian_remake/screens/1.png](http://www.b3dgs.com/v6/projects/tyrian_remake/screens/1.png)
+    - [http://www.b3dgs.com/v6/projects/tyrian_remake/screens/7.png](http://www.b3dgs.com/v6/projects/tyrian_remake/screens/7.png)
+    - [http://www.b3dgs.com/v6/projects/tyrian_remake/screens/8.png](http://www.b3dgs.com/v6/projects/tyrian_remake/screens/8.png)
 
 -------
 
@@ -3898,6 +4250,10 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - [UGH-remake](https://bitbucket.org/Andy51/ugh-remake)
   - halted development, C, no licence specified
   - Repository: [https://bitbucket.org/Andy51/ugh-remake.git](https://bitbucket.org/Andy51/ugh-remake.git)
+  - Images
+- gosugh
+  - halted development, (Gosu and Chipmunk), MIT
+  - Repository: [https://github.com/Amunds/gosugh](https://github.com/Amunds/gosugh)
   - Images
 
 -------
@@ -3909,6 +4265,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
   - Repository: [http://iris.schattenkind.net/svn/trunk/](http://iris.schattenkind.net/svn/trunk/)
   - Images
     - [http://www.iris2.de/images/thumb/4/48/20080106175329_188.png/256px-20080106175329_188.png](http://www.iris2.de/images/thumb/4/48/20080106175329_188.png/256px-20080106175329_188.png)
+
+-------
+
+## <a name="ultima-ii: the revenge of the enchantress"></a>Ultima II: The Revenge of the Enchantress
+
+- UiirJS
+  - halted development, JavaScript, no specified licence
+  - Repository: [https://github.com/ObviouslySorna/UiirJS](https://github.com/ObviouslySorna/UiirJS)
+  - Images
 
 -------
 
@@ -3991,11 +4356,38 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="vlak"></a>[Vlak](http://en.wikipedia.org/wiki/http://www.mobygames.com/game/dos/vlak)
+
+- Train
+  - sporadic development, Java, BSD
+  - Repository: [https://github.com/nenadalm/Train](https://github.com/nenadalm/Train)
+  - Images
+
+-------
+
+## <a name="viper"></a>[Viper](http://en.wikipedia.org/wiki/http://www.mobygames.com/game/amiga/viper__)
+
+- viper
+  - halted development, CoffeeScript, no specified licence
+  - Repository: [https://github.com/bjornharrtell/viper](https://github.com/bjornharrtell/viper)
+  - Images
+
+-------
+
 ## <a name="warlords-ii"></a>[Warlords II](http://en.wikipedia.org/wiki/Warlords (game series)#Warlords II)
 
 - [FreeLords](http://sourceforge.net/projects/freelords/)
   - active development, Java, GPL2
   - Repository: [git://git.code.sf.net/p/freelords/git](git://git.code.sf.net/p/freelords/git)
+  - Images
+
+-------
+
+## <a name="warcraft:-orcs & humans"></a>Warcraft: Orcs &amp; Humans
+
+- warcraft-remake
+  - needs original files, active development, Java, GPL2
+  - Repository: [https://github.com/b3dgs/warcraft-remake](https://github.com/b3dgs/warcraft-remake)
   - Images
 
 -------
@@ -4022,6 +4414,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="willow"></a>[Willow](http://en.wikipedia.org/wiki/Willow (arcade game))
+
+- Willow-Game-Remake
+  - halted development, C++, only basic copyright
+  - Repository: [https://github.com/Kwintenvdb/Willow-Game-Remake](https://github.com/Kwintenvdb/Willow-Game-Remake)
+  - Images
+
+-------
+
 ## <a name="wing-commander: privateer"></a>Wing Commander: Privateer
 
 - [Privateer - Gemini Gold](http://privateer.sourceforge.net/)
@@ -4032,6 +4433,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
     - [http://privateer.sourceforge.net/images/screenshot-1-approaching-planet-preview.png](http://privateer.sourceforge.net/images/screenshot-1-approaching-planet-preview.png)
     - [http://privateer.sourceforge.net/images/screenshot-4-merchant-guild-room-preview.png](http://privateer.sourceforge.net/images/screenshot-4-merchant-guild-room-preview.png)
     - [http://privateer.sourceforge.net/images/screenshot-5-kilrathi-gothri-explosion-preview.png](http://privateer.sourceforge.net/images/screenshot-5-kilrathi-gothri-explosion-preview.png)
+
+-------
+
+## <a name="wizard-of wor"></a>Wizard of Wor
+
+- KnightOfWor
+  - active development, Java, no specified licence
+  - Repository: [https://github.com/Sanguinik/KnightOfWor](https://github.com/Sanguinik/KnightOfWor)
+  - Images
 
 -------
 
@@ -4119,6 +4529,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="x-it"></a>[X-It](http://en.wikipedia.org/wiki/http://www.mobygames.com/game/x-it)
+
+- xit
+  - halted development, JavaScript, no specified licence
+  - Repository: [https://github.com/qfel13/xit](https://github.com/qfel13/xit)
+  - Images
+
+-------
+
 ## <a name="xenon-2 megablast"></a>Xenon 2 Megablast
 
 - [Phavon](http://phavon.sourceforge.net/)
@@ -4156,9 +4575,9 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 ## <a name="legend-of zelda - a link to the past"></a>[Legend of Zelda - A Link to the Past](http://en.wikipedia.org/wiki/The Legend of Zelda: A Link to the Past)
 
-- [lttp](http://www.grapefruitjs.org/demos/lttp/)
-  - halted development, (JavaScript, WebGL), MIT
-  - Repository: [https://github.com/englercj/lttp](https://github.com/englercj/lttp)
+- lttp-phaser
+  - active development, (JavaScript, WebGL &amp; Phaser), MIT
+  - Repository: [https://github.com/englercj/lttp-phaser](https://github.com/englercj/lttp-phaser)
   - Images
 
 -------
@@ -4185,6 +4604,24 @@ Some of these games aren't reimplementations but evolution of original ones, whi
   - Repository: [http://gamesoft.ca/bestgames/zoop_src.zip](http://gamesoft.ca/bestgames/zoop_src.zip)
   - Images
     - [http://gamesoft.ca/bestgames/images/zoop_java.png](http://gamesoft.ca/bestgames/images/zoop_java.png)
+
+-------
+
+## <a name="zombie-apocalypse"></a>[Zombie Apocalypse](http://en.wikipedia.org/wiki/http://www.mobygames.com/game/zombie-apocalypse)
+
+- zombie apocalypse html5
+  - halted development &amp; WIP, (HTML5 &amp; JavaScript), no specified licence
+  - Repository: [https://github.com/andymason/zombie-apocalypse-html5](https://github.com/andymason/zombie-apocalypse-html5)
+  - Images
+
+-------
+
+## <a name="zork"></a>Zork
+
+- Zorkish
+  - sporadic development, C++, no specified licence
+  - Repository: [https://github.com/jgardner8/Zorkish](https://github.com/jgardner8/Zorkish)
+  - Images
 
 -------
 
@@ -4287,6 +4724,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
     - [http://bzflag.org/resources/screenshots/collaborator_2010_01_t.jpg](http://bzflag.org/resources/screenshots/collaborator_2010_01_t.jpg)
     - [http://bzflag.org/resources/screenshots/h2o_02_t.jpg](http://bzflag.org/resources/screenshots/h2o_02_t.jpg)
     - [http://bzflag.org/resources/screenshots/the_battle_of_midway_island_01_t.jpg](http://bzflag.org/resources/screenshots/the_battle_of_midway_island_01_t.jpg)
+
+-------
+
+## <a name="brain-blasters"></a>[Brain Blasters](http://en.wikipedia.org/wiki/http://www.mobygames.com/game/brain-blasters)
+
+- brainblast
+  - sporadic development, C++, no specified licence
+  - Repository: [https://github.com/Zitrax/brainblast](https://github.com/Zitrax/brainblast)
+  - Images
 
 -------
 
@@ -4458,6 +4904,20 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
+## <a name="fall-down"></a>[Fall Down](http://en.wikipedia.org/wiki/http://www.mobygames.com/game/fall-down)
+
+- ativayeban
+  - halted development, C, SDL, GPL2, playable
+  - Repository: [https://github.com/Nebuleon/ativayeban](https://github.com/Nebuleon/ativayeban)
+  - Images
+- Falling Time
+  - halted development, C, SDL2, GPL2, playable
+  - Repository: [https://github.com/cxong/FallingTime](https://github.com/cxong/FallingTime)
+  - Images
+    - [https://raw.github.com/cxong/fallingtime/master/screenshot.png](https://raw.github.com/cxong/fallingtime/master/screenshot.png)
+
+-------
+
 ## <a name="falcon"></a>[Falcon](http://en.wikipedia.org/wiki/Falcon (video game series))
 
 - FreeFalcon
@@ -4492,6 +4952,15 @@ Some of these games aren't reimplementations but evolution of original ones, whi
     - [http://a.fsdn.com/con/app/proj/freevikings/screenshots/186373.jpg](http://a.fsdn.com/con/app/proj/freevikings/screenshots/186373.jpg)
     - [http://a.fsdn.com/con/app/proj/freevikings/screenshots/199282.jpg](http://a.fsdn.com/con/app/proj/freevikings/screenshots/199282.jpg)
     - [http://a.fsdn.com/con/app/proj/freevikings/screenshots/186375.jpg](http://a.fsdn.com/con/app/proj/freevikings/screenshots/186375.jpg)
+
+-------
+
+## <a name="lotus-esprit turbo challenge"></a>[Lotus Esprit Turbo Challenge](http://en.wikipedia.org/wiki/Lotus (series))
+
+- RacerJS
+  - halted development, JavaScript, MIT
+  - Repository: [https://github.com/onaluf/RacerJS](https://github.com/onaluf/RacerJS)
+  - Images
 
 -------
 
@@ -4563,16 +5032,6 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 
 -------
 
-## <a name="mortal-kombat"></a>Mortal Kombat
-
-- [OpenMortal](http://apocalypse.rulez.org/~upi/Mortal/)
-  - sporadic development, C++
-  - Repository: [http://openmortal.cvs.sourceforge.net/openmortal/openmortal/](http://openmortal.cvs.sourceforge.net/openmortal/openmortal/)
-  - Images
-    - [http://openmortal.sourceforge.net/images/screenshot3.jpg](http://openmortal.sourceforge.net/images/screenshot3.jpg)
-
--------
-
 ## <a name="similar-to natural selection"></a>[Similar to Natural Selection](http://en.wikipedia.org/wiki/Natural Selection (video game))
 
 - [Unvanquished](http://www.unvanquished.net/)
@@ -4612,6 +5071,10 @@ Some of these games aren't reimplementations but evolution of original ones, whi
 - Torrega Race
   - active development, (LÖVE, Lua), GPL3
   - Repository: [https://github.com/andwj/torrega](https://github.com/andwj/torrega)
+  - Images
+- Omega Race Remake
+  - sporadic development, C#, no specified licence
+  - Repository: [https://github.com/UnforgivenRob/Omega-Race-Remake](https://github.com/UnforgivenRob/Omega-Race-Remake)
   - Images
 
 -------
@@ -4818,6 +5281,10 @@ Some of these games aren't reimplementations but evolution of original ones, whi
     - [http://www.zneaker.com/joomla/images/stories/imagebrowser/Orbit-Hopper/m8.png](http://www.zneaker.com/joomla/images/stories/imagebrowser/Orbit-Hopper/m8.png)
     - [http://www.zneaker.com/joomla/images/stories/imagebrowser/Orbit-Hopper/m3.png](http://www.zneaker.com/joomla/images/stories/imagebrowser/Orbit-Hopper/m3.png)
     - [http://www.zneaker.com/joomla/images/stories/imagebrowser/Orbit-Hopper/m7.png](http://www.zneaker.com/joomla/images/stories/imagebrowser/Orbit-Hopper/m7.png)
+- spaceroads
+  - halted development, (C++ &amp; Ogre3D), only basic copyright licence
+  - Repository: [https://github.com/sebhd/spaceroads](https://github.com/sebhd/spaceroads)
+  - Images
 
 -------
 
